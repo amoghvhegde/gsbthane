@@ -1,0 +1,13 @@
+{
+    "name": "example/php-project",
+    "description": "A basic PHP project",
+    "type": "project",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+} 

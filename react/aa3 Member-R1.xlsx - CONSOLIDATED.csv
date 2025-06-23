@@ -1,0 +1,1262 @@
+Mem-code,Title,Surname,First name,Middle name,Adr-code,Dt-join,Rcpt-no,Off-bearer,Mem-type,Expired,PAN,Bldg,Street,Area,City,Pin,Tel,Group,Print,hcb,eid
+1,Mr.,Pai,Shailesh,Devadas,1,4/16/1997,0023/1428,y,L,,ACYPP6848B * 5605-4657-1090,"Sri Krishna Apt, 001,","Pipeline Road,","Louiswadi,",Thane,400604,"9820422672,9820847419",lw,,,y
+2,Mr.,Baliga,Ramesh,R.,2,4/3/1995,0002/0098,,P,,,"Harshidda Park, A4,304/305,","Glady Alwaris Road,",Pawar Nagar,Thane,400610,~1,vvlp,n,,
+3,Mr.,Gadiyar,Arvind,P.,186,10/31/2001,0055/1364,,P,,,"Om Mangal Murti CHS, 101,","Nuri Darga Rd,","Makhmali Talao,",Thane,400602,"9820004464,9820567873",chr,,,y
+4,Mr.,Gadiyar,Govind,P.,3,10/31/2001,0046/1145,,P,,,"Navnath CHS, 203,","Charai Rd,",Opp Ahilya Devi Baug,Thane,400601,9833890250,chr,,,y
+5,Mr.,Kamath,Madhav,S.,5,12/25/1988,"0043/0934,68/3361 19.3.2001",y,P,,ABCPK6073C * 8887-2410-6340,"Siddhachal, Ph-6,","3B/104, Nr Vasant Vihar,","Pokhran Rd No.2,",Thane,400610,"9870484521msk,9870484522vij",vvlp,,,y
+6,Ms.,Kamath,Vanita,V.,6,4/6/1998,0043/2122,,P,,,Shifted or New Addr not available,~,~,~,~,~1,~,n,,
+7,Mr.,Kamath,Venkatesh,Puttur,7,4/22/1997,0036/1751,,P,,,"Malkamh Apt, 3,",Dr.Lazarus Road,Charai,Thane,400602,~1,chr,n,,
+8,Mr.,Nayak,Sunil,Eknath,8,12/7/2014,0065/1293,,P,,AAAPN5336L,"Prem Nagar CHS,","E-113, 1st Flr,","Kopri Colony,",Thane(E),400603,9004437031,kop,,,y
+9,Mr.,Nayak,Gopalkrishna,Venkatesh,9,4/13/2002,0081/2012,,P,,,"Devendu Soc, 1/6,","Siddhivinayak Temple Road,","Mithbunder,Opp Sadguru Garden CHS,",Thane(E),400603,"9830661573,9930178219",kop,,,
+10,Mr.,Nayak,Vikas,Sadanand,10,4/15/2002,0075/1854,,P,,AABPN1837F-AAAFS6463K,"Sarika,","A1,","Bhakti Mandir Road,",Thane,400602,"9819717307,9819137167",pp,,msk,y
+11,Mr.,Nayak,Janardhan,Sadanand,10,4/15/2002,0075/1853,,P,x,,"Sarika,","A1,","Bhakti Mandir Road,",Thane,400602,"9819717307,9819137167",pp,,msk,y
+12,Mr.,Nayak,Vishant,Vishwanath,474,4/7/2002,0067/1163,,P,,,"Eden Wood, Cedar, 7-B,","Dr. Gladys Alvares Marg,","Off Pokhran Rd-2,",Thane,400601,~1,vvlp,,,
+13,Mr.,Pai,Prakash,Pandurang,12,1/10/1988,0044/0972,,P,,AADPP3614J,"Harshidda Park, B2,602,","Glady Alwaris Road,",Pawar Nagar,Thane,400610,"9819553563veena,9833457933prksh",vvlp,,,y
+14,Ms.,Pai,Veena,Prakash,12,1/16/2000,0052/2860,,P,,,"Harshidda Park, B2,602,","Glady Alwaris Road,",Pawar Nagar,Thane,400610,"9819553563veena,9833457933prksh",vvlp,,,y
+15,Mr.,Prabhu,Pundalik,Ramdas,13,11/1/2000,0018/0436,,P,,,"Laxmi Narayan Residency,E-901,","Opp Neelkanth Heights, Upavan,","Off Pokhran Rd No.2,",Thane,400610,"9833657592,21737333",vvlp,,,y
+16,Ms.,Prabhu,Bhavana,Bhaskar,14,1/10/2002,0058/1439b,,P,,,"Saket Towers,","T-3/102,",Majiwada,Thane,400601,"25332269,~1",rab,,,
+17,Mr.,Prabhu,Bhaskar,Narasimha,14,1/10/2002,0058/1439a,,P,x,,"Saket Towers,","T-3/102,",Majiwada,Thane,400601,"25332269,~1",rab,,,
+18,Mr.,Prabhu,Nagesh,M.,15,1/27/2002,0059/1459,,P,,AASPP4738L,"Vasant Vihar, Arjun,","401/77,","Pokran Rd No.2,",Thane,400610,"9920040731,9867925927",vvlp,,yk,
+19,Mr.,Padiyar,Ramanand,Ramdas,16,4/14/2002,"0081/2023(P),85/4209 18.4.94(LM)",,P,,AAIPP7606F,"Acme Ozone, Oakwood, 2002,","Khewra Circle, Glady Alwares Rd,","Opp Shubharambha Soc, Manpada,",Thane,400607,9820554304,vvlp,,yk,y
+20,Dr.,Pai,Ganesh,G.,17,4/22/2002,0061/1506,,P,,,"Glandele, Almanda, 131,","Dr Gladys Alvares Rd,","Off Pokhran Rd 2,",Thane,400601,"25399361,~eml",vvlp,n,,y
+21,Dr.,Kamath,Nikhil,.,265,10/10/2004,0157/3922,,L,,,"Wimbledon Park, Bldg.7/202,","Opp JK School,Pokran Rd.No.1,","Vartak Ngr,",Thane,400606,"55921859,25393322",vngr,n,,
+22,Mr.,Shenoy,Gopalkrishna,Padmanabhana,19,4/5/1998,0043/2127,,P,,gopal-ADXPS9910M;Gita-AJUPS4968C,"Dosti Vihar, Vithika, B-1503,","B-1503,","Vartak Nagar,",Thane,400606,"9920776766gop, 9819003366gita",vngr,,,y
+23,Mr.,Shenoy,Raghavendra,.,20,1/10/2002,0058/1437a,,P,,AHCPS3125P,"Hiranandani Park-1, 2101,","Preston,","Patlipada,",Thane,400607,9820031874,gb,,yk,y
+24,Ms.,Shenoy,Vrinda,Raghvendra,20,1/10/2002,0058/1437b,,P,,,"Hiranandani Park-1, 2101,","Preston,","Patlipada,",Thane,400607,9820031874,gb,,yk,y
+25,Mr.,Shanbhag,Vijay,Gopalkrishna,21,1/20/2002,0058/1443,,P,,,"Prestige Garden, B/101,","Nr.Nitin Company,","Panchpakhadi,",Thane,400601,"9819063030,9892344799",pp,,,y
+26,Mr.,Shenoy,Sandeep,Bhaskar,22,4/15/2002,0061/1505,,P,,AUHPS1900Q,"Vasant Lawns, Pristine,","Bldg-6, 1903,","Off Pokhran Rd No.2,",Thane,400601,9867099113,cm,,yk,y
+27,Mr.,Acharya,S.,R.,23,2/2/1988,0045/0977,,L,,,"Rutu Tower, E4-304,","Opp commissioner'sBunglow,","Patlipada, Off G.B.Road,",Thane,400607,"9869779149,25861816",gb,n,,
+28,Mr.,Achar,Satish,S.,24,10/13/1988,0045/0994,,L,,,"Vikas Complex, B5,403,","LBS Marg,","Castle Mill,",Thane,400601,9819441924,cm,,yk,
+29,Mr.,Aroskar,S.,N.,25,11/1/1988,0043/0926,,L,,,"Ravi Compound,Sahyadri CHS,","10/2,","Panchpakhadi,",Thane,400602,25366318,pp,n,,
+30,Ms.,Achar,Maya,Satish,24,3/10/2000,0071/3504,,L,,,"Vikas Complex, B5,403,","LBS Marg,","Castle Mill,",Thane,400601,9819441924,cm,,yk,
+31,Mr.,Bhandarkar,Babu,Narayan,26,1/3/1988,0033/0686,,L,,,"Ashar Estate, C2-1105,","Shree Nagar,","Wagle Estate,",Thane,400604,9833796097,wag,,,y
+32,Mr.,Bhat,Ramanath,S;,27,1/10/1988,0051/1129,,L,x,,"Laxman Nagar CHS, B-2,","Panchpakhadi,","Nr.Aradhana Theatre,",Thane,400602,~1,3p,,,
+33,Mr.,Bhat,K.,P.,28,1/17/1988,0046/1005,,L,x,,"Shantiniketan,","E-2,","Kopri,",Thane(E),400603,~1,kop,,,
+34,Mr.,Bhat,Ramchandra,Pandurang B.,29,3/12/1988,0045/0983,,L,x,ABGPB4278C,"Krishna Niwas, 6, 2nd Flr,","Opp Santosh Apt,","Shivaji Ngr, Naupada,",Thane,400602,"25425876,9892279024,9987980938",nau,,,
+35,Mr.,Bhat,R.,V.,30,3/26/1988,0045/0987,,L,,,"Crescent CHS,","102,","Panchpakhadi,",Thane,400602,9821149216,pp,,,
+36,Mr.,Baliga,Gopalkrishna,B.,31,3/31/1988,0041/0899,,L,,AAFPB1214L,"Shankar Dham Plaza, Opp.502-B","Mehul Talkies,","Mulund,",Mumbai,400080,"25640145,9870339330",ot,,yk,
+37,Mr.,Borkar,Suresh,D.,32,4/14/1988,0045/0993,,L,,,"Pinak Gold, 102,","Ram Maruti Road,","1st Cross Road,",Thane,400602,~1,nau,,,
+38,Mr.,Bhakta,N.,G.,33,7/16/1988,0054/1201,,L,x,,"Laxmi Niwas,","Mahagiri,","Ratibunder,",Thane,400601,~1,mhgr,,,
+39,Mr.,Bhat,Guru,Prasad,34,10/10/1989,0078/1871,,L,,,"Oswal Apt, Pushpa,","15,",Near Mental Hospital,Thane,400604,~1,dam,n,,
+40,Mr.,Bhat,Vedavyas,D.,35,2/3/2002,0022/1423,,L,,,"Jeevan Dharma, C/108,","Nr Fire Brigade,","Kopri,",Thane(E),400603,"9820726261,7506065142",kop,,,y
+41,Mr.,Bhat,Damodar,Gopal,36,3/29/1990,0082/2086,,L,x,,"Sandeep Niwas,","3,","Kopri Village,","Thane(E),",400603,~1,kop,n,,
+42,Mr.,Bhat,Devdas,Vasant,41,1/19/1992,"0056/2765,0182/4542 28.7.05",,P,,AARPB2209B,"Soham Park, Shiv Tirth, 231,","Twr No.6, Hari Om Nagar,","Mulund (E),",Mumbai,400081,"25320807,9820069318,25323070",kop,,,y
+43,Mr.,Bhandarkar,Upendra,S.,38,2/21/1990,0043/0939,y,L,,ADWPB6592M * 7529-5992-6292,"Palava City, Oceania Casario, A-102,",Off Kalyan-,"Shil Road,",Dombivli,421204,9833483344,ot,,,y
+44,Mr.,Bhat,A.,P.,39,2/21/1990,0043/0942,,L,,,"Akash Ganga,","Twr-2, Flat# 23,","2nd Rabodi,",Thane,400601,25422079,rab,n,,
+45,Mr.,Bhagwat,Mahesh,H.,167,4/20/2008,0287/7172,,P,,ACLPB1855F -,"Ashar Sapphire, A-2004,","Dhokali Road,",Opp D-Mart,Thane,400607,"9004490193,9224148810",mw,,,y
+46,Mr.,Bhat,P.,P.,6,4/3/1990,0075/1735,,L,,,Shifted or New Addr not available,~,~,~,~,~1,~,n,,
+47,Mr.,Bhat,Prakash,Shridhar,40,3/24/1991,0091/3545,,L,,,"ST Employees CHS,","Sri Laxmi Tower, 302,","Kolbad Road,",Thane,400601,"25477220,9867571739,9867344932",kol,,yk,
+48,Mr.,Bhat,Vasant,H.,41,2/11/1990,0069/1600,,L,x,,"Soham Park, Shiv Tirth, 231,","Twr No.6, Hari Om Nagar,","Mulund (E),",Mumbai,400081,"25320807,9820069318,25323070",kop,,,y
+49,Mr.,Bhat,Vithaldas,Srinivas,42,6/18/1992,0056/1255,,L,,,"Srikunj,B-201,","Kharegaon,","Kalwa,",Thane,400605,~1,kal,,,
+50,Mr.,Bhat,Ravindra,Malpe,43,10/5/1992,0064/3170,y,L,,AACPB1467A * 0847-8571-2374,"Kalika Heights, 1202,","Raigad Ali Road,","Almeida Road,",Thane,400601,"9702397626, 9619580251rajni",pp,,,y
+51,Mr.,Bhakta,B.,R.,6,8/2/1993,0061/3049,,L,,,Shifted or New Addr not available,~,~,~,~,~1,~,n,,
+52,Mr.,Bhat,Prabhakar,P.,45,10/17/1993,0077/3717,,L,,,"Brahmand, Ph-1,102/103,Bldg-4,","Ghodbunder Road,","Azad Nagar,",Thane,400607,9820261829,gb,n,,y
+53,Mr.,Beknolkar,J.,A.,46,10/22/1993,0079/3917,,L,x,,"Wagh Bunglow,","Ram Maruti Road,","Naupada,",Thane,400602,~1,nau,,,
+54,Mr.,Baliga,Jagdish,.,47,11/23/1993,0069/3408,,L,,ABGPB4505J * 2658-1737-6279/shantiAIOPB4551F,"Millennium Park, Ratnashree,","Twr-1, 204, Hariom Nagar,","Off EE Highway,",Mulund (E),400081,"9820559966bvj,9820888833shnti",kop,,,y
+55,Mr.,Bhat,Ganesh,A,48,10/8/1994,0078/3389,,L,,,"Chandra Nagar,","2nd Flr,","Naupada,",Thane,400602,~1,nau,n,,
+56,Mr.,Bhat,Prashant,Ramnath,49,10/15/1994,0092/4563,,L,,,"Mohan Darshan, 206,","Shivaji Udyog Nagar,","Next to Jakat Naka,",Dombivli (E),421201,7710908937,ot,n,,y
+57,Ms.,Bhat,Shashikala,Ramanand,50,10/28/2007,0265/6621&71/3507 12.3.2000,,P,,ACNPB7787L,"Vardhaman Tower, 502,","Bhaskar Colony,","Naupada,",Thane,400602,"9892750805,9987764793",nau,n,,y
+58,Mr.,Bhat,Taranath,Varadraj,51,4/9/1995,0091/4544,,L,,,"Yamuna Sadan, 12, 1st Flr,","VBP Deshpande Rd,","Vishnunagar,",Thane,400602,25392721,nau,n,,
+59,Mr.,Bhat,Ananth,Vasant,632,2/15/1998,"0047/2304,0182/4543 28.7.05",,P,,,"Kamdhenu, Ganga, 5/73,","Hariom Nagar,","Mulund (E),",Mumbai,400081,9821513181,kop,,,y
+60,Mr.,Bhat,Bhaskar,Ullal,53,2/15/1998,0047/2306,,L,x,,"Kopri Colony,","Nr. Post Office,","Kopri,",Thane(E),400603,~1,kop,n,,
+61,Mr.,Bhandarkar,Ajay,R.,54,10/10/1999,0058/2854,,L,,,"Sri Sai Shraddha CHS, A1-302,","Ghodbunder Road,","Waghbil Naka,",Thane,400601,25381725,gb,n,,
+62,Ms.,Bhandarkar,Vandana,Upendra,38,1/16/2000,0058/2866,,L,,dekora:AAACD6131A,"Palava City, Oceania Casario, A-102,",Off Kalyan-,"Shil Road,",Dombivli,421204,9833483344,ot,,,y
+63,Ms.,Bhat,Meera,Ramchandra,29,1/16/2000,0058/2863,,L,x,,"Krishna Niwas, 6, 2nd Flr,","Opp Santosh Apt,","Shivaji Ngr, Naupada,",Thane,400602,"25425876,9892279024,9987980938",nau,,,
+64,Ms.,Bhat,Vidya,Devdas,41,1/16/2000,0058/2864,,L,,,"Soham Park, Shiv Tirth, 231,","Twr No.6, Hari Om Nagar,","Mulund (E),",Mumbai,400081,"25320807,9820069318,25323070",kop,,,y
+65,Ms.,Bhat,Poornima,Pradeep,619,1/16/2000,0058/2858,,L,,,"Brindavan Soc,","Bldg-21A,","Flt-44,",Thane,400601,25398524,bri,n,,
+66,Mr.,Bhat,Ramanand,P.,50,10/28/2007,0265/6620&85/4244 27.3.95,,P,x,,"Vardhaman Tower, 502,","Bhaskar Colony,","Naupada,",Thane,400602,"9892750805,9987764793",nau,n,,y
+67,Mr.,Bhat,Suresh,H.,56,3/19/2000,0069/3402,,L,,,"Mahabir Villa, 101,","Plot No.22,23,","Sector-9,",New Panvel,410206,"9819768496Vina, Srsh(9769105265,9892637805)",ot,,,y
+68,Mr.,Bhat,Vivekanand,Pundalik,57,10/3/2000,0015/0372,,L,,AKEPB5057GVivek;AIAPB3222BVidya;,"Saraswati Prem Bldg,105-106,","Sweetend Park, Patilwadi, Nr Thanekarwadi,","Nr Hariom Nagar,",Thane (E).,400603,"9820521057,9322871353",kop,,,y
+69,Mr.,Bhat,Umesh,D,58,3/25/2001,0062/0547,,L,,,"Bharat Mahal, D-41,","Nr Fire Brigade,","Kopri,",Thane(E),400603,"25320118,9819198091",kop,,,
+70,Mr.,Baliga,Vivek,.,59,3/27/2001,0035/0861,,L,,AEXPB4778H Sangita,"Neelkanth Heights, Rameshwar,","A-601, Prabhakar Kunte Marg,","Pokhran Rd No.2, Devdaya Ngr,",Thane,400606,"9869269354,9987007027",vngr,,yk,
+71,Mr.,Bhandary,Santosh,Kumar,60,4/2/2001,0031/0756,,L,,,"Varsha CHS, Sunita, B-4,","LBS Marg,","Naupada,",Thane,400602,25414558,dam,n,,
+72,Ms.,Pai (Basrur),Sheela,Pramod,61,10/28/2001,0054/1349,,L,,,"Runwal Nagar, B4/1, Plot 13,","Behind Pratap Cinema,","Narolipada Road, Kolbad,",Thane,400601,"25470986,~1",kol,,yk,
+73,Mr.,Pai (Basrur),Pramod,Narayan,61,10/28/2001,0054/1350,,L,,manjula:ERAPK0892M,"Runwal Nagar, B4/1, Plot 13,","Behind Pratap Cinema,","Narolipada Road, Kolbad,",Thane,400601,"25470986,~1",kol,,yk,
+74,Mr.,Bhat,Subraya,Pandurang B.,29,1/10/2002,0058/1433,,L,x,,"Krishna Niwas, 6, 2nd Flr,","Opp Santosh Apt,","Shivaji Ngr, Naupada,",Thane,400602,"25425876,9892279024,9987980938",nau,,,
+75,Mr.,Bhat,Uday,Shridhar,62,1/10/2002,0058/1434a,,L,,,"Rutu Park, Bldg-E5,","Flt-503,","Nr Brindavan Bus Stop,",Thane,400601,"9869527959,9320592079",bri,n,,
+76,Ms.,Bhat,Vidya,U.,62,1/10/2002,0058/1434b,,L,,,"Rutu Park, Bldg-E5,","Flt-503,","Nr Brindavan Bus Stop,",Thane,400601,"9869527959,9320592079",bri,n,,
+77,Mr.,Bhat,Shridhar,K.,62,1/10/2002,0058/1436a,,L,x,,"Rutu Park, Bldg-E5,","Flt-503,","Nr Brindavan Bus Stop,",Thane,400601,"9869527959,9320592079",bri,n,,
+78,Ms.,Bhat,Heerabai,K.,62,1/10/2002,0058/1436b,,L,x,,"Rutu Park, Bldg-E5,","Flt-503,","Nr Brindavan Bus Stop,",Thane,400601,"9869527959,9320592079",bri,n,,
+79,Mr.,Bhat,Vasudev,S.A.,63,2/5/2002,0059/1469,,L,,,"Drug Employees CHS, 4-B/24,","Opp Raymonds,","Samata Nagar,",Thane,400606,9892665822,vngr,,,y
+80,Mr.,Bhat,Ramchandra,V.,63,2/5/2002,0059/1470,,L,,AGOPB9364N,"Drug Employees CHS, 4-B/24,","Opp Raymonds,","Samata Nagar,",Thane,400606,9892665822,vngr,,,y
+81,Mr.,Baliga,Vaikunt,Padmanabh,64,10/4/2000,0015/0373,,L,,,"Eden Wood, Bay House, 8A,","Dr. Gladys Alvares Marg,","Off Pokhran Rd-2,",Thane,400601,"25891768,~1",vvlp,,,
+82,Mr.,Chitnis,P.,W.,65,8/28/1988,0054/1211,,L,,,"Poornima Bldg,",Nr.Thane Rly,Station,Thane,400602,~1,nau,n,,
+83,Ms.,Desai,Alka,Shankar,66,4/10/2000,0058/2869,,L,,,"Panchganga CHS, B-3,","2nd Rabodi,","Shivaji Nagar,",Thane,400601,25393497,rab,n,,
+84,Ms.,Padiyar,Anju,Prasannanand,949,3/18/2018,0233/4654,,P,,,"Rutu Park, Bldg-D1,","Flt-202,","Nr Brindavan Bus Stop,",Thane,400601,9820747565,bri,,,y
+85,Mr.,Dange,Surendra,Pandurang,67,4/6/2001,0031/0774,,L,,,"Vastu Anand, Bldg.13, 402,","Parsik Nagar, Kharegaon,",Kalwa (E),Thane,400605,"24553745,25346146,9324362141,9821498825",kal,,,y
+86,Mr.,Gujjadi,S.,N.,68,2/9/1988,0045/0979,,L,,,"Sri Narsimha Ashram,","Mahakali Temple Road, Near Post Office,","Gangoli,",Karnataka,576216,8971267395,ot,,,
+87,Dr.,Gadiyar,Ganesh,A.,69,2/14/1988,0047/1042,,L,,,"Laxman Nagar CHS, B-3,","Panchpakhadi,","Nr.Aradhana Theatre,",Thane,400602,"25394748,9969561463",3p,,,
+88,Mr.,Gaitonde,Jayawant,Pandurang,70,10/9/1994,0092/4557,,L,,,"Someshwar CHS,","Block No.8,","Panchpakhadi,",Thane,400602,25363764,pp,n,,
+89,Ms.,Gulwady,Vasanti,R.,71,1/16/2000,0058/2857,,L,,,"Narmada Nivas, 8, 1st Flr,","Nr.Panchganga,",2nd Rabodi,Thane,400601,"25303918,9833317324",rab,n,,
+90,Mr.,Hegde,Ratnakar,Madhav,72,3/27/2001,0035/0867,,L,,ABHPH8156L-Varsha,"Nav Shivam Soc,","10/7,","Yashodhan Nagar,",Thane,400606,9892862887varsha;,vngr,,,y
+91,Ms.,Hegde,Nandini,K.,73,4/1/1988,0037/0793,,L,,,"Neelkanth Valley,","A-2/103,","Dhokali,",Thane,400607,"25893333,8169085466",mw,,,y
+92,Mr.,Hegde,Krishna,A.,73,4/1/1988,0037/0792,,L,x,,"Neelkanth Valley,","A-2/103,","Dhokali,",Thane,400607,"25893333,8169085466",mw,,,y
+93,Mr.,Hemmadi,V.,B.,74,4/3/1990,0075/1737,,L,,,"Ravi Compound,Sahyadri CHS,","3/A-17,","Panchpakhadi,",Thane,400602,25361520,pp,n,,
+94,Mr.,Hegde,Surendra,Venkatesh,75,6/18/1992,0056/1257,,L,,,"Ravi Compound,Kalpataru Apt,","A-24,6th Flr,","Panchpakhadi,",Thane,400602,~1,pp,n,,
+95,Mr.,Hegde,Balchandra,V.,76,6/18/1992,0056/1256,,L,x,,"Monica Apt, 303,","Opp Gurukul Soc,","Panchpakhadi,",Thane,400601,25368039,pp,,,
+96,Mr.,Hegde,Manoranjan,.,77,10/1/1995,0004/0189,,L,,,"Rajdeep Soc, 92/A,","Nr. Malhar Talkies,","Gokhale Road,",Thane,400602,"25403211,9819237132",nau,,,
+97,Mr.,Hegde,Manohar,.,78,10/1/1995,0004/0199,,L,,,"Giridarshan, 405,","Vir Savarkar Path,","Near 3 Petrol Pump,",Thane,400602,"9702299996,9619020286",3p,,,
+98,Mr.,Hegde,Vithal,T.,79,7/7/1998,0043/2129,,L,,,"Mittal Park, Prakrithi Apt,","A-303, Raghunath Nagar, MS Marg,","Wagle Estate,",Thane,400604,"25826728,9892991602",dam,,,y
+99,Mr.,Hegde,Diwakar,V.,80,4/7/2000,0064/3198,,L,,,"Nityanand CHS, A-303,","Near Jnana Sadhana,","Next to Mental Hospital,",Thane,400604,25837908,dam,n,,
+100,Mr.,Hegde,M.,L.,72,3/13/1988,0045/0984,,L,x,,"Nav Shivam Soc,","10/7,","Yashodhan Nagar,",Thane,400606,9892862887varsha;,vngr,,,y
+101,Mr.,Joishy,Vasudev,R.,82,9/27/1998,0036/1770,,L,,,"Sandesh Apt-2, Room No.1,","Kharegaon, Behind Sahakar Bazaar,","Kalwa,",Thane,400605,"25444019,9892503068",kal,n,,y
+102,Mr.,Kamath,Sadanand,Gopal,83,1/10/1988,"0051/1128,0045/988 26.3.88",,L,,,"Vinayak Bhavan, 3/36,","Kolbad Road,","Nr.Pratap Cinema,",Thane,400601,9969206352;9870448100,kol,,yk,y
+103,Mr.,Kamath,A.,G.,84,1/10/1988,"0043/0929,0053/1185 13.3.88",,L,,,"Natraj CHS,","G-2,","Panchpakhadi,",Thane,400602,"25364638,9324274748",pp,n,,
+104,Mr.,Kamath,Yeshwant,Surathkal,85,1/26/1988,0041/0898,y,L,,AIBPK3734G * 8747-4065-5168,"Drug Employees CHS, 2-A/21,","Opp Raymonds,","Samata Nagar,",Thane,400606,9920451491;9920938486ajay;8454941298arpita,vngr,,,y
+105,Mr.,Kamath,Dayanand,H.,86,2/11/1988,0040/0861,,L,,AFBPK8619P * 3057-8964-5702,"Nandanvan CHS,Mukund-3,","Pipeline Road,","Louiswadi,",Thane,400604,9820791127,lw,,,y
+106,Mr.,Kharadpurkar,R.,V.,6,3/24/1988,0042/0917,,L,,,Shifted or New Addr not available,~,~,~,~,~1,~,n,,
+107,Mr.,Kamath,A.,D.,87,3/24/1988,0045/0985,,L,x,,"Lumbini,","A-8,","Vishnunagar,",Thane,400602,~1,nau,,,
+108,Mr.,Kamath,R.,B.,88,3/25/1988,0045/0986,,L,x,,"Devayani CHS, 10,","Baji Prabhu Deshpande Rd,","Naupada,",Thane,400602,~1,nau,,,
+109,Mr.,Kantak,V.,S.,89,10/3/1988,0054/1251,,L,x,,"Shilpali CHS,","Opp Laxman Nagar,","Nr.Aradhana Cinema,Panchpakhadi,",Thane,400602,25369452,3p,n,,
+110,Mr.,Kini,Mithesh,D.,90,10/3/1988,0056/1251,,L,,,"Vijaya Niwas, 12,","Bhaskar Colony,","Naupada,",Thane,400602,~1,nau,n,,
+111,Mr.,Kamath,Dinesh,N.,91,10/20/1988,0059/1343,,L,,,"Jeevan Sahakar CHSL, B-1/301,","Near Parsik Bank, Umed Nagar,","Louiswadi,",Thane,400604,"9819644275mr,9819645385mrs,8976615961arc",lw,,,y
+112,Mr.,Kini,Prabhakar,V.,92,10/20/1988,0059/1347,,L,,AVIPK3978N,"Gaurangi CHS, 1002,","Opp Damani Estate,Behind Euphoria Gym,","Naupada, LBS Marg,",Thane,400602,"9820186924,9833126924",dam,,,y
+113,Mr.,Kamath,Bharat,Anant,93,11/20/1988,0063/1427,,L,,,"Vijay Smruti, 1st Flr,","Veer Sawarkar Marg,","Opp Lokmanya Soc,",Thane,400602,25379226,3p,n,,
+114,Ms.,Kadbett,Sudha,G.,94,4/7/1989,0066/1502,,L,,,"Sundaram Soc,","204,",Panchpakhadi.,Thane,400602,9820300714,pp,n,,
+115,Mr.,Kamath,Dinesh,Vitobha,95,1/27/2002,0059/1462,,L,,ACDPK7130N,"Srirang Soc,Unit-25,H2, E/38,","B-Wing, 3rd Floor,","Opp Vrindavan Bus Stop,",Thane,400601,"9820472224,9869429924",bri,,yk,y
+116,Mr.,Kamath,Devdas,K.,96,2/11/1990,0076/1797,,L,,,"Jyoti Complex, 502, B-5,","Film City Road,","Goregaon (E),",Mumbai,400063,"56002756,9820175581",ot,,,
+117,Mr.,Kudva,Suresh,M.,97,2/16/1990,0043/0938,,L,x,,"Sunita CHS, D-16,","LT Road, Nr. Nakhwa School,","Kopri,","Thane(E),",400603,25324540,kop,,,
+118,Mr.,Kamath,U.,T.,98,3/17/1990,0081/2019,,L,,,"Neelkamal Apt,","16,","Bhaskar Colony,",Thane,400602,~1,nau,n,,
+119,Mr.,Kini,Venkatesh,V.,99,3/22/1990,0082/2066,,L,,,"Hem Sunita CHS, B-401,","LT Rd, Nr. Nakhwa School,","Nr Bank of India, Kopri,","Thane(E),",400603,"25323504,9920763298",kop,,,y
+120,Mr.,Karikurve,Krishnadas,Laxmanrao,100,3/29/1990,"0082/2088, 21/1049 12.9.98",,L,,AAFPK7867E,"Amar Pushpa Kunj,","11,","Kopri Colony,","Thane(E),",400603,9769429769,kop,,,y
+121,Mr.,Kamath,K.,S.N.,101,4/3/1990,0082/2100,,L,,,"C/o.Mrs.Leena M. Borkar,","13/B, Ashwini, Akash Ganga Hsg Cmplx,","2nd Rabodi,",Thane,400601,~1,rab,,,
+122,Mr.,Kini,Radhakrishna,V.,102,4/3/1990,0075/1741,y,L,,AANPK8084D * 2466-8140-5389,"Ganesh Niwas, E-2/11,","1st Flr,","Nr.Ganesh Cinema,",Thane,400601,"25411173,9869489934",chr,,,y
+123,Mr.,Kamath,Balaji,Vishnu,103,9/7/1991,0073/1693,,L,,,"Srirang Soc,","C-1/11,","3rd Flr,",Thane,400601,~1,bri,,,
+124,Mr.,Kamath,K.,K.,6,9/7/1991,0073/1693,,L,,,Shifted or New Addr not available,~,~,~,~,~1,~,n,,
+125,Mr.,Kudva,Sandeep,V.,104,1/19/1992,0056/2766,,L,,,"Kopri Colony,",23/,"819,","Thane(E),",400603,~1,kop,,,
+126,Mr.,Kamath,Ganesh,.,105,1/25/1992,0056/2769,,L,,,"Yogeshwar Apt, 502-A,","Behind Royal Inn Hotel,","Nr.Castle Mill Naka,Old Agra Road,",Thane,400602,9765567775,cm,,,y
+127,Mr.,Kini,Atmaram,.,106,10/3/1992,0088/2400,,L,,,"Ghanshyam Nagar CHS,","1/2,","Tilak Road,","Thane(E),",400603,"25322604,9920137296",kop,n,,
+128,Mr.,Kamath,Dilip,N.,107,10/5/1992,0068/3229,,L,,,"Hiranandani Estate,","Wellington,201,","Off Ghodbunder Road, Patlipada,",Thane,400607,"25862428,9820327125",gb,n,,
+129,Mr.,Kamath,Prabhakarbhau,.,108,10/5/1992,0064/3165,,L,,,"Gabrial Apt, B-31,Sector-4,","Srinagar,","Wagle Estate,",Thane,400604,~1,wag,,,
+130,Mr.,Kulkarni,S.,N.,109,4/1/1993,0062/3071,,L,,,"Sindhu Tirth CHS, A/9,","LBS Marg,","Nr.Makhmali Talao,",Thane,400601,25414311,chr,n,,
+131,Mr.,Kamath,Chandrakant,G.,6,7/23/1993,0061/3030,,L,,,Shifted or New Addr not available,~,~,~,~,~1,~,n,,
+132,Mr.,Kamath,Jayanth,Vithalrao,110,10/11/1993,0081/4011,,L,,,"Casa Bella (Lodha Group),","Regalia, D-506,","Kalyan-Shil Road, Palava,",Dombivli (E),421204,8108181350,mw,,,y
+133,Mr.,Kini,Prabhakar,P.,111,10/11/1993,0081/4003,,L,,,"Raheja Cmplx,Shivsmrithi,","306-3B,","Balkum,",Thane,400608,9833518087,mw,,,y
+134,Mr.,Kudchadkar,Prakash,P.,112,10/11/1993,0081/4010,,L,,,"Raheja Cmplx,Jamuna,","101,","Balkum,",Thane,400608,25343996,mw,n,,
+135,Mr.,Kamath,Bhalchandra,D.,113,10/23/1993,0083/4118,,L,,ACFPK4354E * 8520-0053-0784,"Sunil Raj CHS, C-3,","Kopri Colony,","Nr Kanaiya Ngr,",Thane(E),400603,"9930591783,9833374199",kop,,,y
+136,Ms.,Kamath,Akshatha,.,114,10/24/1993,0084/4172,,L,,,"Eden Enclave Layout, 6-6/14,","Behind Eden Club, Sri Bharti College Rd,","3rd Cross, Nantoor Padavu,",Mangalore,575005,~eml,ot,,,y
+137,Mr.,Kamath,Waman,R.,115,10/24/1993,0084/4186,,L,x,,"Yayathi, 4,","Ramwadi,","Naupada,",Thane,400602,~1,nau,,,
+138,Mr.,Kamath,Dayanand,S.,116,1/25/1994,0077/3822,,L,,ABOPK1471A,"Satguru Elegance, 302,","Opp Rutu Park,","Off RW Sawant Road,",Thane,400601,"9757063735, 9819878451",bri,,yk,y
+139,Mr.,Kamath,S.,V.,117,4/15/1994,0084/3968,,L,,,"Ravi Compound,Anjali CHS,","G-6,","Panchpakhadi,",Thane,400602,"25364382,~1",pp,,,
+140,Mr.,Kamath,Jayawant,P.,118,4/20/1994,0072/3564,,L,,,"Laxmi Ngr CHSL, B-106,","Near Balaji Mandir,","Vartak Nagar,",Thane,400606,9324399126,vngr,,,
+141,Mr.,Kamath,Jagdish,Sanjeev,119,10/9/1994,0076/3795,,L,,,"Pereira Nagar, Bldg No.7-B/64,","Near Khopat Bus Stop,","Khopat Road, Pokhran Road No.1,",Thane-W,400601,"9967592260,7045657980",kol,,yk,y
+142,Mr.,Kamath,Keshav,Ganapathi,120,10/9/1994,0076/3796,,L,,,"Vasant Vihar, Kalpavriksha,","84/305,","Pokran Rd No.2,",Thane,400610,9833503804,vvlp,,,
+143,Ms.,Kulkarni,Vishweshwar,V.,121,3/25/1994,0072/3599,,L,,,"Brindavan Soc,","Bldg-32,","Flt-12,",Thane,400601,9987012254,bri,,,
+144,Mr.,Kamath,K.,S.G.,6,4/5/1995,0006/0280,,L,,,Shifted or New Addr not available,~,~,~,~,~1,~,n,,
+145,Mr.,Kini,Rajesh,V.,122,4/9/1995,0091/4547,,L,,,"Sanman CHS, B/22,","Next to Sahakar Bazar,","Kharegaon,",Kalwa,400605,9819479662,kal,,,y
+146,Mr.,Kini,Ramanand,S.,6,4/9/1995,0085/4247,,L,,,Shifted or New Addr not available,~,~,~,~,~1,~,n,,
+147,Mr.,Kamath,Suresh,S.,124,3/28/1996,0014/0679,,L,,,"Adarsh Nagar,","C-202,",Kolbad,Thane,400601,9819166286,kol,,yk,y
+148,Mr.,Kamath,Rajendra,V,125,7/27/1996,0094/4681,,L,,,"Rajnigandha Upvan CHS, A-503/504,","Gawand Baug,","Pokran Road No.2,",Thane,400610,9987053171,vngr,,,y
+149,Mr.,Kamath,Vittappa,P.S.,126,10/20/1996,0020/0994,,L,,,"Rajnigandha Upvan CHS, 13/4,","Gawand Baug,","Pokran Road No.2,",Thane,400610,25435138,vngr,n,,
+150,Mr.,Kini,Dinesh,V.,127,10/20/1996,0021/1036,,L,,APKPK2602K;ACPPK7361P-Divya;,"Vasant Vihar, Amaltas,","B-65/201,","Pokran Rd No.2,",Thane,400610,"9967584230,9867700580",vvlp,,,y
+151,Mr.,Kini,Gopalkrishna,V.,128,10/20/1996,0020/0995,,L,,,"Crescent CHS,","105,","Panchpakhadi,",Thane,400602,"25361761,9223431565",pp,n,,
+152,Mr.,Kamath,Manjunath,Krishna,129,10/5/1997,0028/1446,,L,,COGPK7517G,"SaiDeep Apt, D-201, Nr.Akash","Ganga, 2nd Rabodi,","Behind Vakratund Soc,Shivaji Nagar,",Thane,400601,"9892912720,8286526284,9869512615",rab,,,y
+153,Mr.,Kamath,Ramakanth,N.,130,4/5/1998,0046/2273,,L,,,"Srirang Soc,","CD-047,","D-3,",Thane,400601,"25332706,9987051038",bri,,,
+154,Mr.,Kanvinde,Ranjit,M.,131,3/25/1999,0036/1785,,L,,,"New Shivalaya CHS, C-502,","Namdeo Wadi,","Panchpakhadi,",Thane,400602,25429282,pp,n,,
+155,Mr.,Kamath,Ganesh,Krishna,132,1/16/2000,0058/2855,,L,,ADHPK1414G,"Sulbha CHS, B/3, 1st Flr,","Dhobi Ali,","Tembhi Naka,",Thane,400601,"9892126042,8652294440",chr,,,y
+156,Ms.,Kamath,Padma,Yeshwant,85,1/16/2000,0058/2856,,L,,,"Drug Employees CHS, 2-A/21,","Opp Raymonds,","Samata Nagar,",Thane,400606,9920451491;9920938486ajay;8454941298arpita,vngr,,,y
+157,Ms.,Kamath,Parvathi,M.,133,1/16/2000,0058/2859,,L,,,"SaiDarshan,","F-3,","2nd Rabodi,",Thane,400601,~1,rab,n,,
+158,Ms.,Kini,Sumana,R.,102,1/24/2000,0058/2867,,L,,,"Ganesh Niwas, E-2/11,","1st Flr,","Nr.Ganesh Cinema,",Thane,400601,"25411173,9869489934",chr,,,y
+159,Ms.,Kamath,Vijaya,M.,5,3/19/2000,0068/3362,y,L,,ARSPK2003L * 6824-7582-4325,"Siddhachal, Ph-6,","3B/104, Nr Vasant Vihar,","Pokhran Rd No.2,",Thane,400610,"9870484521msk,9870484522vij",vvlp,,,y
+160,Mr.,Kamath,Vasudev,M.,135,9/24/2000,0010/0235,,L,,AHIPK1960A? AAMPK9941J,"Vihang Garden,B1/201,","Opp Raymond Fact, Vartak Ngr,","Pokhran Rd-1,",Thane,400606,"9820293258,9819624361",vngr,,,y
+161,Mr.,Kamath,B.,R.K.,136,10/1/2000,0020/0482,,L,,,"Asha Kiran Apt, Flat-107,","39, K R Road,","Basavangudi,",Bangalore,560004,"8026623015,9448466433",ot,n,,
+162,Ms.,Kamath,Vasudha,Vinayak,137,10/2/2000,0019/0460a,,L,,,"Vasant Leela, Mayuri, 302,","Off GB Road,Waghbil,","Kasarvadavli,",Thane,400601,25391368,gb,n,,
+163,Mr.,Kamath,Vinayak,Venkatesh,137,10/2/2000,0019/0460b,,L,,,"Vasant Leela, Mayuri, 302,","Off GB Road,Waghbil,","Kasarvadavli,",Thane,400601,25391368,gb,n,,
+164,Mr.,Kamath,Narahari,Kallianpur,138,10/27/2001,0046/1141,,L,,,"Neelkanth Palms, Royale A/204,","Nr Tatvagyan Vidyapeeth,","Kapurbavdi Junction,",Thane,400610,"9820953025,8879062922",mw,,,y
+165,Mr.,Kamath,Ramnath,U.,139,10/28/2001,0054/1346,,L,,,"Greeshma Residency, B-603","Opp Dnyansadhana School,","Opp Thane Mental Hospital,",Thane,400604,9819751243,dam,,,y
+166,Mr.,Kamath,Yogesh,N.,299,10/31/2001,0046/1149,,L,,AGAPK1236A,"Jeevan Preet CHS,301,","Opp 3 Petrol Pump, Behind Tel Reporter Stn,","Tekdi Bunglow,",Thane,400602,9819224921,3p,,,y
+167,Mr.,Kamath,Dayanand,Srinivas,141,10/31/2001,0046/1219,,L,,,"Jeevan Preet CHS,101,","Opp 3 Petrol Pump, Behind Tel Reporter Stn,","Tekdi Bunglow,",Thane,400602,"9820646408,9833132280",3p,,,y
+168,Mr.,Kamath,Vasant,Damodhar,142,10/31/2001,0049/1222,,L,,,"Rutu Estate,D4/201,","Nr Hiranandani Estate, Anand Ngr,","GB Road,",Thane,400607,9869227945,gb,,,y
+169,Mr.,Kamath,Maruthi,G.,143,10/31/2001,0049/1225,,L,,,"Sri Laxmi Towers, 204,","Kolbad Cross Road,","Kolbad,",Thane,400601,"25477056,9967721160",kol,,,y
+170,Mr.,Kamath,Vallabh,Ranganath,144,10/31/2001,0055/1362,,L,,,"Lodha Paradise,Hercules,1202,","Nr Majiwada Flyover,","E.E.Highway,",Thane,400601,"32608329,40128009,9322225709",bri,,,y
+171,Ms.,Kamath,Rithika,Ramanath,145,11/26/2001,0055/1373,,L,,,"Asthavinayak Bldg,14, 2nd Flr,","Nr Panchparameshwar Temple,","Padwal Ngr, Wagle,Estate,",Thane,400604,9322293028,wag,,,
+172,Mr.,Kamath,V.,P.,95,4/10/1989,0064/1467,,L,x,,"Srirang Soc,Unit-25,H2, E/38,","B-Wing, 3rd Floor,","Opp Vrindavan Bus Stop,",Thane,400601,"9820472224,9869429924",bri,,yk,y
+173,Ms.,Kamath,Sujata,Dinesh,95,1/27/2002,0059/1463,,L,,amol'BHSPK8499R,"Srirang Soc,Unit-25,H2, E/38,","B-Wing, 3rd Floor,","Opp Vrindavan Bus Stop,",Thane,400601,"9820472224,9869429924",bri,,yk,y
+174,Mr.,Kamath,Vivek,Ramdas,147,2/3/2002,0062/1529,,L,,,"Amar Pushpa Kunj, A-5,","Nr Thanekar Wadi Bus Stop,","Kopri,",Thane(E),400603,"25321455,9833561518",kop,,,y
+175,Mr.,Kamath,Suresh,Laxman,148,2/4/2002,0062/1533,,L,,,"Prem Nagar CHS,","B-45,","Kopri Colony,",Thane(E),400603,"25321870,~1",kop,,,
+176,Mr.,Kini,Subhodh,Devarao,149,2/5/2002,0062/1528,,L,,,"Sindhu CHS,A5,2nd Flr,","GP Pai Road,","Behind Bank of Baroda,","Thane(E),",400603,9323951599,kop,,,
+177,Dr.,Kamath,Satish,Vaikunth,150,4/1/2002,0060/1481,,L,,"ABEPK0694H(dr), AARHS4421C(huf)","Gaurangi CHS, 102,","Opp Damani Estate,Behind Euphoria Gym,","Naupada, LBS Marg,",Thane,400602,9821051098,dam,,,y
+178,Mr.,Kamath,Rajesh,Vaikunth,151,4/1/2002,0060/1482,,L,,,"Chhaya CHS, 24,","LBS Marg,","Nr.ST Workshop,",Thane,400601,25348131,chr,n,,
+179,Mr.,Kamath,Ganesh,Narayan,152,4/7/2002,0067/1662,,L,,,"Green Wood, Harvard Soc,","A603,","Ghodbunder Road,",Thane,400607,"9324000480 ?, 9320108960Shakuntala",vvlp,,,y
+180,Mr.,Kamath,Ganesh,V.,153,4/1/2002,0066/1631,,L,,AFMPK3180L,"Lodha Paradise,Jupiter, A-202","Nr Majiwada Flyover,","EE Highway,",Thane,400601,9820970678,bri,,yk,y
+181,Mr.,Kamath,Girish,Vishnu,154,4/15/2002,0070/1731,,L,,,"Eden Woods, Pine, 3A,","Gladys Alvaris Rd,","Off Pokhran Rd No.2, Manpada",Thane,400610,"25891171,9930615290",vvlp,,,y
+182,Mr.,Kamath,Harish,B.,155,4/15/2002,0075/1851,,L,,,"Garden Estate,","3/106,","Opp Gladys Alvaris Rd,",Thane,400601,25891414,vvlp,n,,
+183,Ms.,Kamath,Nalini,S,156,4/7/2002,0067/1653,,L,,,"Sunil Raj CHS, A-3,","Kopri Colony,","Nr Kanaiya Ngr,",Thane(E),400603,"25321829,~1",kop,,,
+184,Mr.,Kamath,Venkatesh,Gopalkrishna,157,4/20/2002,0074/1828,,L,,,"Hiranandani Estate,","Princeton,B-1202,","Off Ghodbunder Road, Patlipada,",Thane,400607,"25458404,9867935499",gb,,,
+185,Ms.,Kini,Mukta,R.,158,4/25/2002,0078/1940,,L,,,"Saraswati Darshan,102,","1 Flr, Opp SES School,","Panchpakhadi,",Thane,400602,"9004888733,25410531,9967440568",pp,n,,
+186,Mr.,Lad,S.,S.,159,2/5/1988,0049/1097,,L,,,"Srirang Soc,",.,"A-7,",Thane,400601,~1,bri,n,,
+187,Mr.,Manerikar,S.,V.,160,6/25/1990,0090/2490,,L,,,"Nirmal Jeevan,","6/841,","Kopri Colony,",Thane(E),400603,9819180783,kop,,,
+188,Mr.,Mahale,Arun,Ramchandra,161,3/24/1991,0091/2527,,L,,AABPM6104A,"Runwal Nagar, A5, Flt-10,","Behind Pratap Cinema,","Narolipada Road, Kolbad,",Thane,400601,"9820577395,9819371767viju",kol,,yk,y
+189,Mr.,Moodabidri,Vasant,Shantaram,162,3/19/1992,0053/1199,,L,,,"Panchratna CHS, AL-5-12 & 14,","Sector-16,","Airoli,",Navi Mumbai,400708,~1,ot,,,
+190,Mr.,Maller,Shyam,S.,163,9/9/1993,0061/3039,,L,,,"Lokpuram,","Santoor,D-203","Off Pokhran Rd-2,",Thane,400610,~1,vvlp,n,,
+191,Mr.,Muzumdar,M.,M.,164,10/8/1994,0078/3886,,L,,,"Devayani CHS, 01,","Baji Prabhu Deshpande Rd,","Naupada,",Thane,400602,~1,nau,n,,
+192,Mr.,Mallya,Yeshwant,S.,165,10/5/1997,0028/1447,,L,,ABRPM2520R * 9483-8701-0751,"Summer Castle,","A-101,","LBS Marg,",Thane,400601,9820689876,cm,,yk,y
+193,Mr.,Mahale,Vinayak,S.,166,3/18/1998,0049/2410,,L,,,"Nandanvan CHS,Madhav,11","Pipeline Road,","Louiswadi,",Thane,400604,"9892902046,9892990476tshr",lw,,,y
+194,Ms.,Mallya,Vinita,Yeshwant,165,3/10/2000,0071/3503,,L,x,,"Summer Castle,","A-101,","LBS Marg,",Thane,400601,9820689876,cm,,yk,y
+195,Mr.,Mallya,Prakash,.,169,10/31/2001,0055/1361,,L,,,"Runwal Regency,","B-1302,",Majiwada,Thane,400601,"65964232,9821545863",mw,,,y
+196,Mr.,Marballi,Suresh,.,168,9/26/2001,0006/0137,,L,,,"Akash Ganga,","Revathi, Twr-1, 22,","2nd Rabodi,",Thane,400601,"25367499,~1",rab,,,
+197,Mr.,Mallya,G.,N.,169,3/20/2000,0070/3476,,L,x,,"Runwal Regency,","B-1302,",Majiwada,Thane,400601,"65964232,9821545863",mw,,,y
+198,Mr.,Nayak,Vaman,Pangal,170,1/1/1988,0038/0807,,L,,AAEPN0489L,"Saraswati Ngr CHS,","Bldg3, Flt-8,","Kopri Colony,",Thane(E),400603,"25325404,9987776437",kop,,,y
+199,Mr.,Nabar,Arvind,D.,171,1/2/1988,0039/0832,,L,,,"Devendu Soc, 1/23,",Meet Bunder Road,"Nr. Indian Hume Pipe,",Thane(E),400603,~1,kop,,,
+200,Mr.,Nayak,Gopalkrishna,K.,172,1/31/1988,0040/0586,,L,,,"Gautam Park,","301/302,","Panchpakhadi,",Thane,400602,~1,pp,n,,
+201,Mr.,Shanbhogue,Nityanandan,H.B.,173,2/9/1988,0045/0978,,L,,,"Nandanvan CHS,Madhav,09","Pipeline Road,","Louiswadi,",Thane,400604,"9325117221,9819742031",lw,,,y
+202,Mr.,Nayak,Bal,Ranga,174,2/19/1988,0047/1037,,L,,,"Rajashree, 8,","Ram Maruti Road, Nr New English","School, Above Hanuman Sweets,",Thane,400602,9969547478;9969633700;9869699902,nau,,,y
+203,Mr.,Nayak,K.,V.,175,3/4/1988,0045/0981,,L,,,"One Hiranandani Park, Cloverdale, 405,","Patlipada, GB Road,","Nr Mecedes Showroom,",Thane,400607,9869471369,gb,,,
+204,Mr.,Nadkarni,S.,D.,6,3/27/1988,0058/1302,,L,,,Shifted or New Addr not available,~,~,~,~,~1,~,n,,
+205,Mr.,Nabar,Manjunath,S.,177,10/20/1988,0065/1493,,L,,,"Nalanda,11,","Ram Maruti Road,","Joshiwada, Naupada,",Thane,400602,~1,nau,,,
+206,Mr.,Nayak,Venugopal,.,178,11/13/1988,0062/1412,,L,x,,"Shantiniketan,","C-13,","Kopri,",Thane(E),400603,~1,kop,,,
+207,Mr.,Nayak,Sanjay,B.,179,4/14/1989,0066/1510,,L,,,"Devayani CHS, 09,","Baji Prabhu Deshpande Rd,","Naupada,",Thane,400602,~1,nau,,,
+208,Ms.,Nadkarni,Mangala,.,180,10/4/1989,0071/1646,,L,,,"Vasant Vihar, Panchvati Soc,","79/601,","2nd Pokhran Road,",Thane,400610,9821805122,vvlp,,,
+209,Mr.,Nayak,Vishwanath,R.,181,2/21/1990,0067/1540,,L,,,"Yashodeep,","1,","Haridaswadi,",Thane(E),400603,~1,kop,n,,
+210,Ms.,Nayak,Padmini,S.,176,3/24/1991,0056/2760,,L,,,"Sharada CHSL, B-2, Ground Flr,","Near Bedekar Hospital, Maharshi Karve Rd,","Naupada,",Thane,400602,"25301329,9867381382",nau,n,,
+211,Mr.,Kamath,Vinod,Ganapathi,660,4/22/2005,0182/4536,,P,,AKTPK0482B,"Lokpuram,","Jaltarang,105,","Off Pokhran Rd-2,",Thane,400610,"9322211127,7303111127",vvlp,,yk,y
+212,Mr.,Nayak,V.,R.,195,10/17/1991,0057/2808,,L,,(AAHPN8214C-VinayaVNayak),"Mt Everest CHS, 101,","Opp Thanawala Garage,","Panchpakhadi,",Thane,400602,"25368816,~1",pp,,,
+213,Mr.,Nayak,Balakrishna,Nagappa,184,4/5/1992,0046/2275,,L,,,"Ananda Guruswadi,","B/4,","Malad (West),",Mumbai,400064,"28078882,~1",ot,,,
+214,Mr.,Nayak,Satish,Ramachandra,472,10/1/1992,0058/2867,,L,,AAIPN1104C,"Krishna Kutir,302,","Ram Maruti 2nd-X Road,","Naupada,",Thane,400602,"9969810052,7666131901,9326600364",nau,,,y
+215,Mr.,Nayak,Ramchandra,G.,185,10/3/1992,0063/1433,,L,,,"Anand Nagar CHS, A-22,","Raghunath Nagar,","Wagle Estate,",Thane,400604,"9920533606,9920148835,9920379851govind",dam,,,y
+216,Mr.,Nayak,Chandramohan,V.,286,10/18/1993,0075/3743,,L,,,"Orchids,Madhumalati,","14,","Majiwada,",Thane,400601,~1,mw,n,,
+217,Mr.,Nayak,Maruti,S.,187,1/13/1994,0069/3410,,L,,,"Chirag Apt, 2-D,","Hajuri Darga Road,","Behind Murphy Tower,",Thane,400604,~1,lw,,,
+218,Mr.,Nayak,Manoj,K.,6,4/17/1994,0085/4208,,L,,,Shifted or New Addr not available,~,~,~,~,~1,~,n,,
+219,Mr.,Nayak,Murlidhar,G.,188,9/24/1995,0004/0179,,L,,,"Kores Nakshatra,E-4/302,Purva,","Near Vartak Ngr,","Off Pokhran Rd No.1,",Thane,400606,9869405525,vngr,,,y
+220,Mr.,Nayak,Radhakrishna,M.,189,9/25/1995,0009/0415,,L,,,"Brindavan Soc,","Bldg-37,","Flt-41,",Thane,400601,~1,bri,n,,
+221,Mr.,Nadkarni,Shivanand,V,190,9/26/1995,0011/0540,,L,,,"Ashirwad Bldg, A2,","Station Road,Gunsagar Nagar,","Kalwa (W),",Thane,400605,"9594329772,9702587516,9819788270vijy",kal,,,y
+222,Mr.,Nayak,Gopalkrishna,K.,191,10/15/1996,0026/1275,,L,x,,"Sarika,","Bldg-2,",Bhakti Mandir Road,Thane,400602,25363055,pp,n,,
+223,Ms.,Nayak,Bobsy,G.,6,10/15/1996,0026/1276,,L,x,,Shifted or New Addr not available,~,~,~,~,~1,~,n,,
+224,Mr.,Nayak,Vasudev,J.,192,4/6/1997,0019/0930,,L,x,,"Navyug Soc, 21,","Vishnunagar,","Naupada,",Thane,400602,~1,nau,,,
+225,Mr.,Nayak,Anil,A.,193,4/16/1997,0032/1597,,L,,,"Akash Ganga,","3-1/62,","2nd Rabodi,",Thane,400601,25423966,rab,n,,
+226,Mr.,Nayak,Anant,R.,194,4/16/1997,0032/1600,,L,,AAEPN1658D(AADPN7594Hsumana),"Neelambari,1105,","Shastri Nagar,","Nr Asavari Bldg, Pokhran Rd.1,",Thane,400606,"9322060991anant,7718840705sumana,7710940926 akshay",vngr,,,y
+227,Mr.,Nayak,Ramesh,Panemanglore,590,10/5/1997,0028/1445,,L,,ADCPN6336Mvishk;AGTPN6021Hbhakti,"Shanti Palace, 203,","Opp St John School,","Veer Sawarkar Marg,",Thane,400601,"9820674743,9819063839",chr,,,y
+228,Mr.,Nayak,Narayan,C.,196,2/25/1998,0047/2309,,L,,,"Sneh Residency, 302/A,","Khambalpada,","Bhoirwadi, Thakurli","Dombivli (E),",421203,"9769571255,9833791890,7208786348",ot,,,y
+229,Mr.,Nadkarni,Shashikiran,M.,197,2/17/1999,0036/1775,,L,,,"Devashish, B-103,","Kolshet Road,","Dhokali,",Thane,400607,~1,mw,,,
+230,Mr.,Nayak,Bhujanga,Vaman,198,8/23/1999,0058/2851,,L,,,"Shrama Vihar, 41/1484,","MHB Colony,","Vartak Nagar,",Thane,400606,"25856669,9892005335",vngr,,,y
+231,Ms.,Nayak,Rekha,Ramchandra,185,2/13/2000,0058/2868,,L,,,"Anand Nagar CHS, A-22,","Raghunath Nagar,","Wagle Estate,",Thane,400604,"9920533606,9920148835,9920379851govind",dam,,,y
+232,Mr.,Nayak,Pandurang,Raghavendra,200,9/26/2000,0016/0387,,L,,,"Ekopa CHS, Plot No.10,Rd.No.1,","Veer Sawarkar Nagar,","MHADA Colony,",Thane,400606,"25814171,~1",vngr,,,
+233,Ms.,Nayak,Vanita,V.,175,10/16/2000,0058/2865,,L,,,"One Hiranandani Park, Cloverdale, 405,","Patlipada, GB Road,","Nr Mecedes Showroom,",Thane,400607,9869471369,gb,,,
+234,Mr.,Nayak,Gurudatt,Keshav,202,4/11/2001,0029/0722,,L,,,"Grand Square, B3-704,","Nr Anand Nagar Signal,","Ghodbunder Road,",Thane,400615,"9987597747'vidya,9619158456'ajay,8976439376vijay",gb,,,y
+235,Mr.,Nayak,Vekatesh,Ananth,203,10/28/2001,0046/1142,,L,,AAYPN7569H,"Raunak Park, B4,1207,","Pokhran Rd-2,","Kokani Pada,",Thane,400610,9833155275,vvlp,,,
+236,Mr.,Nadkarni,Manish,M.,180,10/31/2001,0049/1224,,L,,,"Vasant Vihar, Panchvati Soc,","79/601,","2nd Pokhran Road,",Thane,400610,9821805122,vvlp,,,
+237,Mr.,Nayak,Ananth,V.,205,10/31/2001,0055/1366,,L,,,"Eden Wood, Laurel, 13-A,","Dr. Gladys Alvares Marg,","Off Pokhran Rd-2,",Thane,400601,~1,vvlp,n,,
+238,Mr.,Nayak,Jayachandra,Govind,206,10/31/2001,0046/1146,,L,,,"Runwal Plaza, A-8/306,","Opp Kores Tower, Pokran Rd No.1,","Vartak Nagar,",Thane,400606,9322255614,vngr,,,y
+239,Mr.,Nayak,Ganesh,Ramnath,207,1/20/2002,0058/1444,,L,,,"SaiShradda Apt, B-103, 1-Flr,","Near ST Workshop,","Behind Dr Karekar's Hospital,",Thane,400601,"9769508850,7045000266,9819100625",kol,,,y
+240,Mr.,Nayak,Nagesh,G.,208,1/27/2002,0059/1460,,L,,,"Flower Valley,Bldg-8,Flat-304,","Opp Voltas,","Eastern Exp. Highway,",Thane,400601,25473107,kol,n,,
+241,Mr.,Nayak,Pramod,Ganapati,209,2/3/2002,0062/1532,,L,,,"Chandani Apt, 104,","Shiva Ratna Street,","Kisan Ngr No.3, Rd No 16, Wagle Est,",Thane,400604,"9867893066,8425940371",wag,,,
+242,Mr.,Nayak,Vijay,Narayan,210,2/3/2002,0062/1527,,L,,,"Meerani Nagar,","B-3,","Kopri Colony,",Thane(E),400603,"25320657,~1",kop,,,
+243,Mr.,Nayak,Srinivas,P.,211,2/3/2002,0062/1531,,L,,,"Kulaswamini Aptt, 2-Flr,","Behind Anand Talkies,","Sainath Nagar, Kopri,",Thane(E),400603,"25323638,7738870529",kop,,,
+244,Ms.,Nayak,Savithri,.,212,2/4/2002,0062/1535,,L,,,"Rashmi Apt, B-21,","Mith Bunder Road, Nr Siddhi Vinayak Temple,","Chendani, Koliwada,",Thane(E),400603,"25323603,8898662002",kop,,,
+245,Mr.,Nayak,Prakash,Vasudev,213,2/5/2002,0059/1472,,L,,ADBPN7668P,"Laxmi Narayan Residency,E-1902","Opp Neelkanth Heights, Upavan,","Off Pokhran Rd No.2,",Thane,400610,9867699518,vvlp,,yk,y
+246,Mr.,Nayak,Kashinath,Narayan,214,1/21/2002,0062/1526,,L,,,"Krishna Nagar,","Mith Bunder Road, Koliwada,","Kopri,",Thane(E),400603,"25324818,25326642,8879531188,9004168606",kop,,,
+247,Mr.,Nayak,Radhakrishna,S.,215,4/22/2002,0061/1507,,L,,,"Hiranandani Estate,","Princeton,A-706,","Off Ghodbunder Road, Patlipada,",Thane,400607,"25458150,~1",gb,,,
+248,Mr.,Prabhu,K.,P.,6,12/21/1987,0030/0602,,L,,,Shifted or New Addr not available,~,~,~,~,~1,~,n,,
+249,Ms.,Pai,P.,V.R.,216,1/31/1988,0040/0857,,L,,,"Alka,3,","Gokhale Road,","Opp Cosmos Bank &HDFC,",Thane,400602,9820466075 (radha),nau,n,,
+250,Mr.,Patnekar,S.,G.,217,1/31/1988,0040/0858,,L,,,"Nutan CHS, Blk-2,","Kopri Road,","Naupada,",Thane,400602,~1,nau,n,,
+251,Mr.,Pai,Diwakar,Mahadev,341,12/22/2004,0150/3746,y,P,,ARDPP8461C * 3301-7753-5596,"Tara CHS, A-204,","Baji Prabhu Deshpande Road,","Vadavli Section,",Ambernath (E),421501,9324342987,ot,,,
+252,Mr.,Pai,K.,Vasudev,219,2/15/1988,0047/1045,,L,x,,"Sanskar Tower, 302,","Dharamveer Marg,","Panchpakhadi,",Thane,400602,~x,pp,,,
+253,Mr.,Pai,Damodar,Hari,6,3/10/1988,0053/1184,,L,,,Shifted or New Addr not available,~,~,~,~,~1,~,n,,
+254,Ms.,Prabhu,Girija,Govind,312,6/8/2013,0507/12670,,P,,,"Rachana, 10,","Ghantali Devi Rd,","Naupada,",Thane,400602,"25424567,9324565055",nau,n,,
+255,Mr.,Pai,Narendra,Kasturi,220,7/14/1988,0045/0995,,L,,ANUPP1775E,"Swarlatha, 401,","Opp Ice Factory,","Gokhale Road,",Thane,400602,9833119228,nau,,,y
+256,Mr.,Prabhu,R.,G.,490,8/27/1988,0054/1206,,L,,,"Vijay Park, 8/104,","Ghodbunder Road,","Ghodbunder Road,",Thane,400615,"25973208,9821322175",gb,,,
+257,Mr.,Pai,Haridas,Vishwanath,222,10/6/1988,0050/1104,y,L,,AFHPP2190N * 2165-9230-9191,"Gautam CHS, 503,","Behind Durga Vihar Hotel, Opp Kachrali","Talao, Nr TJSB Bank, Panchpakadi,",Thane,400602,"9987506227,9869046983,9892036383,9920868179",pp,,,y
+258,Mr.,Prabhu,K.,P.D.,223,10/20/1988,0059/1350,,L,,,"Jeevan CHS,","A-2,","Panchpakhadi,",Thane,400602,"55922147,9820630533",pp,,,y
+259,Mr.,Prabhu,S.,K.,224,4/8/1989,0066/1504,,L,,,"C/o U. D. Wagh,","E-14, Brindavan Soc,","Koldongri, Sahar Road,",Mumbai,400069,9959496573,ot,n,,y
+260,Mr.,Pai,Nayan,.,225,10/10/1989,0078/1866,,L,,,"ST Employees CHS,C-1,","Kolbad Road,","Kolbad,",Thane,400601,~1,kol,n,,
+261,Mr.,Prabhu,K.,P.,6,10/10/1989,0078/1872,,L,,,Shifted or New Addr not available,~,~,~,~,~1,~,n,,
+262,Mr.,Pai,B.,R.,227,11/13/1989,0070/1617,,L,,,"Om Villa,","1st Flr,","Ram Maruti Cross Road,",Thane,400602,~1,nau,n,,
+263,Mr.,Pai,Balachandra,Udaychandra,228,2/10/1990,0069/1592,,L,,,"Ratan Apt,","1-Flr,","Opp Canara Bank,",Thane(E),400603,"65254125,9819275478",kop,,,y
+264,Mr.,Prabhu,Jaywant,S.,229,2/11/1990,0076/1798,,L,,,"Sunita CHS, A/5,","LT Road, Nr. Nakhwa School,","Kopri,",Thane(E),400603,"25324610,9702215513",kop,,,
+265,Mr.,Prabhu,Pramod,S.,6,3/22/1990,0082/2058,,L,,,Shifted or New Addr not available,~,~,~,~,~1,~,n,,
+266,Mr.,Pai,B.,V.B.,230,4/3/1990,0039/0849,,L,,,"Rajnigandha Upvan CHS, 408,","Gawand Baug,","Pokran Road No.2,",Thane,400610,~1,vngr,,,
+267,Mr.,Pai,Narsimha,M.,231,4/3/1990,0039/0845,,L,x,,"Snehadeep CHS,","Maharshi Karve Rd,","Naupada,",Thane,400602,~1,nau,n,,
+268,Mr.,Pai,Jagannath,G.,232,9/4/1990,0072/1669,,L,,,"Mansi Chaya, A-4,","Edulji Road, Opp Pawar Indl. Estate,","Charai,",Thane,400601,9768813273,chr,,,y
+269,Mr.,Prabhu,V.,N.,233,9/29/1990,0055/2709,,L,x,,"Raj Park, Roshni Apt,A-1/204,","Pune Road, Parsik,","Kalwa,",Thane,400605,"25373311,9769482351",kal,,,
+270,Mr.,Pickle,A.,S.,6,3/10/1991,0074/1702,,L,,,Shifted or New Addr not available,~,~,~,~,~1,~,n,,
+271,Mr.,Phandnis,Arvind,Rajaram,234,10/6/1991,0055/2726,,L,,,Haridas,"Wadi,","7,",Thane(E),400603,~1,kop,n,,
+272,Mr.,Pai,Shankar,Krishna,235,10/15/1991,0054/2684,,L,,,"Gopika Society,205,","Lokmanya Tilak Road,","Nr Nakhwa School,East,",Thane(E),400603,"65254820,9619197379,25324030",kop,,,
+273,Mr.,Pai,Dinkar,K.,236,1/18/1992,0056/2763,,L,x,,"Daulat Nagar,",4/,"49,","Thane(E),",400603,~1,kop,,,
+274,Mr.,Prabhu,Ganesh,Vishwanath,6,1/19/1992,0056/2764,,L,,,Shifted or New Addr not available,~,~,~,~,~1,~,n,,
+275,Mr.,Pai,Vittaldas,M.,537,1/25/1992,0056/2770,,L,,,"Jaydeep Park, B-404,","Nr Majiwada Last Bus Stop,","Opp Fatima Church,",Thane,400601,9820831360,mw,,,y
+276,Mr.,Pai,N.,G.,18,4/11/1992,0085/2239,,L,,,"Keni Bldg,","5,",Charai,Thane,400601,25348880,chr,n,,
+277,Mr.,Prabhu,K.,P.R.,239,4/11/1992,0085/2244,,L,x,,"Shobhana CHS, 11,","Nr Saraswati School,","Panchpakhadi,",Thane,400602,25365623,pp,,,
+278,Mr.,Pai,B.,N.,240,10/5/1992,0064/3166,,L,,ANKPP6072A-rajesh,"Brindavan Soc,","Bldg-84,","Flt-32,",Thane,400601,"9833612775,9769340361",bri,,,y
+279,Mr.,Pai,Purushotham,Ganapati,6,10/5/1992,0064/3169,,L,,,Shifted or New Addr not available,~,~,~,~,~1,~,n,,
+280,Dr.,Pai,K.,M.,241,3/28/1993,0066/3271,,L,,,"Vasant Vihar, Palash,","C-20/302,","Pokran Rd No.2,",Thane,400610,"25342427,~1",vvlp,,,
+281,Mr.,Pai,Vijay,Laxman,242,4/1/1993,0069/3403,,L,,,"Hiranandani Estate,","Woldrof, 304,","Off Ghodbunder Road, Patlipada,",Thane,400607,9820522053,gb,,,
+282,Mr.,Pai,Manoj,Cherada,414,7/18/1993,0061/3027,,L,,,"Wimbledon Park, Bldg-2/604","Opp JK School,Pokran Rd.No.1,","Vartak Ngr,",Thane,400606,55022085,vngr,n,,
+283,Mr.,Prabhu,V.,P.,6,7/18/1993,0061/3026,,L,,,Shifted or New Addr not available,~,~,~,~,~1,~,n,,
+284,Mr.,Pai,Pramod,R.,243,7/23/1993,0061/3031,,L,,,"Sri Ramkrishna Ngr, 43, 4-Flr,","Opp Satguru Store,","Chendani Koliwada,",Thane(E),400603,"25324590,9223344990",kop,,,
+285,Mr.,Pai,Hanumanth,B.,244,10/11/1993,0081/4008,,L,x,,"Raheja Cmplx,Shivsmrithi,","1B/105,","Balkum,",Thane,400608,25342897,mw,,,
+286,Mr.,Pai,Jayachand,U.,245,10/12/1993,0081/4019,,L,,AACPP9984E/jayc;AHSPP4022G/sandhya,"Vasant Vihar, Ashok,","B-10/301,","Pokran Rd No.2,",Thane,400610,9619888420,vvlp,,,y
+287,Mr.,Pai,Gopalkrishna,P.,6,10/14/1993,0075/3742,,L,,,Shifted or New Addr not available,~,~,~,~,~1,~,n,,
+288,Mr.,Prabhu,Sudhakar,Gopal,247,10/17/1993,0081/4025,,L,,AFHPP6040D,"Ashok Nagar, 4A/203,","Dadlani Park Road,","Balkum,",Thane,400608,9823198776;8830644798;8652445599,mw,,,y
+289,Mr.,Pai,Gopal,Srinivas,248,10/17/1993,0081/4047,,L,,,"Oswal Park,","18/52,","Pokran Rd No.2,",Thane,400601,~1,vvlp,n,,
+290,Mr.,Pai,Kochikar,Rajendranath,249,10/17/1993,0081/4048,,L,,,"Gulmohar, 503A,","Gawand Baug,","Pokran Rd No.2,",Thane,400610,9820929237,vvlp,n,,y
+291,Mr.,Pai,Dinesh,S.,727,1/29/1994,0069/3271,,L,,,"Oswal Apt, Pushpa,","36-B,",Near Mental Hospital,Thane,400604,"9820103555,25821551,9769534438",dam,,,y
+292,Ms.,Pai,Vaijayanti,.,251,4/6/1994,0071/3549,,L,,,"Laxmi Complex, A-Wing,","1-Flr,","Vartak Nagar,",Thane,400606,~1,vngr,n,,
+293,Mr.,Prabhugaonkar,Santosh,R.,252,4/7/1994,0082/4054,,L,,,"Dadalani Park, C-13,","Vishwadatta Marg,","Balkum,",Thane,400607,~1,mw,,,
+294,Mr.,Prabhu,Sunil,Sadanand,253,4/17/1994,0078/3857,,L,,,"Akash Ganga,","Uttra CHS, 62,","2nd Rabodi,",Thane,400601,"9923752459,9769580678",rab,,,y
+295,Mr.,Pai,Jagadeesh,Varadarao,430,9/11/2004,0146/3633,,L,,,"Jai Vijay CHS, D503,","Sahar Road,","Parsiwada, Vile Parle (E),",Mumbai,400099,"25827470,9820151715",lw,,,y
+296,Mr.,Prabhu,Varadraj,A.,255,4/20/1994,0076/3778,,L,,,"Brindavan Soc,","Bldg-71B,","Flt-43,",Thane,400601,~1,bri,n,,
+297,Ms.,Pai,Sharada,U.(C/o.RG Kudva),636,4/20/1994,0076/3787,,L,x,,"Sri Siddhi,A/46,","Akshara Bunglow, Nr.AIMS Oxygen,","Old Padra, Gujarat",Baroda,.,~1,ot,n,,
+298,Mr.,Pai,Uday,G.,37,4/28/1994,0076/3773,,L,,,"Shubharambh, 11/502,","Off Tikujiniwadi Road,","Manpada,",Thane,400610,8879005063,vvlp,,,y
+299,Mr.,Prabhu,Yogesh,Karkala,52,12/22/1994,0087/4347,,L,,,"Siddhivinayak Towers,B-Wing,","1st Bldg,","Behind Pratap Cinema,",Thane,400604,~1,kol,n,,
+300,Mr.,Pai,Ramchandra,P.,629,1/22/1995,0072/3884,,L,x,AAFPP4647M -,"Sundervan Park,603/604,","Gulmohor, Samata Ngr Rd,","Off Pokhran-1,",Thane,400604,"9819049509,9820808611",vngr,,,y
+301,Ms.,Puranik,Vasanti,Krishna,199,2/5/1995,0072/3557,,L,,,"Neeraj Apt,8,Behind Mulund","Check Naka,","Nr.St.Lawrence School,Wagle Estate",Thane,400604,~1,wag,,,
+302,Mr.,Prabhu,Rajaram,Mohan,256,3/25/1995,0003/0106,,L,,,"Ek Siddhi CHS,","B/7,","Behind Pratap Cinema,",Thane,400601,25470320,kol,n,yk,
+303,Mr.,Prabhu,V.,R.,254,4/9/1995,0095/4707,,L,x,,"New Anand Park, A1/203,","Raghunath Nagar,","M S Road,",Thane,400604,"9324400946,25826065",dam,,,y
+304,Mr.,Prabhu,Satish,G.,6,4/15/1995,0092/4599,,L,,,Shifted or New Addr not available,~,~,~,~,~1,~,n,,
+305,Mr.,Pai,Srikant,S.,257,9/24/1995,0007/0333,,L,,,"Deepa, 401,","Sant Tukaram Road,","Mulund (E),",Mumbai,400081,"25920707,~1",ot,,,
+306,Mr.,Prabhu,Jitendra,S.,201,10/1/1995,0009/0436,,L,x,,"Mahavir Umang CHS,","203-A,","Nr.Adarsh Nagar,",Thane,400601,~eml,kol,,yk,y
+307,Mr.,Prabhu,Ramdas,M.,258,10/1/1995,0009/0440,,L,,,"Golden Haven CHS,","205,","Nr.Pratap Cinema,",Thane,400601,25425738,kol,n,,
+308,Ms.,Prabhu,Purnima,Dilip,259,7/8/1996,0092/4594,,L,,,"Yashanand Soc, E-03,","Nr Vishnu Ngr,","Opp Hari Niwas Bus Stand,",Thane (W),400602,"9892477450,9930949014",nau,,,
+309,Mr.,Prabhu,Narsimha,V.,204,10/18/1996,0023/1139,,L,,,"Sudhama CHS, 12, Bldg No.2,","Mumbai-Pune Rd,","Kalwa,",Thane,400605,9820249991,kal,,,y
+310,Ms.,Pai,Shalini,Ramkrishna,238,10/17/2003,0130/3243,,L,,,"Gayatri Park, A -703,","Nr Krishnaai Soc, Parsik Ngr,","Kharegaon,","Kalwa (W),",400605,8108523221,kal,,,y
+311,Dr.Ms.,Pai,Pradeep,R.,260,10/15/1997,0023/1448,,L,x,ABVPP0065A-vasudha,"Kapilavastu,","303-B,","Kolbad,",Thane,400601,9821092920,kol,,,
+312,Ms.,Pai,Prakash,S.,261,3/10/2004,0149/3703,,L,,,"Gagangiri Park CHS,",B-502,"Ramchandra Ngr No.3,",Thane,400604,"25444616,~1",wag,,,
+313,Ms.,Prabhu,Vidya,G.,262,1/16/2000,0058/2862,,L,,,"Chandra Prabha,2/14,","Murar Road,","Mulund(W),",Mumbai,400080,"25647975,~1",ot,,,
+314,Mr.,Pai,Ravindra,Narsimha,263,3/19/2000,0070/3459,,L,,,"Gabrial Apt, B-21,Sector-4,","Srinagar, Behind Dena Bank,","Wagle Estate,",Thane,400604,"25802473,9819444909,9930409321,9920609409",wag,,,y
+315,Mr.,Pai,Prabhakar,Vittal,264,9/22/2000,0010/0227,,L,,,"Saket Complex,","A1/203,",Majiwada,Thane,400601,9224137180,rab,,,y
+316,Mr.,Pai,Achuth,G.,6,9/24/2000,0010/0243,,L,,,Shifted or New Addr not available,~,~,~,~,~1,~,n,,
+317,Mr.,Pai,Anandray,Srinivas,266,9/25/2000,0016/0380,,L,,,"SaiTirth Tower,","B-1501,","Kopri,",Thane (E),400603,"25320089,8369462758",kop,,,
+318,Ms.,Pai,Anita,A.,266,9/25/2000,0016/0381,,L,,,"SaiTirth Tower,","B-1501,","Kopri,",Thane (E),400603,"25320089,8369462758",kop,,,
+319,Ms.,Pai,Vidya,V.,268,2/11/2001,0020/0481,,L,,VidyaAIFPP0235K/Anisha:BNSPP0716L,"Hawa Mahal, B-1202,","Soham Garden, Nr Shubharambha CHS,","Manpada,",Thane,400610,9820475282,gb,,yk,y
+320,Mr.,Prabhu,Narayan,P.,269,3/21/2001,0025/0616,,L,,,"Neelkant Apt, 29,","4-Flr,","Samata Nagar,",Thane,400606,25386933,vngr,n,,
+321,Mr.,Prabhu,Nitin,N.,270,4/2/2001,0031/0764,,L,x,,"Ravi Compound,JaiVasantCHS,","12,","Panchpakhadi,",Thane,400602,25369935,pp,,,
+322,Mr.,Pai,Ganesh,B.,271,4/9/2001,0067/3413,,L,,,"Acme Ozone, Oakwood, 1004,","Khewra Circle, Glady Alwares Rd,","Opp Shubharambha Soc, Manpada,",Thane,400607,9819730225,vvlp,n,,y
+323,Mr.,Prabhu,Ramesh,V.,272,10/28/2001,0046/1143,,L,,,"Rutu Park, Bldg-C3,","Flt-503,","Nr Brindavan Bus Stop,",Thane,400601,"9820024029,7820024029",bri,,,y
+324,Mr.,Prabhu,Vishwanath,Damodar,273,10/28/2001,0047/1174,,L,,,"Kashiratna Bhavan,","403,","Datta Mandir Road,",Thane,400601,9892003625,mhgr,,,y
+325,Mr.,Prabhu,Ravindra,G.,274,10/28/2001,0047/1175,,L,,AIRPP7890A * 7977-6674-1876,"Brindavan Soc,","Bldg-16B,","Flt-24,",Thane,400601,9969031729,bri,,,y
+326,Mr.,Pai,Manjunath,R.,275,10/28/2001,0054/1347,,L,,,"Sharey Anand,","B-304,","Dhokali,",Thane,400607,25382147,mw,n,,
+327,Mr.,Prabhu,Purushotham,Haladi,276,10/31/2001,0046/1144,,L,,,"Park Unique CHS,104,","C.S.Road, Nr. Sudhindra Nagar,","Dahisar (E),",Mumbai,400068,"28961049,9819673399",ot,,,y
+328,Mr.,Prabhu,Raghavendra,V.,277,10/31/2001,0046/1147,,L,,,"Vasant Vihar, Shirish,","7,Flt-704","Pokran Rd No.2,",Thane,400610,9892651688,vvlp,,,y
+329,Mr.,Pai,A.,G.,278,10/31/2001,0046/1148,,L,,,"Bldg A-10,Flat-3,Comfort Zone,",Baner Balewadi,"Road,",Pune,411045,9324904827,ot,,,y
+330,Mr.,Pai,Pandurang,M.,477,10/31/2001,0049/1221,,L,,,"Yogayog,","Room# 29/6,","Shivai Ngr,",Thane,400606,"9769221489,8652183013,9967849946",vngr,,,y
+331,Dr.,Prabhu,Purushottam,Venkatraman,279,10/31/2001,0055/1363,,L,,AACPP7880P,"Viera Lodha Grandezza,Flat 303","Road No.22, Near New Passport Office,","Wagle Estate,",Thane,400604,9821067050,nau,,yk,y
+332,Mr.,Pai,Radhakrishna,B.H.,280,1/10/2002,0058/1435,,L,,,"Saket Complex,","B3/303,",Majiwada,Thane,400601,"9987023961,9967423059",rab,,yk,y
+333,Mr.,Pai,Devadas,Sarvotham,281,1/28/2002,0059/1464,,L,x,,"Stadium View,B/5,","Mohammed Ali Road,","Mahagiri, Kharkar Ali,",Thane,400601,25335639,mhgr,,,
+334,Mr.,Pai,Venkatesh,R.,268,1/27/2002,0059/1461,,L,,,"Hawa Mahal, B-1202,","Soham Garden, Nr Shubharambha CHS,","Manpada,",Thane,400610,9820475282,gb,,yk,y
+335,Mr.,Pai,Dattatraya,Laxman,282,1/28/2002,0059/1465,,L,,,"Kashish Park,RajmataCHS,M4/12,","Nr Mulund Check Naka, Nr Tip Top Plaza,","LBS Marg,",Thane,400604,"9869633960,7619614130",dam,,,y
+336,Mr.,Pai,Vivek,Ramkrishna,283,2/4/2002,0062/1534,,L,,,"Rashmi Apt, 6,","Mith Bunder Road,","Chendani, Koliwada,",Thane(E),400603,~1,kop,n,,
+337,Mr.,Pai,Sudhakar,Raghavendra,284,2/4/2002,0062/1536,,L,,,"Harshidda Park, B1,605,","Glady Alwaris Road,",Pawar Nagar,Thane,400610,"8108297715,9869730370",vvlp,,,y
+338,Mr.,Prabhu,Annappa,Subhraya,285,2/4/2002,0059/1466,,L,,,"Siddhachal, Ph-7,","Elite, B-1/604, Nr Vasant Vihar,","Pokhran Rd No.2,",Thane,400610,~1,vvlp,,yk,
+339,Mr.,Pai,Umesh,Vishwanath,182,2/5/2002,0059/1473,,L,,,"Prestige Garden, B2/302,","Nr.Nitin Company,","Panchpakhadi,",Thane,400601,9920496109,pp,,,
+340,Mr.,Prabhu,Sameer,Sunder,287,2/5/2002,0059/1471,,L,,samir'ABQPP1880N,"Sucheta CHS, B/205,","Patilwadi,","Panchpakhadi,",Thane,400601,"8976032652,9892302652,9869239935vijya",chr,,,y
+341,Mr.,Pai,Ashok,Ramdas,288,10/5/2000,0017/0425,y,L,,AFZPP2569M * 4085-2141-7839,"Vasant Leela, Sukanya, 304,","Off GB Road,Waghbil,","Kasarvadavli,",Thane,400601,"9821420440,9821825250",gb,,,y
+342,Mr.,Prabhu,Suresh,Vishwanath,289,1/26/2002,0058/1449,,L,,,"Rajhans-Deep CHS,A-302,","Dattawadi,","Kalwa,",Thane,400605,"25371477,9820179667",kal,,,y
+343,Mr.,Padiyar,Vijayanand,R.,290,4/14/2002,0081/2025,,L,,AHRPP0735F,"Nav Safalya CHS, A/504,","Opp. Riddhi Siddhi  CHS, Nr Hotel Samudra,","Louiswadi,",Thane,400604,"25834378,9930945553",lw,,,
+344,Mr.,Pai,Prakash,S.,291,4/13/2002,0073/1817,,L,,,"Runwal Nagar, B3/G3,","Behind Pratap Cinema,","Narolipada Road, Kolbad,",Thane,400601,"25477424,7045619492",kol,,yk,
+345,Mr.,Pai,Radhakrishna,D.,292,4/15/2002,0061/1504,,L,,,"Garden Enclave, Bldg-5,","904-905,","Nr Vasant Vihar School,Pokhran Rd-2,",Thane,400610,55885948,vvlp,n,yk,
+346,Mr.,Prabhu,Dinesh,Radhakrishna,293,4/12/2002,0073/1809,,L,,AAAPP2219E,"Rajnigandha Upvan CHS, B-505,","Gawand Baug,","Pokran Road No.2,",Thane,400610,9821172655,vngr,,,y
+347,Mr.,Prabhu,Radhakrishna,Gurpur,294,4/14/2002,0061/1502,,L,,,"Siddhachal, Ph-2,","06/401, Anjangiri, Nr Vasant Vihar,","Pokhran Rd No.2,",Thane,400610,9892233701,vvlp,,,
+348,Mr.,Rajyadaksha,Rajeev,Anand,295,1/21/1988,0046/1003,,L,x,,Nivara Miranda House,"CHS,","Veer Sawarkar Marg,",Thane,400602,~1,nau,,,
+349,Mr.,Rege,Harihar,Krishna,296,6/20/1988,0041/0897,,L,,,"Srirang Soc,",.,"A-38,",Thane,400601,~1,bri,,,
+350,Mr.,Rao,Ramchandra,B.,297,9/29/1990,0055/2705,,L,x,,"Srirang Soc,",.,.,Thane,400601,~1,bri,,,
+351,Mr.,Rajyadaksha,Uday,Savlaram,298,3/13/1995,0072/3595,,L,,,"Brindavan, 3-Flr,","Ram Maruti Road,","Naupada,",Thane,400602,~1,nau,n,,
+352,Ms.,Rege,Chaya,Nitin,6,2/15/1998,0047/2301,,L,,,Shifted or New Addr not available,~,~,~,~,~1,~,n,,
+353,Mr.,Rao,Mohan,Srinivas,300,10/10/1999,0055/2852,,L,,,"Patil Nagar, 1,","Nr. Karvilla Nagar,","J.K.Gram,",Thane,400606,25833599,vngr,n,,
+354,Mr.,Rao,Damodar,N.,301,10/31/2001,0055/1365,,L,,,"Parvati Niwas,","3,","Naupada,",Thane,400602,25435606,nau,n,,
+355,Mr.,Rao,Srinivas,M.,302,4/14/2002,0061/1503,,L,,,"Hiranandani Estate,","Green Wood,1204,","Off Ghodbunder Road, Patlipada,",Thane,400607,9223405526,gb,,,
+356,Mr.,Shanbhag,Prabhakar,A.,303,1/10/1988,0051/1131,,L,,,"Shanbag House, 1-Flr,","Kadwa Galli,","Jambli Naka,",Thane,400601,"9323781863,7738378487",mhgr,,,y
+357,Mr.,Shenoy,Ulhas,N.,304,1/17/1988,0046/1004,,L,,AAYPS5648E * 7640-3171-0302 * 21-7-46,"New SapnaApt,5,OppAnandashram,","Shivaji Ngr,","B-Cabin,Naupada",Thane,400602,9819761232suj,nau,,,y
+358,Mr.,Shanbhag,R.,P.,305,2/1/1988,0043/0931,,L,,,"Ravi Compound,Anjali CHS,","G-3,","Panchpakhadi,",Thane,400602,"25428919,9819794846",pp,,,y
+359,Mr.,Sanzgiri,Gurudas,Sambhaji,306,2/14/1988,0047/1039,,L,,,"Rajashree,14,","Ram Maruti Road,","Naupada,",Thane,400602,~1,nau,n,,
+360,Mr.,Shanbhag,Pundalik,Santayya,307,2/16/1988,0045/0980,,L,,AODPS7666D,"Vivek Society,703/704,","Ravi Compound, Madanlal Dhingra Marg,","Panchpakhadi,",Thane,400602,"8879061890,8879440030",pp,,,y
+361,Mr.,Shenoy,Nityanand,V.,593,3/12/1988,0045/0982,,L,,,"Golden Park, C1-602,","Opp Navnit Motors, Gokul Nagar,","LBS Marg,",Thane,400601,25471240,cm,n,,
+362,Mr.,Suktankar,Kiran,.,308,3/25/1988,0042/0924,,L,,,"Brindavan Soc, Bldg-22A, Flat-21","2nd flr,","Nr Srirang Soc,",Thane,400601,9324356035,bri,,,
+363,Mr.,Shenoy,Ravindra,L.,309,7/16/1988,0054/1202,,L,,,"Shanti Apt., B-1, 1st Flr,","Mahakali Ngr, Nr Dhode","Marathi Vidhyalay,Vidhyalay Rd, Mulund (E),",Mumbai,400081,"25903598,~1",ot,,,
+364,Mr.,Suktankar,J.,M.,308,10/17/1988,0054/1212,,L,x,,"Brindavan Soc, Bldg-22A, Flat-21","2nd flr,","Nr Srirang Soc,",Thane,400601,9324356035,bri,,,
+365,Ms.,Shanbhag,Rama,Vithoba,310,11/20/1988,0046/1014,,L,,,"Ambika Darshan, 502,","Shivaji Nagar, B-Cabin,",Naupada,Thane,400602,8779595702,nau,,,
+366,Mr.,Shenoy,Vishwanath,Krishnaraya,311,4/14/1989,0060/1365,,L,,APBPS1717E * 7501-2335-4027,5044 Twr5 4Flr  Prestige Primrose Hills,Sy#52 Banashankari Stg6,Nagegowdanapalya,Bengaluru,560109,"9820211436,9869386584",ot,,,y
+367,Mr.,Shenoy,K.,G.M.,6,4/14/1989,0066/1512,,L,,,Shifted or New Addr not available,~,~,~,~,~1,~,n,,
+368,Mr.,Shanbhag,Gajanan,Krishna,313,3/31/1998,0048/2360,,L,,AWGPS7872N *,"Prabhu Niwas, 17, 2nd flr,","Opp Teen Petrol Pump,","Tekdi Bunglow Galli, Naupada,",Thane,400602,"9322288878,8425834488, 9821318337t",3p,,,y
+369,Mr.,Sakhardande,A.,S.,314,10/10/1989,0079/1925,,L,,,"Ravi Compound,Sahyadri CHS,","10/2,","Panchpakhadi,",Thane,400602,"25367024,~1",pp,,,
+370,Mr.,Shenoy,Ritesh,Ramesh,315,10/13/2013,0522/13048,,P,,,"Prem Nagar CHS,","I-70,","Kopri Colony,",Thane(E),400603,"25321743,9821004715",kop,,,
+371,Mr.,Shenoy,Premanand,V.,316,3/3/1990,0080/1954,,L,,AABPS9095Cprem,"Sumitra CHS, A-7,","Ferro Nagar,","Louiswadi,",Thane,400604,"9869060557,9619810820vina",lw,,,y
+372,Mr.,Shirali,Kiran,.,317,3/27/1990,0082/2082,,L,,,"KD Avenue, Bldg-3, 402,","Behind SVP School,","Near Shivar Gaden,Ramdev Park Rd,",Mira Road (E),401107,9322198494,ot,,,
+373,Mr.,Shanbhag,Venkatesh,P.,318,3/29/1990,0082/2087,,L,,,"Amar Pushpa Kunj,",Kopri,"Colony,",Thane(E),400603,~1,kop,,,
+374,Mr.,Shenoy,Dayanand,A.,319,3/29/1990,0082/2089,,L,,,"Sunita CHS, B-30,","LT Road, Nr. Nakhwa School,","Kopri,","Thane(E),",400603,"25324207,~1",kop,,,
+375,Mr.,Sthalekar,D.,V.,320,4/3/1990,0039/0847,,L,,,"Mansubha Soc,","2-B,","Ghantali,",Thane,400602,~1,nau,n,,
+376,Mr.,Shenoy,Gokuldas,Vaman,321,10/6/1990,0091/2509,,L,,,"Kashish Park,RajmataCHS, M4/6,","Nr Mulund Check Naka, Nr Tip Top Plaza,","LBS Marg,",Thane,400604,"9820536541,9152536598",dam,,,
+377,Mr.,Shanbhag,Mahesh,P.,303,2/23/1991,0052/2561,,L,,,"Shanbag House, 1-Flr,","Kadwa Galli,","Jambli Naka,",Thane,400601,"9323781863,7738378487",mhgr,,,y
+378,Mr.,Shenoy,Radhakrishna,K.,323,10/13/1991,0055/2748,,L,,,"Harshidda Park, A1,202/203,","Glady Alwaris Road,",Pawar Nagar,Thane,400610,~1,vvlp,n,,
+379,Mr.,Shanbhag,Murlidhar,S.,324,10/17/1991,0083/2140,y,L,,AAZPS8111P * 5387-6669-2922,"Lodha Paradise,Olympia,D-404,","Nr Majiwada Flyover,","EE Highway,",Thane,400601,9987504707,bri,,,y
+380,Mr.,Shenoy,K.,G.,6,12/21/1991,0074/1722,,L,,,Shifted or New Addr not available,~,~,~,~,~1,~,n,,
+381,Ms.,Shenoy,Asha,.,311,4/11/1992,0074(B)/714,,L,,,5044 Twr5 4Flr  Prestige Primrose Hills,Sy#52 Banashankari Stg6,Nagegowdanapalya,Bengaluru,560109,"9820211436,9869386584",ot,,,y
+382,Mr.,Shenoy,Yogesh,Shivanand,55,10/11/1993,0081/4005,,L,,,"Raheja Cmplx,Ganga,","C-202,","Balkum,",Thane,400608,"9869699902,9820719361",mw,,,y
+383,Mr.,Shenoy,Nagar,Ananth,670,10/14/1993,0081/4022,,L,,AAACC7222Rashok+AACCA9873Ganant,"Garden Enclave, Bldg-6,","1103,","Nr Vasant Vihar School,Pokhran Rd-2,",Thane,400610,9820545722,vvlp,,yk,
+384,Mr.,Shenoy,Devraj,Narayanrao,226,10/17/1993,0081/4045,,L,,,"Oswal Park, Kanchanganga,","18/12,","Pokhran Rd No.2,",Thane,400610,"25330046,9869250348",vvlp,,,y
+385,Mr.,Shenoy,Yogesh,K.,6,10/17/1993,0081/4050,,L,,,Shifted or New Addr not available,~,~,~,~,~1,~,n,,
+386,Mr.,Shenoy,Surendra,.,322,11/25/1993,0069/3409,,L,,,"Varsha CHS, Sunita, C-9,","LBS Marg,","Naupada,",Thane,400602,~1,dam,,,
+387,Mr.,Shenoy,Vijay,Vaman,326,1/10/2014,0545/13623,,P,,,"Kanaiya Nagar,","B/1/3,","Kopri,","Thane(E),",400603,"32477013,9322246457",kop,n,,y
+388,Mr.,Shenoy,Anil,Keshav,11,4/30/1994,0069/3430,,L,,,"Jai Vasant CHS,","505,","Sect-16A,",Vashi,400701,9833083105,ot,,,
+389,Mr.,Shenoy,Radhakrishna,S.,327,10/5/1994,0034/1699,,L,,,"Vishwa Shanti,3,","Pasiwadi,","Kopri Colony,",Thane(E),400603,~1,kop,n,,
+390,Mr.,Shenoy,Surendra,B.,6,10/9/1994,0076/3798,,L,,,Shifted or New Addr not available,~,~,~,~,~1,~,n,,
+391,Mr.,Shenoy,Narasimha,V.,328,1/7/1995,0072/3581,,L,,,"Neelkant Apt, B-Wing,","Plot-112,","Dadar (East),",Mumbai,400014,"2415033,~1",ot,,,
+392,Mr.,Shanbhag,Radhakrishna,S.,329,1/22/1995,0072/3588,,L,,,"Brindavan Soc,","Bldg-21B,","Flt-12,",Thane,400601,"7498102794,7086007070",bri,,,y
+393,Mr.,Shanbhag,Mohan,R.,330,2/5/1995,0072/3583,,L,x,,"Bharat Mahal, 13,","Nr Fire Brigade,","Kopri,",Thane(E),400603,"25407872,~1",kop,,,
+394,Ms.,Shanbhag,Vijaylaxmi,G.,331,2/5/1995,0072/3591,,L,,,"Varsha CHS, Sunita, C-3,","LBS Marg,","Naupada,",Thane,400602,9987023178,dam,,,
+395,Ms.,Shenoy,Mukta,Niranjan,332,2/11/1995,0072/3594,,L,,,"SaiDham, A-403,","P.K.Road,","Mulund(W),",Mumbai,400080,"25679110,9899699344",ot,,,
+396,Mr.,Shanbhag,Milind,V,333,4/15/1995,0009/0417,,L,,,"Srirang Soc,",E81,"/8,",Thane,400601,9820845228,bri,,,
+397,Mr.,Shanbhag,R.,G.,6,9/25/1995,0011/0527,,L,,,Shifted or New Addr not available,~,~,~,~,~1,~,n,,
+398,Mr.,Shenoy,Ravidas,Sadanand,334,1/14/1996,0012/0556,,L,,,"Pragati Chawl, Room-20,","Mith Bunder Road,","Veer Sawarkar Nagar,","Thane(E),",400603,"9869271441,9702764645",kop,,,
+399,Mr.,Shenoy,Sumeet,Dinesh,335,7/3/2010,0366/9126,,P,,AZCPS1822K,"Highland Heaven, Bldg-4, 1402,","Balkum Pada-3,","Saket Road,",Thane,400608,"9930678743,9819407630",mw,,yk,y
+400,Ms.,Shenoy,Daya,Dinesh,335,1/20/1996,0012/0558,,L,,,"Highland Heaven, Bldg-4, 1402,","Balkum Pada-3,","Saket Road,",Thane,400608,"9930678743,9819407630",mw,,yk,y
+401,Ms.,Shenoy,Amita,Ashok,336,3/28/1996,0014/0680,,L,,ABAPS2918L,"Lodha Amara, Casa Celeste,","W-31, 506","Kolshet Road,",Thane,400607,"9930480436,9987067626,9833309018",mw,,,y
+402,Mr.,Shenoy,Yogesh,Waman,337,7/20/2001,0055/1371,,L,,,"Sri Datta Niwas, 4,","Mahagiri, Koliwada,","Reti Bunder,",Thane,400601,~1,mhgr,n,,
+403,Mr.,Shanbhag,Jayawant,V.,6,10/20/1996,0021/1037,,L,,,Shifted or New Addr not available,~,~,~,~,~1,~,n,,
+404,Mr.,Shenoy,Ramchandra,Srinivas,6,10/5/1997,0028/1444,,L,x,,Shifted or New Addr not available,~,~,~,~,~1,~,n,,
+405,Mr.,Shenoy,Anand,Venkateshwara,338,10/5/1997,0029/1443,,L,,,"Kores Twr, Rekha, 1003,","Pokhran Rd-1,","Vartak Ngr,",Thane,400606,9820943704,vngr,,,
+406,Ms.,Shanbhag,Savithri,Madhav Ref MM Shenoy,6,2/5/1998,0072/3592,,L,,,Shifted or New Addr not available,~,~,~,~,~1,~,n,,
+407,Mr.,Shenoy,Damodhar,S.,339,2/15/1998,0047/2305,,L,,,"Gundamma Niwas, 1-Flr,","Bhatwadi,","Kisan Nagar No.3,",Thane,400604,"25800079,~1",wag,,,
+408,Mr.,Shenoy,Pandurang,R.,340,3/21/1998,0047/2316,,L,,,"Brindavan Soc,","Bldg-50B,","Flt-21,",Thane,400601,9820262877,ot,n,,y
+409,Mr.,Shanbhag,Krishna,N.,313,10/10/1989,0079/1924,,L,x,,"Prabhu Niwas, 17, 2nd flr,","Opp Teen Petrol Pump,","Tekdi Bunglow Galli, Naupada,",Thane,400602,"9322288878,8425834488, 9821318337t",3p,,,y
+410,Mr.,Shenoy,Ramchandra,Vittappa,342,4/3/1998,0045/2215,,L,,AERPS7831L,"Jeevan CHSL, 301,","Madanlal Dhingra Road,","Panchpakhadi,",Thane,400602,"9867363368,9987935119",pp,,,y
+411,Mr.,Shenoy,Krishnaraya,D.,311,4/6/1998,0043/2128,,L,x,,5044 Twr5 4Flr  Prestige Primrose Hills,Sy#52 Banashankari Stg6,Nagegowdanapalya,Bengaluru,560109,"9820211436,9869386584",ot,,,y
+412,Ms.,Shenoy,Vaijayanti,Vittal,343,4/15/1998,0047/2303,,L,,,"Minal Chaya CHS, 12, 2nd Flr,","Almeida Road,Nr Nitin Casting,","Panchpakhadi,",Thane,400601,"25410864,9892691233",pp,,,
+413,Mr.,Shenoy,Nagesh,Krishna,344,9/12/1998,0021/1047,,L,,,"Rammurthi Verma Chawl,","S.V.Road,","Gopal Baug, Kapur Bawadi,",Thane,400607,~1,mw,n,,
+414,Mr.,Shenoy,K.,S.,345,3/25/1999,0036/1776,,L,,,"Jawahar Jyoti, 6/2,","Pipeline Road,","Louiswadi,",Thane,400604,25828025,lw,n,,y
+415,Dr.,Shanbhag-Sane,Neeta,.,346,3/25/1999,0036/1781,,L,,,"Brindavan Soc,","Bldg-52A,","Flt12,",Thane,400601,25444485,bri,n,,
+416,Dr.,Shenoy,Raghavendra,M.,347,10/10/1999,0058/2853,,L,,,"Gurukripa Apt, B-102,","1-Flr,","Thangewadi,",Kalyan,421304,~1,ot,,,
+417,Ms.,Shenoy,Arathi,Vittal,348,1/16/2000,0058/2861,,L,,,"Lalit Kunj, 3,","D.G.Road,","Mulund (W),",Mumbai,400080,"25641576,~1",ot,,,
+418,Ms.,Shenoy,Shanterikamakshi,B.,349,4/12/2000,0058/2870,,L,,,"Deep Pooja, CHS, 103-A,","1st Flr, Behind Riddhi Siddhi Soc,","Louiswadi,",Thane,400604,~1,lw,,,
+419,Dr.,Shenoy,M.,A.,350,9/24/2000,0071/3539,,L,,,"Lok Upvan, Ph-1,C-1/705,","Panchaganga CHS,","Dr Gladys Alwaris Rd,",Thane,400610,"49749066,9821076240",vvlp,n,,
+420,Mr.,Shenoy,Harish,P.,6,9/24/2000,0010/0247,,L,,,Shifted or New Addr not available,~,~,~,~,~1,~,n,,
+421,Mr.,Shenoy,Ajit,S.,345,10/1/2000,0098/0427,,L,,,"Jawahar Jyoti, 6/2,","Pipeline Road,","Louiswadi,",Thane,400604,25828025,lw,n,,y
+422,Mr.,Shenoy,Shailesh,Gopal,351,3/17/2001,0025/0607,,L,,,"Runwal Plaza, A-6/203,","Opp Kores Tower, Pokran Rd No.1,","Vartak Nagar,",Thane,400606,8879189793,vngr,,,
+423,Ms.,Shenoy,Prafulla,.,351,3/17/2001,0025/0608,,L,,,"Runwal Plaza, A-6/203,","Opp Kores Tower, Pokran Rd No.1,","Vartak Nagar,",Thane,400606,8879189793,vngr,,,
+424,Mr.,Shanbhag,Krishnanand,G.,352,3/27/2001,0035/0870,,L,,,"Kashish Park,MN-2/21,","Nr Mulund Check Naka, Nr Tip Top Plaza,","LBS Marg,",Thane,400604,"9322835473,9820662007",dam,,,y
+425,Mr.,Shenoy,Waman,Raulap,337,10/8/1996,0027/1304,,L,x,,"Sri Datta Niwas, 4,","Mahagiri, Koliwada,","Reti Bunder,",Thane,400601,~1,mhgr,n,,
+426,Mr.,Sanzgiri,Suhas,Yeshwant,353,10/31/2001,0046/1150,,L,,,"Uday Nagar CHS,","A/10,","Panchpakhadi,",Thane,400602,"25365009,9619361634",pp,n,,
+427,Mr.,Shenoy,Devappa,Vyenkatrao,354,10/31/2001,0049/1223,,L,,AEQPS2975Gdevap(AEQPS2974Hpadmi,"Kalwa Jagruti CHSL, A-303,","Chhatrapati Shivaji Maharaj Chowk,","Kalwa Naka, Kalwa,",Thane,400605,"9869020769dvpp,9833889255prsh,9869353217pdmn",kal,,,y
+428,Mr.,Shanbhag,Dinesh,Hari,355,11/9/2001,0055/1370,,L,,,"Muley Bldg,204-B,","Opp Rly Qtrs,","B-Cabin, Shivaji Nagar,",Thane,400602,~1,nau,n,,
+429,Mr.,Shenoy,Manohar,Venkatesh,356,1/10/2002,0058/1440,,L,,,"Ravi Compound,JaiVasant CHS,","403,","Panchpakhadi,",Thane,400602,9969739179,pp,,,
+430,Mr.,Shenoy,Pandurang,Ramkrishna,357,1/20/2002,0058/1445,,L,,,"Sumitra CHS, Blk-2,","Agra Road, Jondhali Baug,","Nr ST Workshop,",Thane,400601,"9757296796,9757477860,7977541619",chr,,,y
+431,Mr.,Shanbhag,Prakash,G.,358,1/27/2002,0058/1450,,L,,,"Eden Wood, Cedar, 3-C,","Dr. Gladys Alvares Marg,","Off Pokhran Rd-2,",Thane,400601,25891499,vvlp,n,,
+432,Mr.,Shenoy,Sudarshan,M.,359,1/27/2002,0059/1457,,L,,,"Neelkanth Greens,Juniper-1601,","Manpada,","Off Ghodbunder Road,",Thane,400610,"9223405477,9223395477",vvlp,,,y
+433,Mr.,Shenoy,Gajanan,M.,360,1/27/2002,0059/1458,,L,,,"Eden Wood, Cedar, 5-B,","Dr. Gladys Alvares Marg,","Off Pokhran Rd-2,",Thane,400601,"25891544,~1",vvlp,,,
+434,Mr.,Shanbhag,Krishnaray,Pundalik,361,2/5/2002,0059/1467,,L,,ADXPS1005K,"Prem Nagar,","5A/402,",Borivali (W),Mumbai,400092,"9869757042,8652530072,7045358683",pp,n,,y
+435,Mr.,Shanbhag,Nandan,Dayanand,362,2/5/2002,0059/1468,,L,,,"Amar Jyoti CHS, 8/15,","Behind Ravi Indl,",Panchpakhadi,Thane,400602,"67922989,9224672594",pp,n,,
+436,Mr.,Shanbhag,N.,R.,363,4/14/2002,0081/2019,,L,,,"Prasad Bldg, A-23,","Oswal Apt,","Nr Mental Hospital,",Thane,400604,"25824898,~eml",dam,,,y
+437,Mr.,Shenoy,Ashok,R.,364,4/7/2002,0060/1500,,L,,,"Sunil Raj CHS, D-3,","Kopri Colony,","Nr Kanaiya Ngr,",Thane(E),400603,"25320036,~1",kop,,,
+438,Mr.,Shenoy,Madhusudan,.,365,4/14/2002,0061/1501,,L,,,"Vasant Vihar, Shami,","71/202,","Pokran Rd No.2,",Thane,400610,"25427135,~1",vvlp,,,
+439,Mr.,Shenoy,Venkatraman,D.,366,4/21/2002,0082/2042,,L,,AEQPS2478Q,"Lodha Paradise,Olympia,C-401,","Nr Majiwada Flyover,","EE Highway,",Thane,400601,"25337359,9769135111,9004651727",bri,,,y
+440,Mr.,Shenoy,Vivek,Umanath,367,4/12/2002,0073/1810,,L,,,"Rajnigandha Upvan CHS, 404,","Gawand Baug,","Pokran Road No.2,",Thane,400610,9869253120,vngr,,,y
+441,Mr.,Telang,S.,N.,368,1/10/1988,0043/0930,,L,x,,"Rajghar Bldg,","1-Flr,","Lohar Ali,",Thane,400601,~1,nau,,,
+442,Mr.,Upponi,Satish,D.,369,3/27/2001,0035/0863,,L,,,"Vedant Complex, A2/303,","Opp Kores,Pokhran Rd No.1,","Vartak Nagar,",Thane,400606,"25452850,9920370072",vngr,n,,y
+443,Dr.,Vernekar,Kishore,.,6,2/12/1988,0047/1033,,L,,,Shifted or New Addr not available,~,~,~,~,~1,~,n,,
+444,Ms.,Velankar,Meera,V.,370,2/5/1995,0072/3589,,L,,,"Poorva Soc, C-19,","Nr.Saraswati School,","Panchpakhadi,",Thane,400602,25423541,pp,n,,
+445,Mr.,Valke,Vigneshwar,Narayan,371,10/28/2001,0054/1348,,L,,,"Orchids, Lily,","52,","Majiwada,",Thane,400601,25420220,mw,n,,
+446,Mr.,Wagle,D.,G.,372,4/10/1994,0077/3844,,L,,,Pragati,"CHS,","12,",Thane,.,~1,?,n,,
+447,Mr.,Wagh,Prabhakar,R.,373,3/28/1996,0014/0686,,L,x,,"Laxmi Niketan,","B,","Naupada,",Thane,400602,~1,nau,,,
+448,Mr.,Wagh,Deepak,Manohar,374,3/26/2000,0075/3707,,L,,,"Swarna Apt, 26, Grd Flr,","Nr Gurukul Bus Stop,","Panchpakhadi,",Thane,400602,"9987026849,9869221250",pp,,,
+449,Mr.,Wagle,Tulsidas,Shankar,375,2/3/2002,0062/1530,,L,,,"Geetanjali CHS,C-11,","Thanekarwadi,","Kopri Village Road,","Thane(E),",400603,~1,kop,n,,
+450,Ms.,Pai,Suguna,Jagannath,232,3/15/2002,0060/1480,,L,,,"Mansi Chaya, A-4,","Edulji Road, Opp Pawar Indl. Estate,","Charai,",Thane,400601,9768813273,chr,,,y
+451,Mr.,Shanbhag,Rakesh,Ramesh,376,3/15/2002,0060/1479,,L,,,"Swastik Enclave, A/105,Opp.","Swastic Park,","Nr Brahmand,Azad Ngr,GB-Road,",Thane,400607,9702544733,gb,,,y
+452,Mr.,Kini,Vivek,Damodar,377,1/20/2004,0131/3275,,L,,,"Raunak Park, A4,401/402,","Pokhran Rd-2,","Kokani Pada,",Thane,400610,"25440459,~1",vvlp,,,
+453,Dr.,Arur,Prabhakar,Vithalrao,378,1/8/2004,0131/3273,,L,,,"Hill Garden CHS,Gulmohar,A603,","Manpada,Chitalsar,","Nr Tikujiniwadi,",Thane,400607,9870364556,gb,,,
+454,Ms.,Wagle,Anjali,Narsimha,379,12/26/2003,0131/3258,,L,,,"Ratnadeep,5,","Near School No.19,","Ghantali,",Thane,400602,25430434,nau,n,,
+455,Mr.,Nayak,Hariprasad,Gopalkrishna,380,10/6/2002,0088/2186,,P,,,"Tulsi Dham,Chanakya CHS,",Flt-201,"Ghodbunder Road,",Thane,400607,25894001,vvlp,n,,
+456,Mr.,Murdeshwar,Laxman,Narsimha,221,10/8/2002,0088/2189,,P,,ABWPM5058M-Damodhar,"Mahavir CHS, 702,","A-Wing,","Opp Prabhat Cinema,",Thane,400601,"25412808,~1",mhgr,,yk,
+457,Mr.,Pai,Ravindra,Sanjeeva,382,4/11/2003,0118/2933,,L,,ANZPP4097L,"Kanaiya Ngr CHS,","A-1/12,","Kopri Colony,",Thane(E),400603,9892527372,kop,,,y
+458,Mr.,Pai,Dinesh,Ramchandra,383,4/11/2003,0118/2940,,L,,,"Mukand CHS, 6,","Godavari,","Nr.Anand Park,",Thane,400601,"9869197036,9619179638",bri,,,y
+459,Ms.,Bhat,Sangeeta,.,384,11/29/2003,0131/3254,,L,,,"Pride Park,Norita,A-201,","Ghodbunder Rd,","Opp Lawkim,",Thane,400607,"9820358627,9920358627,9819259927",gb,,,y
+460,Mr.,Prabhu,Pundalik,Srinivas,385,10/14/2003,0130/3250,,L,,,"Prabhu Niwas, 37, Kap-Ali,","Old ST Stand,","Opp Municipal Bldg,",Bhiwandi,.,"25397938,~1",ot,,,
+461,Mr.,Pai,Vasant,Laxman,386,10/30/2003,0131/3251,,P,,ACOPP4467G,"Rustumjee Acura,","A-2104, Mumbai-Nasik Highway,","Nr Majiwada Flyover,",Thane,400601,9819588441veena,mw,,,y
+462,Mr.,Pai,Madhukar,M.,387,9/28/2003,0123/3058,,L,,ACBPP6434A,"Om Shetal Chaya CHS,","A-403,","Nr Pratap Cinema,",Thane,400601,9819745832,kol,,yk,y
+463,Mr.,Kamath,Satish,Vasudev,388,9/28/2003,0123/3067,,L,,,"Nandanvan Row House, B1,","Near Kalavati Temple,","Kalanagar/Indira Nagar,",Nasik,422009,9158870285,ot,,,y
+464,Ms.,Kamath,Ramabai,Ramakant,130,3/30/2003,0124/3099,,L,,,"Srirang Soc,","CD-047,","D-3,",Thane,400601,"25332706,9987051038",bri,,,
+465,Mr.,Nayak,Vasudev,Vaikunth,390,9/28/2003,0123/3062,,L,,AABPN6583A,"Flower Valley, Bldg-5,Flt-202,","Opp Voltas,","Eastern Exp. Highway,",Thane,400601,"9820831518,8329470597",kol,,yk,y
+466,Mr.,Pai,Parag,Purushotam,391,9/28/2003,0126/3143,,L,,,"Siddhachal, Ph-5,","27/1905, Nr Vasant Vihar,","Pokhran Rd No.2,",Thane,400610,"9867430767,9930513926,21713765",vvlp,,,y
+467,Ms.,Shanbhag,Sushma,Gurudas,392,10/7/2003,0126/3146,,L,,,"Cosmos Residency,A-405,","Opp Vijay Nagari,","Waghbil Naka, GB Road,",Thane,400607,"25972427,9930131488",gb,,,
+468,Mr.,Mahale,Madhav,L.,393,9/24/2003,0129/3208,,L,,,"Jagruti CHS,3/11,","Sudarshan Colony,","Kopri,",Thane(E),400603,25327768,kop,n,,
+469,Mr.,Bhat,Rajendra,G.,389,9/14/2003,0120/2980,,L,,,"Hiranandani Estate,","Apollo,B-802,","Off Ghodbunder Road, Patlipada,",Thane,400607,9867670544shweta;9867261057raj,gb,,,y
+470,Mr.,Shenoy,Vishwanath,Vithal,394,9/14/2003,0120/2977,,L,,ADHPS2011F-FZTPS6347R-Vikram,"Dosti Vihar, Vasanth,B-303,","Pokhran Rd No.1,","Vartak Nagar, Nr Vedant,",Thane,400606,"9892408810,8097150445, 7045660087",vngr,,,y
+471,Mr.,Shenoy,P.,V.,395,9/14/2003,0120/2981,,L,,,"Hiranandani Estate,","Phoenix,B-206,","Off Ghodbunder Road, Patlipada,",Thane,400607,"25308290,~1",gb,,,
+472,Mr.,Nayak,Gopal,K.,396,9/1/2003,0128/3196,,L,,,"Runwal Plaza, A-9/605,","Opp Kores Tower, Pokran Rd No.1,","Vartak Nagar,",Thane,400606,9867567007,vngr,,,
+473,Mr.,Pai,Ramachandra,G.,397,9/25/2003,0128/3187,,L,,,"Mount View CHS,","504,","Veer Sawarkar Ngr,",Thane,400606,"25822121,~1",vngr,,,
+474,Mr.,Prabhu,Narendra,Umanath,398,10/8/2003,0130/3239,,L,,,"Brindavan Soc,Bldg-64A,","Flt-23,","Gopi-Krishna CHS,",Thane,400601,"25365595,9619362020",bri,,,
+475,Ms.,Bodke,Ranjana,Sunil,399,9/26/2003,0116/2890,,L,,,"Jeevan CHS, B-8,","2nd Flr,","Panchpakhadi,",Thane,400602,25367138,pp,n,,
+476,Mr.,Shenoy,Vishwanath,Satyanarayan,400,9/27/2003,0126/3138,,L,,vishAMEPS2591N;vikramFZTPS6347R,"Neera Enclave 701,","Nr 396 Bus Stop,","Dr Rajendra Prasad Rd, Mulund-W,",Mumbai,400080,9819217906,ot,,,y
+477,Mr.,Shanbhag,Kishor,Gopalkrishna,401,9/28/2003,0123/3059,,L,,,"Pratik Apt, D-201,","Waiti Wadi,","Ramchandra Nagar-3,",Thane,400604,"8652064745,9869484517,9987226164kir",vngr,,,y
+478,Mr.,Pal,Mangaldas,Madhav,402,9/14/2003,0111/2764,,L,,,"Ameya Apt, 21, 3rd Flr,","Nr Murphy/LIC,","Hajuri Road,",Thane,400604,"25800064,9892858778,9969495885",lw,,,y
+479,Ms.,Bhujale,Jaganath,Balkrishna,403,9/15/2003,0114/2840,,L,,,"Poorva Soc, A-4,","Nr.Saraswati School,","Panchpakhadi,",Thane,400602,25368590,pp,n,,
+480,Mr.,Pai,Nagesh,Vaikunt,404,9/17/2003,0116/2881,,L,,,"Abhijit Park, A-103,","Kharegaon,","Kalwa,",Thane,400605,9892662166,kal,,,y
+481,Ms.,Nayak,Vidya,S.,68,9/17/2003,0111/2771,,L,,,"Sri Narsimha Ashram,","Mahakali Temple Road, Near Post Office,","Gangoli,",Karnataka,576216,8971267395,ot,,,
+482,Mr.,Nayak,Anandraya,R.,405,9/21/2003,0125/3124,,L,,,"Sundervan Park,804,","Gulmohor, Samata Ngr Rd,","Off Pokhran-1,",Thane,400604,9930591937,vngr,,,y
+483,Ms.,Kamath,Shashikala,S.,406,9/22/2003,0127/3163,,L,,AJOPK0475G,"Surabhi CHS,","7/704,","Sawarkar Nagar,",Thane,400606,9833107009,vngr,,,
+484,Ms.,Kudva,Nandalke,Vedavyas,407,9/21/2003,0121/3024,,P,,,"Deep Kiran, 104-B,","Thanekarwadi,","Kopri Colony,",Thane(E),400603,.~,kop,,,
+485,Mr.,Shenoy,Purushotham,Madhav,408,9/12/2003,0119/2953,,L,,ATNPS7575A-manoj-son,"Dosti Vihar, Varuna, B-204,","Pokhran Rd No.1,","Vartak Nagar, Nr Vedant,",Thane,400606,9819728925; 9987236815manoj,vngr,,,y
+486,Ms.,Shenoy,Sujata,U.,304,9/10/2003,0116/2880,,L,,,"New SapnaApt,5,OppAnandashram,","Shivaji Ngr,","B-Cabin,Naupada",Thane,400602,9819761232suj,nau,,,y
+487,Mr.,Mallya,Suhas,Keshav,409,8/31/2003,0116/2879,,L,,ADZPM0245P,"Sundervan Park, 203, Jasmine,","Samata Ngr Rd,","Off Pokhran-1,",Thane,400604,"9820773541,9820177563",vngr,,,y
+488,Mr.,Bhat,Pawan,Anant,410,9/7/2003,0103/2570,,L,,,"Maitri Anand, 1005,","Siddhivinayak Chowk,","Louiswadi,",Thane,400604,9967620928,lw,,,y
+489,Mr.,Pai,Ramkrishna,N.,238,4/16/1997,0032/1589,,L,x,,"Gayatri Park, A -703,","Nr Krishnaai Soc, Parsik Ngr,","Kharegaon,","Kalwa (W),",400605,8108523221,kal,,,y
+490,Mr.,Nayak,Milind,Madhusudan,411,10/12/2003,0130/3241,,L,,,"Maitri Tower, 208, Ferronagar,","Nr Municipal School,","Louiswadi,",Thane,400604,"25825737,9821721929",lw,,,
+491,Ms.,Shenoy,Asha,Ashok,364,10/16/2003,0130/3244,,L,,,"Sunil Raj CHS, D-3,","Kopri Colony,","Nr Kanaiya Ngr,",Thane(E),400603,"25320036,~1",kop,,,
+492,Ms.,Kudva,Anjali,Ajit,412,10/17/2003,0130/3245,,L,,AGAPK1277D,"Sunil Raj CHS, C-2,","Kopri Colony,","Nr Kanaiya Ngr,",Thane(E),400603,"9820167735,9987177434",kop,,,y
+493,Mr.,Alekal,Dilip,Vijayanand,413,10/12/2003,0130/3246,,L,,ALAPA5728Lmangesh,"Maitri Gardens, Marigold,","1004, Nr Oswal Park,","Pokhran Road No.2,",Thane,400601,"9967024432,9867726256",vvlp,,,y
+494,Mr.,Bhujale,Jaganath,Balkrishna,403,2/20/2004,0132/3279,,L,,,"Poorva Soc, A-4,","Nr.Saraswati School,","Panchpakhadi,",Thane,400602,25368590,pp,n,,
+495,Mr.,Shanbhag,Vasant,N.,542,2/20/2004,0132/3277,,L,,,"Anjali, 9,","P.K.Road,",Mulund(W),Mumbai,400080,~1,ot,,,
+496,Mr.,Nayak,Taranath,.,972,10/4/2002,0097/2408,,L,,,"Shankar Sadan, 302,","Kisan Nagar-2, Road No.16, Wagle Estate,","Nr Bal Vidhya Mandir School,",Thane,400604,"8291884416,9833975538",wag,,,
+497,Mr.,Bhat,Ashish,Vasudev,381,1/24/2003,0089/2217,,L,,,"Paramsukh Soc, B/9,","Gavand Path,","Naupada,",Thane,400602,9892502727,nau,,,y
+498,Mr.,Nayak,Santosh,E.,543,10/13/2002,0094/2338,,L,,ABSPN4809M,"Ravi Anand Heights, 802,","Kumbharwada,","Nr Municipal School,","Thane(E),",400603,9320226251,kop,,,
+499,Mr.,Kamath,Vidyadhar,Vaikunth,544,10/13/2002,0085/2125,,L,,,"Ravi Compound,Krishna Kunj,","A-4,","Panchpakhadi,",Thane,400602,"25336206,9820527599",pp,,,
+500,Mr.,Shanbhag,Ravindra,Waman,545,10/6/2002,0097/2418,,L,,,"Shiv Sai Paradise, Piccadilly, A-603,","Behind Fatima Church,","Majiwada,",Thane,400601,9869790315,mw,n,,
+501,Mr.,Kamath,Rajkumar,P.,546,10/6/2002,0097/2419,,L,,,"Mount View CHS,","103,","Veer Sawarkar Ngr,",Thane,400606,9987020016,vngr,,,y
+502,Mr.,Kallianpur,Chandrashekhar,S.,547,10/13/2002,0087/2171,,L,x,,"Satyajit Soc, 7,","Behind Silver Palace,","Panchpakhadi,",Thane,400602,25366044,pp,,,
+503,Mr.,Pai,Deepak,Sadanand,548,10/6/2002,0084/2092,,L,,,"Srirang Soc,","CD-047,","D-4,",Thane,400601,"25394725,9920405182",bri,,,
+504,Mr.,Pai,Sunil,.,549,10/7/2002,0084/2093,,L,,,"Rutu Park, Bldg-F1,","Flt-502,","Nr Brindavan Bus Stop,",Thane,400601,25422111,bri,n,,
+505,Mr.,Shenoy,Srinivas,V.,550,10/8/2002,0083/2063,,L,x,,"Raheja Garden, Amalti, B-504,","Opp.Tip Top Plaza,","LBS Marg,",Thane,400604,"25835148,~eml",dam,,,
+506,Mr.,Manjrekar,Sanjay,Anant,551,10/8/2002,0101/2509,,L,,,"Kalia Heights, 1203,","Raigad Ali Road,","Almeida Road,",Thane,400601,"9820724567,9820727894",pp,,,y
+507,Mr.,Nayak,Ratnakar,.,246,10/4/2002,0097/2407,,L,,(AHGPN3628L;Roshan),"E-104,","Richmond Park,","Rahatani,",Pune,411017,"9321480300,9167489259roshan",vngr,,,y
+508,Mr.,Shenoy,Arun,Keshav,553,9/26/2002,0084/2082,,L,,AAFPS6698K,"Brindavan Soc,",Bldg-12A,"/21,",Thane,400601,9869403022,bri,,,y
+509,Mr.,Bhat,Umesh,V.,554,10/5/2002,0097/2410,,L,,,"Glaxo Colony,","B1-10,","Pokhran Rd-2,",Thane,400601,25381745,vvlp,n,,
+510,Mr.,Kini,Vivekanand,V.,555,10/6/2002,0097/2416,,L,,,"Runwal Plaza, A2-105,","Opp Kores Tower, Pokran Rd No.1,","Vartak Nagar,",Thane,400606,8779696017,vngr,,,y
+511,Mr.,Prabhu,Subhash,Vasant,556,10/13/2002,0087/2170,,L,,,"Anurag CHS,A-22,","Green Road,","Louiswadi,",Thane,400604,"25823767,9820168531",lw,,,y
+512,Mr.,Shenoy,Renuka,Gopinath,557,4/21/2024,0485/9696,,P,,,"Hans Nagar CHS, C-503/504,",Behind ST,"Workshop,",Thane,400601,"9967505017Sug,9820546832Ren",kol,,,y
+513,Mr.,Mallya,Vinodkumar,R.,558,10/6/2002,0097/2420,,L,,,"Mount View CHS,","104,","Veer Sawarkar Ngr,",Thane,400606,"25802466,32447065",vngr,,,
+514,Mr.,Kamath,Umesh,N,559,12/1/2002,0102/2533,,L,,,"Ashwini, 176, Judge's Colony,","3rd Cross, 3rd Stage, 2nd Block,","Basaveshwar Nagar,",Bangalore,560079,"080-23221247,~1",ot,,yk,
+515,Mr.,Prabhu,Vasant,Damodar,560,1/21/2002,0091/2264,,L,,AGIPP9863E,"Kores Twr, Nandini, 1003,","Pokhran Rd-1,","Vartak Ngr,",Thane,400606,"9757320081,9870491100",vngr,,,y
+516,Mr.,Shenoy,B.,N.,561,1/24/2003,0089/2215,,L,,,"Ravi Compound,Indrapuri,","28,","Panchpakhadi,",Thane,400602,"25361674,9969062635",pp,,,y
+517,Mr.,Pai,Ganapati,Narayan,562,1/29/2003,0091/2273,,L,,,"Parijat Soc, 'A', R.No.2,","Chendani,","Koliwada,","Thane(E),",400603,"25441812,~1",kop,,,
+518,Mr.,Shenvi,Ramesh,S.,563,1/7/2003,0090/2236,,L,,,"Krishnadham Soc, Mathura,","3/24,","Panchpakhadi,",Thane,400602,"9819026421,9820572299,9322035526,9920581719",pp,,,
+519,Mr.,Nayak,Hitendra,.,564,1/2/2003,0090/2226,,L,,,"Maitri Milan, 203-A,","Pipeline Rd,","Louiswadi,",Thane,400604,~eml,lw,,,y
+520,Mr.,Kini,Anantram,Mukund,565,1/5/2003,0084/2210,,L,,,"Hiranandani Estate,","Tribeca, B-2201,","Off Ghodbunder Road, Patlipada,",Thane,400607,9773955549,gb,,,y
+521,Mr.,Nayak,Ramdas,.,566,1/19/2003,0090/2243,,L,,,"Brahmand, Ph-1, 1/103,","Ghodbunder Road,","Azad Nagar,",Thane,400607,~1,gb,,,
+522,Mr.,Kamath,Arvind,.,567,1/19/2003,0090/2242,,L,,,"Hiranandani Estate,","Paramount,501,","Off Ghodbunder Road, Patlipada,",Thane,400607,"25307332,~1",gb,,,
+523,Mr.,Shenoy,Kishor,Ramdas,568,1/9/2003,0090/2240,,L,,,"Hiranandani One Park, Barrington, 1404,","Brahmand Signal, Patlipada, Ghodbunder Road,","Vagbil Naka,",Thane,400607,9819962303,gb,,,y
+524,Mr.,Kamath,Rakesh,S.,569,9/29/2002,0084/2083,,L,,,"Brindavan Soc,","Bldg-40A,","Flt-31,",Thane,400601,25368117,bri,n,,
+525,Mr.,Kamath,Rajesh,Keshav,570,9/27/2002,0096/2379,,L,,,"Vasant Vihar, Kusumba,","101/14,","Pokran Rd No.2,",Thane,400610,"9820179626,9324799452,21731434",vvlp,,,y
+526,Mr.,Kamath,Ganapathy,Sitaram,571,9/26/2002,0079/1975,,L,,,"Prarambh Soc, 3,","Bhaskar Colony,","Naupada,",Thane,400602,9967035965,nau,n,,
+527,Ms.,Kudva,Sandya,Ratnakar,572,9/26/2002,0079/1974,,L,,,"Pride Presidency Luxuria, 405A,","Kolshet Rd, Nr R Mall,","Behind Sharadchandra Pawar Stadium,",Thane,400607,"9969444719,7666202303,9029206303",mw,,,y
+528,Mr.,Shenoy,Ravindranath,R.,573,9/23/2002,0079/1956,,L,,,"Om Shakuntal CHS,","A-402,","Service Road, Panchpakhadi,",Thane,400602,"25367589,9969475948",pp,n,,
+529,Mr.,Pai,Ratnakar,Keshav,574,9/22/2002,0086/2134,,L,,,"Satguru Elegance, 102,","Opp Rutu Park,","Off RW Sawant Road,",Thane,400601,"21724512,9867412243",bri,,,y
+530,Mr.,Shenoy,Mohan,Krishna,575,10/13/2002,0085/2112,,L,,,"Batatawala Mansion, 2/25,","Dr B.Ambedkar Road,","Lalbaug,",Mumbai,400012,9930466354,ot,,yk,y
+531,Mr.,Nayak,Seethandi,Suresh,576,10/9/2002,0102/2537,,P,,ABZPN0374LvrndABZPN0375Msuresh,"Rajmahal, 604/605,","Aradhana Rd,","Panchpakhadi,",Thane,400602,"9820402533,9321698912",pp,,yk,y
+532,Mr.,Vadhyar,Sarvotham,R.,577,10/10/2002,0101/2159,,L,x,,"Mount View CHS,","403,","Veer Sawarkar Ngr,",Thane,400606,25832277,vngr,,,y
+533,Mr.,Bhat,Uday,Manohar,578,9/22/2002,0086/2146,,P,,,"Nirmal Apt, A-3,","Green Road,","Louiswadi,",Thane,400604,25823449,lw,,,y
+534,Mr.,Shenoy,Ashok,B.,579,9/20/2002,0074/1848,,P,,,"Vasant Vihar, Kachnar,","63-504,","Pokran Rd No.2,",Thane,400610,25394196,vvlp,n,,
+535,Mr.,Pai,Jagdish,Ganapati,580,10/5/2002,0095/2357,,P,,,"Patil Compound, Block-2,","Almeida Rd,","Chandanwadi,",Thane,400601,"25332593,~1",chr,,,
+536,Mr.,Mahale,Jayanth,G.,581,12/27/2002,0089/2204,,P,x,,"Dhaval Hills CHS, A-2/901,","Gavand Baug, Kokanipada,","Upavan,",Thane,400610,9920071222,vvlp,,,
+537,Mr.,Padiyar,Kiran,.,582,2/20/2003,0090/2245,,P,,,Padiyar,"Niwas,","Panemangalore,",Karnataka,574231,~1,3p,n,,
+538,Mr.,Kamath,Yeshwant,Surathkal,583,2/2/2003,0083/2070,,P,,,"Vijay Park, Bldg-5, Flt-104,","Ghodbunder Road,","Kasarvadavli,",Thane,400601,25970938,gb,n,,
+539,Ms.,Nadkarni,Nisha,Shailesh,584,2/7/2003,0089/2221,,P,,,"Ravi Compound,Anjali CHS,","D-1,","Panchpakhadi,",Thane,400602,55924323,pp,n,,
+540,Mr.,Nadig,Nagesh,.,585,1/27/2003,0103/2555,,P,,,"Vakratunda,301,","Bhakti Mandir Rd,","Nr Hari Niwas,Naupada,",Thane,400602,25389502,dam,n,,
+541,Mr.,Kudva,Jagannath,K.,586,9/29/2002,0096/2387,,L,,,"Kores Twr, Nandini, 102,","Pokhran Rd-1,","Vartak Ngr,",Thane,400606,"9769566656,9769695069",vngr,,,y
+542,Mr.,Kamath,Ravindra,Umanath,587,9/29/2002,0096/2386,,L,,,"Kores Twr, Anand, A-1, 703,","Pokhran Rd-1,","Vartak Ngr,",Thane,400606,"9821062000,25881025",vngr,,,
+543,Mr.,Shenoy,Shantaram,Konchadi,588,10/2/2002,0084/2089,,L,,,"Brindavan Soc,","Bldg-38,","Flt-42,",Thane,400601,"25396299,9324347210",bri,,,y
+544,Mr.,Bhat,Yogesh,V.,589,,,,N,,,"Shubharambh, A-3,601,","Off Tikujiniwadi Road,","Manpada,",Thane,400610,"25896400,~1",vvlp,,,
+545,Mr.,Pai,Balkrishna,Prabhakar,665,10/3/2005,0192/4793,,P,,,"Sri Navjivan,Bldg-1,Flat-2,","Nr Shivam Hotel,","Opp Rly Ticket Window,",Thane(E),400603,"25323424,9819919665,7498267714",kop,,,y
+546,Mr.,Pai,Sundaram,N.,261,2/17/1999,0036/1774,,L,x,,"Gagangiri Park CHS,",B-502,"Ramchandra Ngr No.3,",Thane,400604,"25444616,~1",wag,,,
+547,Ms.,Pai,Vibha,Mahesh,595,3/15/2004,0143/3567,,L,,,"Adarsh Nagar,","2C/305,",Kolbad,Thane,400601,25475362,kol,n,,
+548,Ms.,Kamath,Shobha,Ashok,434,,0141/3504,,L,,,"Vandana House, 2,","Nr Vandana Cinema,","Veer Sawarkar Marg,",Thane,400602,"8767144481,9870358788,(9930839085shobha)",3p,,,y
+549,Mr.,Nayak,Venkatesh,Manjunath,596,3/13/2004,0141/3507,,L,,,"Vana Vihar CHS,D-11,","2nd Flr,Near Forest Colony,","Kopri,",Thane(E),400603,"25329951,~1",kop,,,
+550,Ms.,Nayak,Jayanti,Ram,597,3/13/2004,0141/3508,,L,,,"Deep Kiran, 202-C,","Thanekarwadi,","Kopri Colony,,",Thane(E),400603,25320055,kop,n,,
+551,Mr.,Kamath,Srinivas,Narahari,138,3/19/2004,0149/3722,,L,,ACPPK0186N,"Neelkanth Palms, Royale A/204,","Nr Tatvagyan Vidyapeeth,","Kapurbavdi Junction,",Thane,400610,"9820953025,8879062922",mw,,,y
+552,Mr.,Prabhu,Prakash,P.,608,3/24/2004,0142/3539,y,L,,,"Vikas Complex, B3/401","LBS Marg,","Castle Mill,",Thane,400601,9930442341,cm,,yk,y
+553,Mr.,Nayak,Anant,R.,609,3/24/2004,0142/3540,,L,,AAEPN1658D,"Vikas Complex, B2/102,","LBS Marg,","Castle Mill,",Thane,400601,9004651378,cm,n,yk,y
+554,Mr.,Shanbhogue,Krishnamoorthi,V.,611,3/26/2004,0148/3682,,L,,,"Siddhachal,","15/303, Nr Vasant Vihar,","Pokhran Rd No.2,",Thane,400610,25343246,vvlp,n,,
+555,Mr.,Prabhu,Prashant,.,613,3/28/2004,0148/3689,,L,,,"Valley Towers, C2-203,","Chitalsar,","Manpada,",Thane,400607,~1,gb,,,
+556,Mr.,Bhat,Damodhar,.,613,3/28/2004,0148/3690,,L,x,,"Valley Towers, C2-203,","Chitalsar,","Manpada,",Thane,400607,~1,gb,,,
+557,Mr.,Kamath,Ashok,P.,435,3/28/2004,0151/3761,,L,,,"Nav Safalya CHS, A/401,","Opp. Riddhi Siddhi  CHS, Nr Hotel Samudra,","Louiswadi,",Thane,400604,9920296788,lw,,,
+558,Mr.,Shenoy,Radhakrishna,Babubhai,631,11/4/2004,0150/3735,,L,,,"952-A, Gotivali Village,","Post Ghansoli,","Thane-Belapur Rd,",NaviMumbai,.,27691952,ot,n,,
+559,Mr.,Nayak,Ramesh,Raghunath (TR),601,11/4/2004,0150/3737,,L,,,"Anupama CHS, C/23,","Nr Murphy Towers, Hajuri Darga Rd,","Louiswadi,",Thane,400604,"9022287813,9322287813",lw,,,y
+560,Ms.,Bhat,Anjali,Ananth,632,11/4/2004,0150/3738&0250/6237 23.3.07,,P,,,"Kamdhenu, Ganga, 5/73,","Hariom Nagar,","Mulund (E),",Mumbai,400081,9821513181,kop,,,y
+561,Mr.,Kamath,Gokuldas,Venkatesh,633,11/4/2004,0150/3739,,L,,,"Unity Complex CHS,","B-1/104,","Opp.Bharati Park,",Mira Road,401107,"9820857423,9820857423",ot,,,
+562,Mr.,Pai,Vivek,Padmanabh,634,11/4/2004,0150/3740,,L,,,"Lokpuram,","Shenai,407/B,","Off Pokhran Rd-2,",Thane,400610,25306908,vvlp,n,,
+563,Mr.,Shenoy,Pundalik,Narsinha,635,11/4/2004,0150/3741,,L,,,"Lokpuram,","Tansen,205,","Off Pokhran Rd-2,",Thane,400610,55927560,vvlp,n,,
+564,Mr.,Prabhu,Maruti,Vishnu,637,1/20/2005,0154/3843,,P,,,"Greeshma Residency-II, B-1302,","Opp Dnyansadhana School,","Opp Thane Mental Hospital,",Thane,400604,"9867093484,9821558276,9321628902",dam,,,y
+565,Dr.,Gaitonde,Milind,Prabhakar,638,12/22/2004,0150/3748,,P,,,"Sushrut CHS, Bunglow No.1,","Pipeline Road,","Louiswadi,",Thane,400604,"25825327,9821028774",lw,,,y
+566,Mr.,Pai,Manjunath,Das,639,12/10/2004,0150/3747,,P,,,"Girdhar CHS, 005,","Parsiwadi,","Kopri,",Thane,400603,"9819359343,9664904900",kop,,,y
+567,Mr.,Shenoy,Keshav,Sanur N.,123,3/20/2005,0166/4138,,L,x,,"Anupama CHS,B-12,","Nr Murphy Towers, Hajuri Road,","Louiswadi,",Thane,400604,56821117,lw,,,
+568,Mr.,Prabhu,Dinesh,Mutti,625,3/27/2005,0181/4508,,L,,,"Green Acres, B-1/202,","Off GB Rd, Waghbil,","Kasarvadavli,",Thane,400615,"9920443416,9930056975",gb,,,y
+569,Mr.,Kamath,Vivek,Ganesh,250,4/3/2005,0166/4146,,L,,,"Anurag CHS,A/33,","Green Road,","Louiswadi,",Thane,400604,56820876,lw,n,,
+570,Mr.,Prabhu,Chandrashekhar,Narsimha,661,4/22/2005,0182/4537,,L,,,"Vijay Enclave,3/102,","Ghodbunder Road,","Waghbil Naka,",Thane,400607,"25971142,9892801874",gb,,,y
+571,Mr.,Pai,Deepak,Diwakar,743,10/3/2005,0192/4795,,P,,AJPPP2399P * 4156-0710-2831,"Bharat Mahal, A-12,","Nr Fire Brigade,","Kopri,",Thane(E),400603,9833969899,kop,,,y
+572,Mr.,Shanbhag,Vinay,Venkatesh,667,10/2/2005,0192/4788,,P,,,"Suryodaya CHS, C-102,","Nr Kshitij CHS,Nr Hari Om Ngr,","Kopri,",Thane(E),400603,"25320164,~1",kop,,,
+573,Mr.,Shanbhag,Gururaj,Gangadhar,668,10/3/2005,0185/4625,,L,,ARCPS8975K,"Sri Ganesh Darshan Twr CHSL,","A2-201, Hari Niwas Circle,","Naupada,",Thane,400602,9820695591,nau,,,y
+574,Mr.,Kamath,Ghanashyam,K,671,10/4/2005,0193/4817,,P,,,"Neelkanth Heights, Mansarovar,","A-1502, Prabhakar Kunte Marg,","Pokhran Rd No.2, Devdaya Ngr,",Thane,400606,"25857387,56368143",vngr,n,,
+575,Mr.,Nayak,Ramdas,Narsimha,669,10/4/2005,0193/4818,,P,,AABFR4510K,"Neelkanth Heights, Mansarovar,","2101/2102, Prabhakar Kunte Marg,","Pokhran Rd No.2, Devdaya Ngr,",Thane,400606,"9890395251,9822406973",vngr,,,y
+576,Mr.,Nayak,Vilas,Narsimha,669,10/4/2005,0193/4819,,P,,,"Neelkanth Heights, Mansarovar,","2101/2102, Prabhakar Kunte Marg,","Pokhran Rd No.2, Devdaya Ngr,",Thane,400606,"9890395251,9822406973",vngr,,,y
+577,Mr.,Kini,Anant,Mukund,672,10/13/2005,0188/4700,,L,,ADPK0142L,"Dosti Vijeta,C-1003,","Near Vedant Complex,","Vartak Ngr,",Thane,400606,"9869427201,9004476363",vngr,,,y
+578,Mr.,Shenoy,Nilesh,Nandkumar,673,10/13/2005,0190/4736,,P,,BAEPS7162A,"Om Pushpak,","402,","Samata Nagar,",Thane,400606,"9920795270,9326127103",vngr,,,
+579,Mr.,Pai,Pradip,Purushottam,674,10/13/2005,0190/4737,,L,,,"Glandale, Almanda, 51,","Dr Gladys Alvares Rd,","Off Pokhran Rd 2,",Thane,400601,"56271080,~1",vvlp,,,
+580,Ms.,Mallya,Jaya,Mohan,675,10/13/2005,0190/4738,,P,,,"Panchamrut,A-104,","GB Road,","Kasarvadavli,",Thane,400601,"25974413,~1",gb,,,
+581,Mr.,Nayak,Mahesh,Gopal,676,10/13/2005,0188/4699,,L,x,,"Jai Jalaram Soc,","5/19,","Kharkar Ali,",Thane,400601,9820414566,mhgr,,,y
+582,Mr.,Nayak,Suresh,Dattatray,678,11/13/2005,0190/4743,,L,,,"Oswal Apt, Pushpa,","B-34,",Near Mental Hospital,Thane,400604,9820828601,dam,,,y
+583,Mr.,Nayak,Vasant,Narasimha,677,11/13/2005,0190/4742,,L,,,"Drug Employees CHS, 4-A/21,","Opp Raymonds,","Samata Nagar,",Thane,400606,9833509847,vngr,,,
+584,Mr.,Talageri,Meenakshi,Mangesh,681,12/22/2005,0190/4746,,L,,,"Jay-Vijay Bldg., Domnic House,","Room No.10, Kisan Nagar No.3,","1st Floor, Wagle Estate,",Thane,400604,"25803915,~1",wag,,,
+585,Mr.,Nayak,Prakash,Sheshagiri,623,1/28/2006,0203/5052,,L,,,"Kashish Park,RajmataCHS,L1/7,","Nr Mulund Check Naka, Nr Tip Top Plaza,","LBS Marg,",Thane,400604,"9819663625,9867530753,9819688232",dam,,,y
+586,Mr.,Nayak,Namdeo,S.,183,2/25/2006,0203/5055,,L,,,"Garima Towers, 201, Nr Gurukul","Bus Stop,","Panchpakhadi,",Thane,400602,8369699463 sabita,pp,,,
+587,Ms.,Kamath,Neelima,Bharat,81,2/25/2006,0203/5056,,L,,,"Ratnajyot CHS,","201,","Karve Road,",Dombivli (W),421202,"2496067,9819029757",ot,n,,
+588,Mr.,Wagle,Suresh,Laxmikant,682,3/19/2006,0210/5236,,L,,,"Nirmal Apt, B-107,","Green Road,","Louiswadi,",Thane,400604,"25803896,~eml",lw,,,y
+589,Ms.,Wagle,Prajakta,Balkrishna,683,4/1/2006,0206/5143,,L,,,"Mangalam,601,Vishnu Nagar,","Lane-2,","Naupada,",Thane,400602,"25404943,~1",nau,,,
+590,Mr.,Borkar,Prashant,Dattatraya,684,4/6/2006,0212/5293,,L,,AATPB4814A,"Nisarg Upavan,B-21,Next to","Commissioner's Bunglow, Patlipada,","G.B.Road,",Thane,400607,"9323291493,9323853130",gb,,,
+591,Mr.,Shenoy,Dinesh,Janardhan,685,4/16/2006,0212/5292,,P,,AXMPS6706Q,"Brindavan Soc,","61/34,","Majiwada,",Thane,400601,"25335233,9323257470",bri,,,
+592,Mr.,Nayak,Ravindra,Pandurang,686,5/2/2006,0212/5295,,L,,ACUPN4612R,"Dharmanand CHS,206,","All-Pest-Rid, Bhandar Aali,","Opp Prabhat Cinema,",Thane,400601,"9320118058,9323946136",mhgr,,,y
+593,Mr.,Prabhu,Vinayak,Dattatraya,691,1/21/2007,0236/5886,,L,,,"Anand, 11,","Ramwadi,","Naupada,",Thane,400602,7506646029,nau,n,,
+594,Mr.,Pai,Vasantha,K.,692,1/7/2010,0356/8889,,L,,ASUPP5471A-vinaya,"Maitri Garden,Marigold,","202, Nr Oswal Park,","Pokhran Road No.2,",Thane,400601,"9167689895,9833499431(sandya)",vvlp,,,y
+595,Mr.,Shenoy,Umesh,Venkatesh,693,12/16/2006,0232/5797,,P,,AOJPS9442P,"Om Vakratunda Residency CHS,","D-302, Dhokali Naka,","Kolshet Road,",Thane-W,400607,"9833091202,9930174780",mw,,,y
+596,Mr.,Nayak,Gopalkrishna,K,690,11/9/2006,0232/5785,,L,,,"Hill Garden CHS,Gulmohar,B704,","Manpada,Chitalsar,","Nr Tikujiniwadi,",Thane,400607,9819744325,gb,,,
+597,Mr.,Nayak,Krishna,Ganapathi,689,11/9/2006,0232/5784,,L,,,"Runwal Garden City,Daffodils,","A1,1703,Opp Colour Chem,","Balkum Naka, Balkum",Thane,400608,"25412115,9820492493",mw,,,y
+598,Mr.,Pai,Pundlik,Govind,688,11/9/2006,0230/5750,,L,,,"Hiranandani Estate,","Eros, 404,","Off Ghodbunder Road, Patlipada,",Thane,400607,"25308268,9869433519",gb,n,,
+599,Mr.,Shenoy,Suresh,Anjaneya,687,11/9/2006,0230/5749,,L,,,"Kanakia Spaces,Vasundhara CHS,","C-703, Opp Lokpuram School,","Dr Gladys Alvares Rd,",Thane,400610,9323972734,vvlp,,,y
+600,Ms.,Pai,Gayathri,Shailesh,1,11/9/2006,0232/9791,,L,,ABVPP6939M,"Sri Krishna Apt, 001,","Pipeline Road,","Louiswadi,",Thane,400604,"9820422672,9820847419",lw,,,y
+601,Ms.,Bhat,Vaishali,Rohit,694,9/28/2007,0232/5787,,L,,,"Raheja Garden, Ascona, A-1002,","Opp.Tip Top Plaza,","LBS Marg,",Thane,400604,"9324866853,9820001613",dam,,,y
+602,Mr.,Kukarni,Vinayak,Ramchandra,695,9/28/2007,0232/5786,,P,,,"Brightland,B-2/202, Ph-1,","Yashaswi Nagar,","Balkum,",Thane,400608,"25372827,~1",mw,,,
+603,Mr.,Dange,Shridhar,Narayan,603,1/21/2007,0236/5891,,L,,,"Agnes House, B-12,",Savarkar,"Ngr,",Thane,400606,~1,vngr,n,,
+604,Mr.,Prabhu,Shridhar,Narayan,697,1/21/2007,0236/5885,,L,,,"Laxmi Niketan, 002,","Ground Floor, Kharegaon,","Kalwa,",Thane,400605,"251694771,~1",kal,,,
+605,Ms.,Kamath,Pratima,Pandurang,698,2/17/2007,0236/5892,,L,,,"Dhandurga CHS, 304,","Nr Uthaleshwar Temple,","Uthalsar Naka,",Thane,400601,"9029517454,9619881362,9321034143",cm,,,y
+606,Mr.,Shanbhag,Ulhas,Vitthal,699,1/21/2007,0236/5887,,L,,,"Ashirwad Bldg, 41, Grd Flr,","Station Road,Gunsagar Nagar,","Kalwa (W),",Thane,400605,"251694771,~1",kal,,,
+607,Ms.,Prabhu,Usha,Umesh,700,1/21/2007,0236/5888,,L,,,"Kusumagraj Bldg,","4/405,","Kisan Ngr-3,",Thane,400604,"25830907,9892913587",wag,,,
+608,Mr.,Pai,Ramchandra,Narasimha,701,1/21/2007,0236/5889,,L,,,"Sandesh CHSL, 401,","Near Sanman Soc, Behind Sahakar Bazar,","Kharegaon, Kalwa,",Thane,400605,"9224514687,8898543453",kal,,,y
+609,Mr.,Dange,Narendra,Pandurang,702,1/21/2007,0236/5890,,L,,,"Vastu Anand, Bldg.12,603,","Parsik Nagar, Kharegaon,",Kalwa (E),Thane,400605,9819643868,kal,,,y
+610,Mr.,Prabhu,Suday,Raghu,705,4/12/2007,0246/6142,,P,,,"Lok Bharati, A-1/602.","Marol Maroshi Road,","Marol, Andheri (East),",Mumbai,400059,"29200016,9819555430",ot,,,y
+611,Mr.,Prabhu,Anant,Padmanabh,706,4/12/2007,0246/6141,,P,,,"Lok Upvan,Himgiri CHS,","201/F4,","Pokhran Road No.2,",Thane,400610,9969034764,vvlp,,,
+612,Mr.,Nayak,Harush,Laxminarayan,704,3/21/2007,0246/6139,,P,,AAEPN1480H,"Vasant Oscar, Bliss CHS, C/703","LBS Marg,","Mulund (W),",Mumbai,400080,"9892210467,9769690467",ot,,yk,y
+613,Mr.,Gaitonde,Dinesh,Harishchandra,518,10/2/2007,0276/6885,,P,,,"Sunflower Tower,203,","Kharkar Ali,","Nr Old Police Line,",Thane,400601,"25360954,9322283933",mhgr,,,
+614,Mr.,Bhat,Ramesh,Ranga,218,10/2/2007,0261/6504,,P,,ACFPB3124P,"Accolade CHS,6/601,","Hajuri Darga Street, Behind LIC Bldg,","EE Highway,",Thane,400604,"9594002427,9892216167",lw,,,y
+615,Mr.,Kini,Gopalkrishna,Umanath,707,10/2/2007,0264/6577,,P,,AAKPK4496N,"Swastik Garden, C/1/203, Nr","Voltas Ltd, Subhash Ngr,","Pokharan Rd No.2,",Thane,400601,9820505127,vvlp,,yk,y
+616,Mr.,Nayak,Pradeep,Anant,708,10/10/2007,0276/6889,,P,,,"Sri Sagar CHS,B-503","Tukaram Nagar,","Ahire Road,","Dombivli (E),",421201,9967642574,ot,,,
+617,Mr.,Wagle,Pradip,Raghunath,449,9/30/2007,0272/6782,,P,,,"Kopineshwar CHS, B/26,","Siddhivinayak Temple Rd,","Natu Paranjape Colony,","Thane(E),",400603,"25328587,~1",kop,,,
+618,Mr.,Kamat,Prakash,Krishnaji,709,9/30/2007,0272/6780,,P,,,"Dosti Vihar, Vasudha, B-2604,","Pokhran Rd No.1,","Vartak Nagar, Nr Vedant,",Thane,400606,9819387982,vngr,,,y
+619,Mr.,Bhat,Amit,Nityanand,710,10/10/2007,0276/6890,,P,,AICPB8375R,"Kores Twr, Neha, 301,","Pokhran Rd-1,","Vartak Ngr,",Thane,400606,"9869204438,9969036178",vngr,,,y
+620,Mr.,Keshkamat,Shyamsundar,Mohanrao,711,10/10/2007,0276/6891,,P,,ADZPK4877F,"Hiranandani Meadows,","Ixora, 2702,","Gladys Alvares Rd, Off Pokhran Rd.2,",Thane,400610,9967037411,vvlp,,,y
+621,Mr.,Kinare,Vivek,Pandurang,712,10/10/2007,0276/6892,,P,,,"Rajlaxmi,2nd floor,","Nr Paramarth Niketan,","Panchpakhadi,",Thane,400602,"25453014,9324731703",pp,,,y
+622,Mr.,Nayak,Suresh,Bhujanga,198,10/10/2007,0276/6894,,L,,,"Shrama Vihar, 41/1484,","MHB Colony,","Vartak Nagar,",Thane,400606,"25856669,9892005335",vngr,,,y
+623,Mr.,Nayak,Manjunath,Bhujanga,714,10/10/2007,0276/6895,,L,,,"Unmati Garden,Helix CHS,B-502,","Pokhran Rd.No.1,","Nr Devdaya,",Thane,400606,"25856669,~1",vngr,,,
+624,Mr.,Pai,Balkrishna,Sadhanand,715,10/10/2007,0276/6896,,L,,AGLPP5955A,"Manisha Apt,","402,","Lokmanya Nagar,",Thane,400606,9869732598,vngr,,,y
+625,Mr.,Kamath,Ramesh,Madhav,713,10/10/2007,0276/6893,,L,,,"Vasant Vihar, Jasmine,","A/904,","Pokran Rd No.2,",Thane,400610,"25392365,~1",vvlp,,,
+626,Mr.,Pai,Suresh,D,716,10/10/2007,0276/6897,,L,,,"Vasant Vihar, Jasmine,","B-2303,","Pokran Rd No.2,",Thane,400610,"25395838,~1",vvlp,,,
+627,Mr.,Pai,Rajmohan,S.,717,10/10/2007,0276/6898,,L,,,"Vasant Vihar, Jasmine,","A-2305,","Pokran Rd No.2,",Thane,400610,9869475975,vvlp,,,
+628,Mr.,Gajendragadkar,Deepak,Prabhakar,723,11/15/2007,0252/6299,,L,,,"Eden Wood, Willow House, 10B,","Dr. Gladys Alvares Marg,","Off Pokhran Rd-2,",Thane,400607,"25891031,9892377311",vvlp,,,
+629,Mr.,Pai,Mahesh,Kutkunje,719,10/28/2007,0265/6623,,L,,,"Rutu Estate,A1/101,","Nr Hiranandani Estate, Anand Ngr,","GB Road,",Thane,400607,9967504790,gb,n,,
+630,Mr.,Pai,Krishna,Ganesh,720,10/28/2007,0265/6624,,L,,,"Sri Bhuvanendra CHS,","Keshavendra, 7/13,",Dahisar (E),Mumbai,400068,9870460845,ot,,,
+631,Mr.,Shenoy,Ranjithkumar,Narayan,721,10/28/2007,0265/6625,,P,,ACAPS4437K,"Oswal Apt, Aashirwad,","A-31, (c/o Sunil Kellar),",Near Mental Hospital,Thane,400604,9322273669,dam,,,y
+632,Mr.,Kamath,Devananda,Janardhana,722,10/28/2007,0265/6295,,L,,,"Lodha Paradise,Aphrodite,A303","Nr Majiwada Flyover,","EE Highway,",Thane,400601,"25391866,25368108,9757112341",bri,,,y
+633,Mr.,Pai,Deepak,Dattatraya,267,10/28/2007,0252/6296,,P,,,"Green Acres-III, B-1/1704,","Off GB Rd, Waghbil,","Kasarvadavli,",Thane,400615,9820059434,gb,,,y
+634,Mr.,Padiyar,Ratnakar,Narayan,935,10/28/2007,0265/6622,,P,,AMVPP8137E * 3180-6741-9914,"Millennium Park,102,","Hariom Ngr,","Off EE Highway,",Mulund(E),400081,"9820141282ratn,9819536131",kop,,,y
+635,Ms.,Shenoy,Anuradha,Kishore,724,11/21/2007,0253/6307,,L,,,"Ganesh Prasad-II, 301,","Pada No.4,","Lokmanya Nagar,",Thane,400606,9833724106,vngr,,,
+636,Mr.,Kamath,Sameer,Bhaskar,725,11/21/2007,0253/6306,,P,,AQAPP9228k+AAGCP5777L,"Cosmos Hills CHS, Nilgiri, 702,","Pokhran Road No.1,","Opp Upvan Lake,",Thane (W),400606,"9821290005,9321161944",vngr,,,y
+637,Dr.,Rao,Rahul,Dayanand,726,12/24/2007,0253/6313,,P,,ACVPN3333J'prjkt,"Hyde Park, Regency, A1, 1202,","Chitalsar, Manpada,","Ghodbunder Road,",Thane,400610,"9820094178,9819715307",gb,,,y
+638,Mr.,Nayak,Hemant,Vasant,679,3/7/2008,0260/6493,,P,,,"Rajtara CHS,","A/111,","Louiswadi,",Thane,400604,~eml,lw,,,y
+639,Mr.,Nayak,Satish,K,728,4/4/2008,0268/6696,,L,,,"SaiVihar Complex, Purshottam","Park, 301-B wing,","G.B. Road,",Thane,400610,9930771075,gb,,,
+640,Mr.,Mankikar,Shamsunder,Dattatraya,729,4/4/2008,0268/6695,,P,,,"Kulika Heights, A-1701,","Raigad Ali Marg,",Panchpakhadi,Thane,400602,"9867005476, 9167235057",pp,,,
+641,Mr.,Kanvinde,Girish,Manohar,730,4/22/2008,0281/7018,,L,,,"Brindavan Soc,","Bldg-47/A/16,","Sagar Tarang CHS,",Thane,400601,"25399236,9969039236",bri,,,
+642,Mr.,Shenoy,Ganjimut,Satish,731,4/22/2008,0281/7019,,L,,,"Lok Upvan, Ph-2,E-401,","Nr Lok Hospital,","Pokhran Road No.2,",Thane,400610,"65260454,9322255510",vvlp,,,y
+643,Mr.,Kudva,Amit,Jagannath,586,9/11/2008,0283/7065,,L,,,"Kores Twr, Nandini, 102,","Pokhran Rd-1,","Vartak Ngr,",Thane,400606,"9769566656,9769695069",vngr,,,y
+644,Mr.,Bhagwat,K.,H.,167,3/11/1990,0043/0945,,L,x,,"Ashar Sapphire, A-2004,","Dhokali Road,",Opp D-Mart,Thane,400607,"9004490193,9224148810",mw,,,y
+645,Mr.,Bhandarkar,Dinkar,Mukund,537,4/20/2008,0287/7173,y,P,,AIEPB6622P * 7241-3523-2884,"Jaydeep Park, B-404,","Nr Majiwada Last Bus Stop,","Opp Fatima Church,",Thane,400601,9820831360,mw,,,y
+646,Mr.,Kamath,Ajay,Yeshwant,85,9/25/2008,0287/7174,,P,,,"Drug Employees CHS, 2-A/21,","Opp Raymonds,","Samata Nagar,",Thane,400606,9920451491;9920938486ajay;8454941298arpita,vngr,,,y
+647,Mr.,Shanbhag,Vasudev,Manjunath,732,9/25/2008,0283/7074,,L,,,"Shreyas, 104,","Ramchandra Nagar No.1,","ESI Hospital Road,",Thane,400604,"32560291,9324714515,25811868",wag,,,y
+648,Mr.,Shenoy,Prakash,Das,733,9/25/2008,0283/7073,,P,,AVKPS5050R,"Lodha Paradise,Florentina,1703,","Nr Majiwada Flyover,","EE Highway,",Thane,400601,"32504609,9320001973",bri,,,y
+649,Ms.,Kamath,Vijaylaxmi,U.,734,9/22/2008,0311/7763,,L,,,"Maitri Garden,Lotus,","A1-504, Nr Oswal Park,","Pokhran Road No.2,",Thane,400601,9930036745,vvlp,,,
+650,Mr.,Kamath,Sachin,Suresh,696,10/17/2008,0304/7599,,P,,AHDPK3386P-suresh,"Buddhadev Vihar CHS, B-602,","Nr Hill Garden,","Tikujiniwadi, Chitalsar, Manpada,",Thane,400610,"9323083270,9820119180,25895377",vvlp,,,y
+651,Mr.,,,,600,,,,N,,,Special Guest,.,.,.,.,~1,.,n,,y
+652,Dr.,Prabhu,Satyendra,Gopalkrishna,735,10/17/2008,0304/7597,,P,,AASFA3438LVitro;AGDPP0765GdrSP,"Garden Enclave, Bldg-6,","305-306,","Nr Vasant Vihar School,Pokhran Rd-2,",Thane,400610,9819839153,vvlp,,,y
+653,Mr.,Gadiyar,Rajendra,Ramakrishna,736,10/17/2008,0304/7596,,P,,,"Kamdhenu, 1/52,","Hariom Nagar,","Mulund (E),",Mumbai,400081,9819484917,kop,,,y
+654,Mr.,Bhat,Mahesh,Nityanand,710,10/17/2008,0304/7595,,L,,,"Kores Twr, Neha, 301,","Pokhran Rd-1,","Vartak Ngr,",Thane,400606,"9869204438,9969036178",vngr,,,y
+655,Mr.,Kamath,Ranganath,Vishwanath,737,10/17/2008,0304/7594,y,L,,ABPPK5436Q * 5059-8350-0397,"Hiranandani Estate,","Waldrof, 102,","Off Ghodbunder Road, Patlipada,",Thane,400607,"9819231287,9920164897",gb,,,y
+656,Mr.,Pai,Shivanand,V,738,1/8/2009,0293/7301,,P,,,"Ashiyana Apt,3/10,3Flr,","Padwal Ngr,","Wagle Estate,",Thane,400604,"32075906,9619694398",wag,,,
+657,Mr.,Shenvi,Shrikant,Sarvottam,739,1/8/2009,0320/8000,,L,,,"Unnathi Garden, Orchids, E-101,","Opp Devadaya Ngr,","Pokhran Rd No.1,",Thane,400606,9987513208,vngr,,,
+658,Ms.,Kini,Hema,Pundalik,740,1/8/2009,0320/7999,,P,,,"Dosti Imperia, Ornata, 301,","Opp R Mall, Ghodbandar Road,","Manpada,",Thane,400610,"9967362975, 9820261707",gb,,,y
+659,Mr.,Bhat,Suhas,Putu,741,12/24/2008,0306/7641,,P,,,"Shilpali CHS, 501,","Opp Laxman Nagar,","Nr.Aradhana Cinema,Panchpakhadi,",Thane,400602,"9987773732,65760957",3p,,,y
+660,Mr.,Shenoy,Pandurang,Anandraya,525,2/13/2009,0293/7306,,L,,,"PMGP MHADA Colony, G-505,",Opp Navghar Road Police Station,Mulund (E),Mumbai,400081,9867380400,wag,,,y
+661,Mr.,Shenoy,Vasant,Kamalaksha,535,2/13/2009,0293/7307,,L,,,"Ganesh CHS, 204,","Nr Shrenik Soc,","Khale Compound,",Thane,400602,"9221696390,9892744465,9029581546",3p,n,,y
+662,Mr.,Gaitonde,Rajendra,Balkrishna,742,2/13/2009,0293/7308,,P,,,"Lokpuram,","Santoor, 505,","Off Pokhran Rd-2,",Thane,400610,9821610706,vvlp,n,,
+663,Ms.,Nayak,Geeta,Narayan,744,3/30/2009,0330/8249,,L,,,"Vasant Leela, Swati, 23/103,","Off GB Road,Waghbil,","Kasarvadavli,",Thane,400601,"25970306,9869068304",gb,,,
+664,Mr.,Nayak,Narayan,Sujir,744,3/30/2009,0330/8248,,L,x,,"Vasant Leela, Swati, 23/103,","Off GB Road,Waghbil,","Kasarvadavli,",Thane,400601,"25970306,9869068304",gb,,,
+665,Mr.,Dange,Shridhar,Narayan,746,3/30/2009,0330/8250,,L,,,"Sri Sai Krupa Apt, 206,","Kumbarali, Near Sahakar Bazar,","Kalwa,",Thane,400605,"9221335997,8452889446",kal,,,
+666,Mr.,Pai,Dayanand,K,747,3/31/2009,0336/8387,,L,,,"Sri Kunj CHS, A-203,","Behind Rajdeep Hotel, Kharegaon Naka,","Kalwa (W),",Thane,400605,"9967864431, 9892628144",kal,,,y
+667,Mr.,Nayak,Sandeep,K,748,3/31/2009,0321/8022,,L,,,"Anil Apt, Wing-3, 25,","Gaonpat, Gokhale Rd,","Teen Hath Naka, Naupada,",Thane,400602,9967661852,nau,n,,
+668,Mr.,Shanbhag,Suresh,V,749,3/31/2009,0321/8023,,L,,,"Brindavan Soc,","Bldg-27A,","Flt-23,",Thane,400601,25418315,bri,n,,
+669,Mr.,Kamath,Mohan,V,750,4/8/2009,0321/8024,,L,x,,"Manisha, 2nd Flr,","Opp Hanuman Mandir,","Kalwa,",Thane,400605,25370296,kal,,,
+670,Mr.,Pai,Ganguli,Madhusudan,751,4/8/2009,0321/8025,,L,,,"Neelkanth Twr,","1502,","Ghatkopar (E),",Mumbai,.,"25065375,9833777002",ot,n,,
+671,Mr.,Kamath,Shripad,Vittal,752,4/8/2009,0325/8122,,L,,,"Runwal Plaza, A-1/307,","Opp Kores Tower, Pokran Rd No.1,","Vartak Nagar,",Thane,400606,"65986431,9820510464",vngr,,,
+672,Mr.,Shanbhag,Durganand,Narayan,753,4/8/2009,0325/8123,,L,,,"Brightland,C-1/301,Ph-2,NHCHS,","Yashaswi Nagar,","Balkum,",Thane,400608,"25382175,9867314904",mw,,,y
+673,Mr.,Prabhu,Vivek,Vasudev,754,4/8/2009,0326/8134,,L,,,"Pride Park,Alamanda, A-503,","Ghodbunder Rd,","Opp Lawkim,",Thane,400607,"9769424564Sakshi,9769624564Smita",gb,,,y
+674,Mr.,Kamath,Ganesh,Gopalkrishna,745,4/8/2009,0326/8133,,L,,,"Hiranandani Estate,","Princeton, A-1501,","Off Ghodbunder Road, Patlipada,",Thane,400607,9833914558,gb,,,y
+675,Mr.,Kamath,Dayanand,Deepak,755,9/11/2009,0329/8209,,P,,,"Brightland,C-2/201, Ph-1,","Yashaswi Nagar,","Balkum,",Thane,400608,9821178422,mw,,,y
+676,Mr.,Shanbhag,Madhav,Mukund,513,9/11/2009,0329/8205,,P,,,"Coral Heights CHSL,A1-303,","Vijay Garden Naka,","Behind Indusind Bank, Ghodbunder Road,",Thane,400615,9422672489,gb,,,
+677,Mr.,Hegde,Ramdas,Kamalaksha,703,9/11/2009,0329/8206,,P,,AAIPH6650B,"Raheja Garden, Ascona, A-1001,","Opp.Tip Top Plaza,","LBS Marg,",Thane,400604,"9819695377,9967978630",dam,,,y
+678,Mr.,Kamath,Yogesh,Murlidhar,756,9/11/2009,0329/8207,,P,,,"Anand Krupa Twr,","B-1/1204,","Hajuri Village,",Thane,400604,"9969719006,9920947927",lw,,,
+679,Mr.,Kamath,Satish,Pandurang,757,9/11/2009,0329/8208,,P,,,"Brightland,C-1/402, Ph-1","Yashaswi Nagar,","Balkum,",Thane,400608,9920032109;9372601638arun,mw,,,y
+680,Mr.,Pai,Pandurang,A,483,9/16/2009,0343/8560,,P,,,"Harshidda Park, A4,502,503","Glady Alwaris Road,","Pawar Nagar,",Thane,400610,9820144311,vvlp,,,y
+681,Mr.,Shenoy,Jagdish,Mukesh,470,9/16/2009,0357/8925,,L,,,"Green Acres-II, B-5/104,","Off GB Rd, Waghbil, Behind TJS Bank,","W-33, 905,",Thane,400615,"25972522,9930454387,9819395393",gb,,,y
+682,Mr.,Bhat,Tirur,Laxmana,605,9/16/2009,0336/8393,,P,,,"Runwal Nagar,Runwal Twr,B-101,","Behind Pratap Cinema,","Narolipada Road, Kolbad,",Thane,400601,9223401163,kol,,,y
+683,Mr.,Prabhu,Gopal,Vasudeo,418,9/16/2009,0336/8394,,L,,,"Sharddha Residency,203,","Shree Siddhivinayak Chowk,",Kajuwadi,Thane,400604,"25837793,9869611367",lw,,,y
+684,Mr.,Prabhu,Dinesh,K.,493,9/16/2009,0336/8395,,P,,,"Devendu Soc,Opp Satguru Garden","Siddhivinayk Road,","Thanekar Wadi,",Thane(E),400603,"25328134,9322295648",kop,n,,
+685,Mr.,Shenoy,Jaichandra,Vasudeo,514,9/16/2009,0336/8396,,L,,,"Damodar Niwas,B-26,","Jijamata Road, Chendani,","Ashtavinayak Marg,","Thane(E),",400603,"25326471,~eml",kop,,,y
+686,Mr.,Prabhu,Gajanan,Gopalkrishna,500,9/16/2009,0336/8397,,L,,,"Meghdoot Soc,Bldg-2, Flt-29,","1 Flr, Nr Kopri Police Stn,","Nr Kashi Aai Temple,",Thane(E),400603,9821558511,kop,n,,y
+687,Mr.,Prabhu,Suresh,Venkatraman,503,9/16/2009,0336/8398,,L,,,"Meghdoot Soc,Bldg No.1,Flt-10,","1 Flr, Nr Kopri Police Stn,","Nr Kashi Aai Temple,",Thane(E),400603,"25326879,~1",kop,,,
+688,Mr.,Prabhu,Vinayak,Vasudeo,506,9/16/2009,0336/8399,,L,,,"New Sathi, B-207,","Ferro Ngr,","Louiswadi,",Thane,400604,"25826653,9892844216",lw,,,
+689,Mr.,Kaikini,Kiron,Prabhakar,486,9/16/2009,0336/8400,,P,,,"Everest World, Mayflower,","Bldg-9, 1805/6,Opp Bayer India Main Gate,","Kolshet Road,",Thane,400607,9820336703,mw,,,
+690,Mr.,Kamath,Gopalkrishna,K,761,9/16/2009,0342/8545,,P,,,"Swastik Alps, A-1403,",Near Brahmand,"Complex,",Thane,400607,"9860796700,9323132904",gb,,,y
+691,Mr.,Pai,Vijaykumar,T,758,9/16/2009,0342/8546,,P,,,"Vastu Anand, Bldg.16, 103,","Parsik Nagar, Kharegaon,",Kalwa (E),Thane,400605,"9821064682,9987226424",kal,,,y
+692,Mr.,Kudva,Pratap,Suresh,759,9/16/2009,0342/8547,,P,,,"Beauty Palms, 901,","Nr Pratap Cinema,","Kolbad Road, Khopat,",Thane,400601,"9969576157,9869699455Niranjani",kol,,,y
+693,Mr.,Mahale,Purushotam,Vaman,760,9/16/2009,0342/8548,,L,,,"Kamdhenu, 22/8,","Hariom Nagar,","Mulund (E),",Mumbai,400081,"25326115,9833509475",kop,,,y
+694,Mr.,Nayak,Shankar,Anant,762,9/24/2009,0363/9074,,P,,,"Shreeji Splendor, Blue Bell,","3/201,Nr Brahmand Ph-7, Dharmachapada,","Off Azad Nagar,",Thane,400607,"25895708,9920065033",gb,,,
+695,Mr.,Bhat,Anant,Srinivas,552,9/24/2009,0363/9075,,P,,,"Shantiniketan, B-2,","Nr Anand Talkies,","Kopri,",Thane(E),400603,"25323502,9892173991",kop,,,
+696,Mr.,Shenoy,Prabhakar,Pundalik,763,9/24/2009,0363/9073,,L,,,"SaiDham, B-28, 1st Flr,","Nr Siddhivinayak Temple,","Natu Paranjape Colony,",Thane(E),400603,"25328578,9969084548",kop,,,
+697,Mr.,Bhat,Uday,Govardhan,507,9/24/2009,0352/8799,,L,,,"Godavari,22,",Nr Mangala,"School,","Thane(E),",400603,"25324203,9833484629",kop,,,
+698,Mr.,Balgi,Govind,Narayan,415,9/24/2009,0352/8800,,P,,,"Ajeeta Soc, A-10, 3rd Flr,","Malgi Road, Nr Satguru Garden,","Opp.Dhawalgiri Soc,",Thane(E),400603,"25324278,9869973910",kop,,,
+699,Mr.,Mallya,Sachin,Vasant,459,9/24/2009,0354/8841,,L,,,"Highland Garden, B3-103,","Maple Bldg, A-Wing,","Dhokali,",Thane,400607,9867650109,mw,,,
+700,Mr.,Nayak,Anant,Narayan,478,9/24/2009,0354/8842,,L,,,"Gauri CHS,10,","Nr Siddhi Vinayak Temple, Mithbunder Rd,","Chendani Koliwada,","Thane(E),",400603,"25328175,9819588937,9004188517",kop,,,
+701,Mr.,Shenoy,Mohan,Venkatrao,529,9/24/2009,0354/8843,,L,,,"Shiv Society, B-62,","Nr Shiv Mandir,","Kopri Colony,",Thane(E),400603,"9323478667, 9372182598",kop,,,y
+702,Mr.,Nayak,Haridas,Dattatreya,764,9/24/2009,0354/8844,,L,,,"Jasmine Villa, Bldg-1, Room-3,","Siddharth Nagar,","Majiwada,",Thane,400601,"9867910517,25384080",mw,n,,
+703,Mr.,Prabhu,Ganpati,Venkatraman,765,9/24/2009,0354/8845,,L,,,"Millennium Park, Ratnashree,","Bldg-13, 102, Hariom Ngr,","Off EE Highway,",Mulund(E),400081,"25324542,~1",kop,,,
+704,Mr.,Kamath,Ganesh,Varadraya,766,9/24/2009,0354/8846,,L,,AIUPK5658H-suchita,"Unnathi Woods,","C1/1001, Ph-3,","Anand Nagar,",Thane,400615,"9869722972gnsh,9969035029suchi",gb,,,y
+705,Mr.,Pai,Santhakumar,Mohana,767,9/24/2009,0354/8847,,L,,,"Vijay Nagari, B-16/74","Off GB Rd, Waghbil,","Kasarvadavli,",Thane,400607,9869678809,gb,,,y
+706,Mr.,Kamath,Mohan,Vishnudas,768,9/24/2009,0354/8848,,L,,,"Green Acres-III, B-1/1101,","Off GB Rd, Waghbil,","Kasarvadavli,",Thane,400615,9004455666,gb,,,y
+707,Mr.,Nayak,Sudhir,Vaman,769,9/24/2009,0354/8849,,L,,,"Pranav Prasanna CHS, 103,","Samantwadi, Opp Municipal School,","Uthalsar,",Thane,400601,9819223783,cm,,,y
+708,Mr.,Kamath,Sudesh,Vinayak,879,5/4/2014,0026/0519,,P,,,"Laxmi Narayan, 101,","Datta Mandir Compound,","Naupada,",Thane,400602,"25373738,9820622212",nau,,,y
+709,Mr.,Pai,Anant,Govind,475,10/15/2009,0355/8853,,P,,,"Crescent CHS,","101,","Panchpakhadi,",Thane,400602,"9833998121,7045429515",pp,,,y
+710,Mr.,Pai,Vithal,Venkatesh,772,11/6/2009,0355/8858,,P,,,"BMC Quarters, Govt Colony,","Flat #14, Bldg #1, K. K. Marg,","Nr L.L.College, Haji Ali Road, Tardeo,",Mumbai,400034,9819736035,ot,,,
+711,Mr.,Prabhu,Manohar,Radhakrishna,773,11/6/2009,0355/8857,,P,,,"Swastik Residency, A4/203,","GB Road,","Kavesar,",Thane,400615,"9820540285,9820873142,9004611348",gb,,,
+712,.,GSB,Sabha,Vile Parle,774,,,,I,,,"Om Sarvodaya CHS, 1/52-D,","Justice M.C.Chagla Road, Bamanwada,","Vile Parle (E),",Mumbai,400099,~1,Inst,,,
+713,.,GSB,Sabha,Andheri,775,,,,I,,,"Brighton Tower, Bunglow No.2A,","Lokhandwala Complex,","Andheri (E),",Mumbai,400053,~1,Inst,,,
+714,Mr.,Pai,Praveen,Vasanth,692,12/16/2006,0232/5798,,P,,,"Maitri Garden,Marigold,","202, Nr Oswal Park,","Pokhran Road No.2,",Thane,400601,"9167689895,9833499431(sandya)",vvlp,,,y
+715,Mr.,Sarma,Ragendra,Narasimha,776,1/7/2010,0356/8890,,P,,,"Om Sai Kripa, 703,","Vasant Kunj Lane,","Pawar Nagar,",Thane,400610,9324284981,vvlp,,,y
+716,Ms.,Kamath,Kavita,Dinesh,91,2/4/2010,0356/8897,,L,,,"Jeevan Sahakar CHSL, B-1/301,","Near Parsik Bank, Umed Nagar,","Louiswadi,",Thane,400604,"9819644275mr,9819645385mrs,8976615961arc",lw,,,y
+717,Mr.,Rao,Mohan,Srinivas,777,2/4/2010,0356/8896,,L,,,"Brahmand,NewAnnexe,Ph-8,G4,G3,","Ghodbunder Road,","Azad Nagar,",Thane,400607,"25898132,~1",gb,,,
+718,Mr.,Kamath,Jayananda,L.,442,2/28/2010,0360/8979,,P,,,"Brahmand, Ph-7, F-11/203,","Ghodbunder Road,","Dharmachapada,",Thane,400607,9820246429,gb,,,y
+719,Mr.,Bhat,Pranay,Nagesh,778,3/16/2010,0356/8899,,P,,,"Ekta Apartment,","A/L/5/25/2,","Sector No.17,",NaviMumbai,400708,9964542596,ot,,,
+720,Ms.,Pai,Ramabai,Pandurang,779,3/16/2010,0376/9385,,P,,,"Brindavan Soc,","Bldg-42-A,","Brindavan Vaishali CHS,",Thane,400601,"21637533,9930814445",bri,,,
+721,Mr.,Pai,Mohan,Devdas,466,4/8/2010,0364/9096,,L,,,"Hiranandani Estate,","Green Wood, 1106,","Off Ghodbunder Road, Patlipada,",Thane,400607,"25308303,9821050818",gb,,,y
+722,Mr.,Kamath,Vishwanath,Venkatesh,780,4/8/2010,0364/9095,,P,,,"Hiranandani Estate,","Canosa,A-102,","Off Ghodbunder Road, Patlipada,",Thane,400607,9820605297,gb,,,
+723,Mr.,Islurkar,Srinivas,Sripad,781,4/8/2010,0364/9094,,L,,AABPI8543F,"Tarangan-II, Rohini, 33,","Behind Cadbury Compound,","Samatanagar,",Thane,400606,"9819312713mr,9819312714mrs",vngr,,,y
+724,Mr.,Pai,Prashant,Ganapati,782,4/8/2010,0364/9093,,P,,,"Bangashree Tower, 1201,","Daji Ramchandra Road,","Charai,",Thane,400601,9967296918,chr,,,y
+725,Mr.,Bhandarkar,Pandurang,V,783,4/8/2010,0364/9092,,L,,,"Hiranandani Estate,","Green Wood, 603,","Off Ghodbunder Road, Patlipada,",Thane,400607,"25862081,9819710643",gb,,,
+726,Mr.,Pai,Pandurang,Raghunath,784,4/8/2010,0364/9091,,P,,,"Hiranandani Estate,","Princeton, 705,","Off Ghodbunder Road, Patlipada,",Thane,400607,9833077829,gb,,,y
+727,Mr.,Shenoy,Dinesh,Narsimha,335,1/20/1996,0012/0557,,L,x,,"Highland Heaven, Bldg-4, 1402,","Balkum Pada-3,","Saket Road,",Thane,400608,"9930678743,9819407630",mw,,yk,y
+728,Mr.,Shenvi,Chetan,Govindrao,785,8/29/2010,0366/9132,,P,,,"Kanakia Spaces, Eternity CHS,","H-602,","Teenhath Naka,",Thane,400604,"25806971,9769140507",dam,,,y
+729,Mr.,Rao,Ghanashyam,Vishwanath,795,8/29/2010,0366/9133,,P,,,"Poonam Chaya, CHSA-1,","M.D.Road, Nr Natraj Soc, Panchapakhadi,","Behind Hyundai Showroom,",Thane,400602,"9930059359,9930267583Ghn/9819724228Vis",pp,n,,y
+730,Mr.,Pai,Ganesh,Ramkrishna,238,8/29/2010,0366/9136,y,P,,AJOPP2451K * 7762-8563-6507,"Gayatri Park, A -703,","Nr Krishnaai Soc, Parsik Ngr,","Kharegaon,","Kalwa (W),",400605,8108523221,kal,,,y
+731,Ms.,Pai,Seema,Ashok,288,9/9/2012,0461/11518,,P,,ADHPP1371K * 7183-4505-3688,"Vasant Leela, Sukanya, 304,","Off GB Road,Waghbil,","Kasarvadavli,",Thane,400601,"9821420440,9821825250",gb,,,y
+732,Mr.,Mallya,Raghunath,Babaraya,787,9/27/2010,0366/9149,,P,,,Highland Residency 'D' CHSL,"Bldg-17, Flat-704,","Balkum Road, Dhokali,",Thane,400607,25452298,mw,,,y
+733,Mr.,Pai,Vinayak,Pundalik,788,9/27/2010,0366/9148,,P,,,"Rutu Enclave,A4/101,","Near Muchhala Polytechnic College, Anand Ngr,","GB Road,",Thane,400607,"9819051625,9004515559",gb,,,y
+734,Ms.,Shanbhogue,Lakshmi,Nithyanandan,173,10/6/2010,0391/9752,,L,,,"Nandanvan CHS,Madhav,09","Pipeline Road,","Louiswadi,",Thane,400604,"9325117221,9819742031",lw,,,y
+735,Mr.,Shanbhogue,Niranjan,Nithyanandan,173,10/6/2010,0391/9753,,L,,BUUPS5494R,"Nandanvan CHS,Madhav,09","Pipeline Road,","Louiswadi,",Thane,400604,"9325117221,9819742031",lw,,,y
+736,Mr.,Prabhu,Ganesh,Gopal,789,10/6/2010,0391/9754,,P,,,"Sri Sai Baba Ngr,Bldg-8,Flt-5,","Mumbai-Pune Road,","Kalwa (W),",Thane,400605,9987311724,kal,,,y
+737,Mr.,Pai,Venkatesh,Mangalore,790,10/19/2010,0389/9724,,L,,,"Hiranandani Estate,","Vittoria, 503,","Off Ghodbunder Road, Patlipada,",Thane,400607,"9867550413,32990194",gb,,,y
+738,Mr.,Nayak,Varadaraya,Ullal,791,10/19/2010,0389/9725,,P,,AAKPN2862R,"Cosmos Heritage, Aditya,","B-502, Manpada,","Opp Happy Valley,",Thane,400610,9833181912,vvlp,,,y
+739,Dr.,Kinare,Pandurang,Ramchandra,712,10/19/2010,0389/9723,,L,,,"Rajlaxmi,2nd floor,","Nr Paramarth Niketan,","Panchpakhadi,",Thane,400602,"25453014,9324731703",pp,,,y
+740,Mr.,Shanbhogue,Vaman,Vaikunta,792,11/19/2010,0391/9775,,P,,,"Navodaya, 1/140-D, Nandini Layout,","Near Mookambika General Store,","At & Post Japthi, Tq:Kundapura, Udupi Dist,",Karnataka,576211,"9423578907,9370722113",ot,,,y
+741,Mr.,Mallya,Ramchandra,M,793,11/19/2010,0392/9796,,L,,ADUPM7364A,"Godrej Prime, S1-1401,","EE Highway, Sahakar Nagar,","Nr RBI Colony, Chembur,",Mumbai,400071,"9029006710,9833861288",ot,,,y
+742,Mr.,Kini,Sangeeth,Gopala,794,11/19/2010,0392/9794,,L,,,"Hyde Park, Residency, A1, 601,","Chitalsar, Manpada,","Ghodbunder Road,",Thane,400610,"9320342917,7498029661",gb,,,y
+743,Ms.,Kamath,Minal,Ram,797,5/7/2011,0413/10316,,P,,,"Kamdhenu, 11/73,","Hariom Nagar,","Mulund (E),",Mumbai,400081,"25322420,9769403355",kop,,,y
+744,Mr.,Prabhu,Dinesh,Ramakant,798,5/7/2011,0414/10345,,L,,,"Kailash Park, D-101,","Samata Ngr,","Behind Cadbury,",Thane,400604,"25421843,9820059439",vngr,n,,y
+745,Mr.,Rao,Gurunatha,V,799,8/8/2011,0413/10322,,P,,,"Ravi Estate, A-1201,","Opp Devdaya Ngr,","Pokhran Rd No.1,",Thane,400606,"9819135539,9820135539",vngr,n,,y
+746,Ms.,Rao,Poornima,Gurunatha,799,8/8/2011,0413/10323,,P,,,"Ravi Estate, A-1201,","Opp Devdaya Ngr,","Pokhran Rd No.1,",Thane,400606,"9819135539,9820135539",vngr,n,,y
+747,Mr.,Shanbhag,Vijay,Balkrishna,800,8/22/2011,0414/10349,,P,,,"Hiranandani Estate,","Brookhill,1005-06,","Off Ghodbunder Road, Patlipada,",Thane,400607,"25307230,9820416192",gb,,,y
+748,Mr.,Shenoy,Pravin,Ratnakar,801,8/22/2011,0414/10350,,P,,,"Hiranandani Estate,","Silverlink, A/604,","Off Ghodbunder Road, Patlipada,",Thane,400607,9960608841,gb,,,y
+749,Ms.,Bhatt,Akshata,Laxman,802,8/22/2011,0413/10325,,L,,,"Eden Tower CHS, B-103,","Sect-8, Plot-29,","Airoli,",Navimumbai,400708,"27603648,9664688312",ot,,,
+750,Ms.,Thali,Sandhya,Avadhut,803,9/21/2011,0441/11025,,P,,,"Vardhaman Tower, 705","Bhaskar Colony,","Naupada,",Thane,400602,"9892744532,25410407",nau,,,y
+751,Mr.,Shenoy,Vinayak,Gurunatha,799,9/25/2011,0440/10987,,P,,,"Ravi Estate, A-1201,","Opp Devdaya Ngr,","Pokhran Rd No.1,",Thane,400606,"9819135539,9820135539",vngr,n,,y
+752,Mr.,Bhat,Gurudath,P,804,9/25/2011,0423/10575,,P,,,"Shreeji Ratna CHS, Bldg-13,604","Millennium Park, Hariom Ngr,",Mulund-E,Mumbai,400081,"67105227,9833646491",kop,,,
+753,Mr.,Prabhu,Chandrakant,Damodar,805,9/25/2011,0440/10988,,L,,AAGPP8377D,"Acme Ozone, Basilia, 403, Ph-2,","Khewra Circle, Glady Alwares Rd,","Opp Shubharambha Soc, Manpada,",Thane,400607,"9820187905, 9323473319",vvlp,,,y
+754,Mr.,Nayak,Ganapathi,Gujjadi,806,9/25/2011,0423/10573,,P,,AAAPN5796N * 7936-3589-1898,"Haware City, 28/903,","Kasarwadavli,","Off GB Road,",Thane,400615,9870100518,gb,,,y
+755,Ms.,Nayak,Gayathri,Gujjadi,806,9/25/2011,0423/10574,,P,x,,"Haware City, 28/903,","Kasarwadavli,","Off GB Road,",Thane,400615,9870100518,gb,,,y
+756,Ms.,Kamath,Varsha,Nilesh,807,9/25/2011,0440/10986,,L,,ACPPK0209A-nilesh,"Srirang Soc,","CD-046,","D-1,",Thane,400601,"9987004563,9064384312",bri,,,y
+757,Mr.,Prabhu,Dyanprakash,Krishna,808,9/25/2011,0440/10989,,L,,,"Kalpataru Tower#13, Flat 201,","Chinchpada,","Station Road,",Kalwa,400605,"9869336630,9004502301,9004836991pratik",kal,,,y
+758,Mr.,Wagle,Vijay,Sadanand,809,10/7/2011,0430/10741,,P,,AAJPW0255G,"Giridarshan, 201,","Vir Savarkar Path,","Near 3 Petrol Pump,",Thane,400602,"9619435053,9221607577",3p,,,y
+759,Mr.,Kamath,Jagannath,Sriniwas,810,10/7/2011,0430/10742,,P,,,"Meena CHSL, A-102,","Eastern Express Highway (Service Road),","Panchpakhadi,",Thane,400602,9821388905,pp,,,y
+760,Mr.,Hegde,Diwakar,Vishwanath,427,12/31/2010,0451/11263,,P,,AAFPH9171E,"Lodha Splendora,","Platino, E-block, 1903,","Bhayandarpada, G.B. Road,",Thane,400615,"9967013158kthy,9619518949dpk,9819340135alk",gb,,,y
+761,Mr.,Pai,Vinay,.,811,12/31/2010,0451/11258,,P,,ACBPP7429D ???,"Raunak Park, Raunak Twr,E-602,","Pokhran Rd-2,","Kokani Pada,",Thane,400610,"9820641114,9324679595,9022971034",vvlp,,,y
+762,Mr.,Pai,Vinod,.,812,12/31/2010,0451/11256,,P,,ACBPP7429D,"Raunak Park, Raunak Twr,A-802,","Pokhran Rd-2,","Kokani Pada,",Thane,400610,"9320415018,9022971034,21732489",vvlp,,,y
+763,Ms.,Pai,Vasudha,Vinod,812,12/31/2010,0451/11259,y,P,,BTKPP0156N * 3155-0016-8606,"Raunak Park, Raunak Twr,A-802,","Pokhran Rd-2,","Kokani Pada,",Thane,400610,"9320415018,9022971034,21732489",vvlp,,,y
+764,Mr.,Bhat,Ramchandra,Vasudev,813,12/31/2010,0451/11255,,P,,,"SaiShakti Apt, 104,","Rd No.27, Shanti Ngr,","Wagle Estate,",Thane,400604,9702206252,wag,,,
+765,Ms.,Pai,Vasuma,Vinay,811,12/31/2010,0451/11257,,P,,,"Raunak Park, Raunak Twr,E-602,","Pokhran Rd-2,","Kokani Pada,",Thane,400610,"9820641114,9324679595,9022971034",vvlp,,,y
+766,Ms.,Govekar,Dipty,Dilip,814,12/31/2010,0451/11244,,P,,,"Neelambari,202,","Govind Bachaji Rd, Opp 3D Corner,","Nr Dr Kumbla Hosp, Charai,",Thane,400601,9769927471,chr,n,,y
+767,Mr.,Prabhu,Gopalkrishna,Ramnath,815,1/29/2012,0451/11272,,L,,ADEPP9026C,"Sanman CHS, Bldg-240,","Flat-9407,Opp Kamgar Kalyan Bhuvan,","KanamwarNgr, Vikhroli (E),",Mumbai,400083,9224638265,ot,,,
+768,Ms.,Prabhu,Renuka,Gopalkrishna,815,1/29/2012,0451/11271,,L,,,"Sanman CHS, Bldg-240,","Flat-9407,Opp Kamgar Kalyan Bhuvan,","KanamwarNgr, Vikhroli (E),",Mumbai,400083,9224638265,ot,,,
+769,Mr.,Kamath,Gokuldas,Devaraya,816,1/29/2012,0451/11273,,P,,AAYPK9859R,"Kalwa Jagruti CHS, 202/A,","Shivaji Chowk, Kalwa Naka,","Kalwa,",Thane,400605,9967443805,kal,,,y
+770,Ms.,Prabhu,Shobha,Yogesh,505,2/26/2012,0452/11277,,P,,AAEPP4272Dshoba/BYEPP8312Haishw,Cosmos Horizon; SkylineChs;22B,"Behind Bethany Hospital,","Pokhran Rd-2,",Thane,400612,9833880048,vvlp,,yk,y
+771,Mr.,Hegde,Dattatrey,Krishna,819,3/15/2012,0453/11319,,P,,,"Shruti Garden,","A-5/104,","Manorama Ngr,",Thane,400607,"9029855564,9029469364",mw,,,
+772,Mr.,Nayak,Nilesh,Annu,820,3/15/2012,0453/11318,,P,,,"Spring Valley, C-1/504,","Puranik City,","GB Road,",Thane,400615,9833487724,gb,,,
+773,Mr.,Kamath,Ramchandra,Shrinivas,821,3/15/2012,0453/11317,,P,,,"Runwal Garden City,","A1/1103,Opp Colour Chem,","Balkum Naka, Balkum",Thane,400608,9833587931,mw,,,
+774,Mr.,Nayak,Sriniwas,Babanna,822,3/15/2012,0453/11316,,P,,,"Astavinayak Residency,","Varad Vinayak, 404,","Dhokali Naka,",Thane,400607,9987978330,mw,n,,y
+775,Mr.,Shanbhag,Kishor,Narayan,823,3/15/2012,0453/11314,,P,,,"Runwal Plaza, A-9/106,","Opp Kores Tower, Pokran Rd No.1,","Vartak Nagar,",Thane,400606,"25887663,9224281950",vngr,,,
+776,Mr.,Jakhi,Milind,Dwarkanath,824,3/15/2012,0453/11315,,P,,,"Snehadeep CHS, 02,","Maharshi Karve Rd,","Naupada,",Thane,400602,"9869423724,9869423725",nau,n,,y
+777,Mr.,Pai,Harish,Dayanand,827,10/28/2012,0490/12248,,P,,,"Railadevi CHS,D-18,2 Flr,","Nr MIDC staff colony, Behind Aplab Co,","Wagle Estate,",Thane,400604,"9869614423,9867143966,9892795579",wag,,,y
+778,Mr.,Kamath,Harish,Krishna,828,4/9/2012,0460/11487,,P,,,"Rutu Park, Bldg-B2,","Flt-404,","Nr Brindavan Bus Stop,",Thane,400601,"25335491,9004358214",bri,,,y
+779,Mr.,Wagle,Ratnakar,Ganpat,829,4/9/2012,0460/11488,,P,,,"Shringarpure House,",Ram,"Maruti Road,",Thane,400602,9969679281,nau,n,,
+780,Ms.,Kamath,Hemlata,Haridas,830,8/10/2012,0460/11499,,P,,,"Maa Durga Apt, B-104,","Mahatma Phule Ngr,","Behind Meenatai Thakre Udyan,",Thane,400606,"25812978,8450906325",vngr,,,
+781,Mr.,Shenoy,Nagesh,Pandurang,831,8/5/2012,0460/11495,,P,,,"Swastik Residency, A6/702,","Behind Muchhala Polytechnic College, G.B.Road,","Kavesar,",Thane,400615,9833788588,gb,,,y
+782,Mr.,Kamath,Girish,Balachandran,832,8/5/2012,0460/11496,,P,,,"Hiranandani Estate,","Hill Grange, B-1104,","Off Ghodbunder Road, Patlipada,",Thane,400607,"25458686,9833171519",gb,,,y
+783,Mr.,Nayak,Ranganath,Pangal,833,9/9/2012,0461/11517,,L,,,"Lalani Residency, C/901,","Opp Suraj Water Park,","Ghodbandar Road,",Thane,400607,"9820435161,9833562396",gb,,,
+784,Ms.,Nayak,Savita,.,833,9/9/2012,0460/11500,,L,,,"Lalani Residency, C/901,","Opp Suraj Water Park,","Ghodbandar Road,",Thane,400607,"9820435161,9833562396",gb,,,
+785,Mr.,Bhat,Chetan,Sudhakar,540,9/30/2012,0475/11865,,P,,AEWPB7527B,"Vijay Apt,  D-17,",Opp Teen Petrol,"Pump,",Thane,400602,"9769999171,9930469653,9321030776",nau,,,y
+786,Mr.,Pai,Narsimha,Anant,835,9/30/2012,0475/11868,,L,,,"Vasant Leela, Swati, 23/304,","Off GB Road,Waghbil,","Kasarvadavli,",Thane,400601,9223557101,gb,,,y
+787,Ms.,Borkar,Leena,Madhukar,836,9/30/2012,0475/11867,,P,,,"Akash Ganga,","Ashwini,B-13,","2nd Rabodi,",Thane,400601,9702026633,rab,,,y
+788,Ms.,Nayak,Radhika,Ratnakar,837,9/30/2012,0475/11866,,P,,,"Nandanvan Homes, A1/302,","Opp Vastu Anand,","Near Reliance Market, Parsik Nagar,",Kalwa,400605,"25390299,9820594142,9773721230,8097633111",kal,,,y
+789,Mr.,Gadiyar,Shreeniwas,Padmanabh,424,10/6/2012,0494/12330,,P,,ABJPG2400L,"Nauka Vihar CHS, B-2,","Dr.Moose Road,","Talao Pali,",Thane,400602,9833570575,nau,,,y
+790,Mr.,Hegde,Dinesh,Damodar,839,10/28/2012,0490/12250,,P,,,"Sri Sai Park, D-301","Azad Nagar#2,","Castle Mill,",Thane,400601,"9869237999,9869868508,9869227960",cm,,,y
+791,Mr.,Bhat,Govind,Venkatesh,840,10/28/2012,0490/12249,,P,,ABSPB5079Mgovind;ACHPB4777Agayathri,"Shubharambh, A-3,402,Ph2,","Off Tikujiniwadi Road,","Manpada,",Thane,400610,9967659020,vvlp,,,y
+792,Ms.,Pai,Yashaswini,Ashok,887,4/1/2012,0460/11483,,P,,,"Harsha Nidhi,Sharadhashram Rd,","Ratnagiri Bore Extension,","Chikmagalur,",Karnataka,577101,9867825979,ot,,,y
+793,Mr.,Bhat,Ganesh,Krishna,841,11/23/2012,0493/12304,,P,,,"Sri Sharnam CHS,C-302,","Nr Hiranandani Estate,","Patlipada,",Thane,400607,9920512107,gb,,,y
+794,Mr.,Nayak,Anil,.,842,11/23/2012,0493/12303,,P,,,"Hiranandani Estate,","Hill Grange, A-603,","Off Ghodbunder Road, Patlipada,",Thane,400607,"25308773,9820645668",gb,,,
+795,Mr.,Karnataki,Mohan,Vaman,843,11/23/2012,0493/12302,,P,,,"Swastik Regalia CHS, Revero,","Twr-3, 1403,",Waghbil,Thane,400615,"9920563413,9167070089",gb,,,y
+796,Mr.,Kamath,Neeladhar,Devadas,844,11/23/2012,0493/12301,,P,,,"Brahmand, Ph-7, F-11/202,","Ghodbunder Road,","Dharmachapada,",Thane,400607,"25893013,9821051397",gb,,,
+797,Mr.,Shenoy,Naresh,Mangalore,845,11/23/2012,0482/12050,,L,,,"Rutu Enclave,A2/401,","Near Muchhala Polytechnic College, Anand Ngr,","GB Road,",Thane,400615,9930277386;9930955026namita,gb,,,y
+798,Mr.,Nayak,Shailesh,Devidas,846,1/5/2013,0497/12403,,P,,,"Florence House, B/28,","Padwal Nagar, Nr Hanuman Temple,","Wagle Estate,",Thane,400604,"25814838,9892821512",wag,,,
+799,Mr.,Prabhu,Mohan,Sundar,847,1/5/2013,0497/12402,,P,,,"Vanrai, AL-6/14/8,","Airoli CIDCO Colony,","Sector No.5, Airoli",Navi-Mumbai,400708,"27792896,9892899326",ot,,,
+800,Mr.,Rao,Sunil,Kamalaksha,848,3/3/2013,0497/12424,,P,,,"Brindavan Soc,Bldg-08A/13,",Brij,"CHS,",Thane,400601,9930240857,bri,,,y
+801,Mr.,Shanbhag,Murlidhar,Keshav,849,12/26/2012,0493/12309,,P,,,"Arjuna Park, 601,","Road No.9, Raghunath Nagar,","Nr Picnic Lake,",Thane,400604,9892287251,dam,,,
+802,Mr.,Pai,Narasimha,Sreenivas,482,3/29/2013,0503/12551,,P,,AMNPS4489C,"Runwal Nagar, B4/21,","Behind Pratap Cinema,","Narolipada Road, Kolbad,",Thane,400601,9869443675,kol,,yk,y
+803,Mr.,Shanbhag,Gopalkrishna,Damodar,512,3/29/2013,0503/12552,,P,,AEEPS3081D,"Vikas Complex, A1/302,","LBS Marg,","Castle Mill,",Thane,400601,9892900245,cm,,yk,y
+804,Mr.,Baliga,Ravindra,Trivikram,850,3/29/2013,0503/12553,,P,,,"Rutu Estate,B3/602,","Nr Hiranandani Estate, Anand Ngr,","GB Road,",Thane,400607,9819684012,gb,,,y
+805,Mr.,Prabhu,Pandurang,Devidas,499,3/29/2013,0503/12554,,P,,AASPP5113B,"Vikas Complex, A1/402,","LBS Marg,","Castle Mill,",Thane,400601,9820656069,cm,,yk,y
+806,Ms.,Prabhu,Bharathi,Chandrakanth,851,4/4/2024,0480/9581,,P,,AALPP0577A,"Hill Garden CHS,Gulmohar,C313,","Manpada,Chitalsar,","Nr Tikujiniwadi,",Thane,400607,"9920192071sndsh,7208050992bhrt",gb,,,y
+807,Mr.,Nayak,Vivekanand,Ramesh,770,3/29/2013,0503/12556,,P,,,"Vijay Nagari Annexe, Bldg 6/23","Off GB Rd, Waghbil,","Kasarvadavli,",Thane,400615,9004007579,gb,,,y
+808,Mr.,Nayak,Manjunath,Pramod,209,4/14/2013,0499/12475,,P,,,"Chandani Apt, 104,","Shiva Ratna Street,","Kisan Ngr No.3, Rd No 16, Wagle Est,",Thane,400604,"9867893066,8425940371",wag,,,
+809,Mr.,Prabhu,Shridhar,Kamalaksh,852,4/14/2013,0503/12572,,P,,,"Lodha Paradise,Iris,B-202,","Nr Majiwada Flyover,","EE Highway,",Thane,400601,"25362208,9833560690",bri,,,y
+810,Mr.,Shenoy,Ramchandra,Vasudeo,825,4/28/2013,0507/12663,,P,,,"Pant Nagar Gangasagar CHS,","57/1703, Nr Apna Bazar,","Ghatkopar (E),",Mumbai,400075,"9322103136,9867737940",ot,,,
+811,Mr.,Prabhu,Vinod,N.,853,4/28/2013,0507/12662,,P,,,"Krishna Vatika, 406/7,","C. S. Road,","Dahisar (E),",Mumbai,400068,9930752751,ot,,,y
+812,Mr.,Hegde,Vijaykumar,Balkrishna,428,4/28/2013,0511/12758,,P,,,"Om Satya Pushpa CHS,B-6,","1st Flr, Behind SES School,","Panchpakhadi,",Thane,400602,9969024466,pp,,,y
+813,Mr.,Prabhu,Govind,G.,312,4/5/1988,"0146/3626,0058/1310",,P,x,,"Rachana, 10,","Ghantali Devi Rd,","Naupada,",Thane,400602,"25424567,9324565055",nau,n,,
+814,Mr.,Bhat,Anant,Laxminarayan,134,5/26/2013,0507/12667,,P,,,"Gautam Parag CHS, 501,","Green Road,","Louiswadi,",Thane,400604,9594797477,lw,,,
+815,Ms.,Shenoy,Pushpa,Umanath,973,8/18/2013,0507/12673,,P,,,"Srirang Soc,","CD-62,","D-4,",Thane,400601,"9867987699,9167907139pur",bri,,,y
+816,Mr.,Pai,Rajendra,Purushottam,856,9/30/2013,0541/13502,,P,,,"Gumohar Upvan CHSL, B-705,","Gawand Baug,","Pokhran Road No.2,",Thane,400610,"21718574,9820178533",vngr,,,
+817,Ms.,Shenoy,Savita,Rohidas,857,9/30/2013,0541/13501,,L,,,"Crystal Garden Estate CHSL,","Bldg-12,Flat-304,Glady Alwares Rd,","Nr D-Mart,Manpada",Thane,400610,"9167491233,9324837205,7304815867",vvlp,,,
+818,Ms.,Kamath,Yashwant,Narasimha,858,9/30/2013,0511/12775,,L,,,"Parijat, A6/304,","Raigad Aali, Chandanwadi,","Near Kachrali Talao,",Thane,400601,"8291539424, 9004239862",pp,,,y
+819,Mr.,Baliga,Jagdish,Varadraj,416,10/13/2013,0539/13461,,L,,,"Wimbledon Park, Bldg-3/304,","Opp JK School,Pokran Rd.No.1,","Vartak Ngr,",Thane,400606,9820364559,vngr,,,y
+820,Mr.,Mallapur,Amaresh,Shantkumar,465,10/13/2013,0520/13000,,P,,,"Anjali CHS,","D-7,","Panchpakhadi,",Thane,400602,"9920301697,9820904848",pp,,,y
+821,Ms.,Shenoy,Ramesh,R.,315,2/21/1990,0043/0941,,L,x,,"Prem Nagar CHS,","I-70,","Kopri Colony,",Thane(E),400603,"25321743,9821004715",kop,,,
+822,Mr.,Kamath,Umakant,Ananth,860,10/13/2013,0522/13049,,P,,ALNPK9794K,"Ratnatej-B, 1305,","Dhaval Hills, Gawand Baug,","Upavan, Pokran Rd No.2,",Thane,400610,9833738698,vvlp,,,y
+823,Mr.,Kamath,Vishal,Hemchandra,861,10/13/2013,0522/13050,,P,,,"Srirang Soc,","C-74, B-wing, H2 Bldg,","Opp Vrindavan Bus Stop,",Thane,400601,"2360958,9322512238,9322512298",bri,,,
+824,Ms.,Pai,Priya,Amit,862,10/13/2013,0539/13460,,L,,,"Lodha Amara, Casa Celeste,","W-26, 803,","Kolshet Road,",Thane,400607,"9833512850,9819951285",mw,,,y
+825,Mr.,Prabhu,Chetan,Raghuveer,863,2/7/2014,0547/13653,,P,,,"Rutu Park, Bldg-D1,","Flt-202, c/o Anju Prabhu","Nr Brindavan Bus Stop,",Thane,400601,8692010450,bri,,,
+826,Mr.,Kini,Ganapati,Narayan,864,1/10/2014,0545/13624,,P,,,"Aban Park, Ashish CHS,","B-546, Kolshet Road,","Dhokali,",Thane,400607,"9324361980depika,9321213839ganpti",mw,,,y
+827,Mr.,Mallya,Prashant,Chandrashekar,865,1/10/2014,0545/13621,,P,,,"Periera Nagar, Bldg No.6A/22,","Near Khopat Bus Stop,","Khopat Road, Pokhran Road No.1,",Thane-W,400601,9867530753,kol,n,,
+828,Mr.,Shenoy,Vaman,R.,326,1/29/1994,0069/3413,,L,x,,"Kanaiya Nagar,","B/1/3,","Kopri,","Thane(E),",400603,"32477013,9322246457",kop,n,,y
+829,Ms.,Prabhu,Vrinda,Jagdish,866,1/10/2014,0545/13625,,P,,,"Aakar Residency, C-506,","Waghbil,","Off G.B.Road,",Thane,400615,"9822974394,8879361635",gb,,,y
+830,Ms.,Prabhu,Smita,Vivek,754,2/10/2014,0546/13649,,P,,AMVPP2605B,"Pride Park,Alamanda, A-503,","Ghodbunder Rd,","Opp Lawkim,",Thane,400607,"9769424564Sakshi,9769624564Smita",gb,,,y
+831,Ms.,Mallya,Soumya,Naresh,867,2/10/2014,0546/13648,,P,,,"Shruti Garden, A-5/102,","Manorama Nagar,","Dhokali, Kolshet Road,",Thane,400607,"9869371279,9757392159",mw,,,
+832,Ms.,Bhagwath,Uma,Mahesh,167,1/10/2014,0545/13622,,P,,,"Ashar Sapphire, A-2004,","Dhokali Road,",Opp D-Mart,Thane,400607,"9004490193,9224148810",mw,,,y
+833,Mr.,Shenoy,Nagesh,Kundapur,868,4/25/2014,0007/0136,,P,,ALCPS8176L,"Eden Woods, Maple House, 5D,","Kevara Circle,","Off Pokhran Rd No.2,",Thane,400610,"7718844170,7718057321,9890707580",vvlp,,,y
+834,Mr.,Pal,Nagesh,Keshav,869,4/11/2014,0014/0279,,P,,,"Kores Nakshatra,402/Hasta,","Near Vartak Ngr,","Off Pokhran Rd No.1,",Thane,400606,"25882299,9757348236",vngr,,,
+835,Mr.,Kamath,Balakrishna,Sadananda,870,4/11/2014,0014/0278,,P,,AGGPK3296C,"Brigade Palm Springs,D-716,","35/37,Brigade Millenium Rd,Ph7,JPNgr,",Bangalore,Karnataka State,560078,9930200570,vvlp,,,y
+836,Mr.,Shanbhag,Vishwanath,Satish,871,4/11/2014,0014/0277,,L,,ABHPH8156L,"Vasant Vihar, Kanchan,","40/501,","Pokran Rd No.2,",Thane,400610,9820493959,vvlp,,,y
+837,Mr.,Kamath,Narayan,Durgadas,872,4/11/2014,0014/0276,,P,x,,"Om Shakti Apt, A-202,",Shivai,"Nagar,",Thane,400606,"25888665,25856618,9323507789",vngr,,,
+838,Mr.,Nayak,Mandar,Mohan,873,4/11/2014,0002/0037,,P,,,"Golden Park, A2-201,","Opp Navnit Motors, Gokul Nagar,","LBS Marg,",Thane,400601,"9869967870,7738375836",cm,,,y
+839,Mr.,Pai,Narasimha,Srinivas,874,4/11/2014,0002/0036,,P,,,"Sri Kunj CHS, A-002,","Behind Rajdeep Hotel, Kharegaon Naka,","Kalwa (W),",Thane,400605,9820590787,kal,,,
+840,Mr.,Nayak,Narsimha,Sunder,875,4/11/2014,0002/0035,,P,,,"Sri Kunj CHS, A-004,","Behind Rajdeep Hotel, Kharegaon Naka,","Kalwa (W),",Thane,400605,"25374392,9819979519",kal,,,
+841,Mr.,Kamath,Nitin,Ramakant,876,4/11/2014,0002/0038,,P,,,"Brindavan Soc,","Bldg-06,","Flt-12, Opp Hanuman Mandir,",Thane,400601,"9920300121,9920300129",bri,,,y
+842,Mr.,Pai,Baburaya,Venkatesh,877,4/11/2014,0002/0039,,P,,,"Millenium Tower, A-2, Flt-2,","2nd Flr, Sect-9,","Sanpada,",Navi Mumbai,400705,"27750046,9867921005",ot,,,
+843,Mr.,Prabhu,Saiprasad,Namdev,878,4/11/2014,0002/0040,,P,,,"Siddhachal, Ph-8,","1/104, Nr Vasant Vihar,","Pokhran Rd No.2,",Thane,400610,"21713904,9323359716",vvlp,,,y
+844,Mr.,Kamath,Santosh,Vinayak,880,5/4/2014,0026/0518,,P,,,"Royal Oasis,","11th Floor,","Panchpakhadi,",Thane,400602,"25367558,9820056746",pp,,,y
+845,Mr.,Shanbhag,Umesh,Vitthal,881,9/22/2014,0052/1025,,L,,,"Deepraj CHS,","B-Wing, 2 Flr, R/9,","near Gaondevi Temple,",Kalwa-W,400605,9619762861,kal,,,
+846,Mr.,Shenoy,Mohan,Gopal,882,9/26/2014,0029/0577,,L,,,"Mahalaxmi Plaza, Room#3,","Digha Naka, Thane Belapur Road,","Airoli,",Navi Mumbai,400708,9004172146,ot,,,
+847,Mr.,Shenoy,Sudhir,Subhaschandra,883,7/30/2014,0050/0990,,L,,,"Aditya CHS, F/B/15,","Gunasagar Nagar,","Opp Bank of Baroda, Station Road,",Kalwa-W,400605,9890400647,kal,,,y
+848,Mr.,Nayak,Dileepkumar,Krishna,884,9/30/2014,0050/0991,,P,,AANPN7725Q,"Imperial Heights,","53-903,","Opp Dadoji Kondev Stadium,",Thane-W,400601,"9004690478,25377434",mhgr,,,y
+849,Ms.,Bhat,Seema,Sachidanand,885,10/13/2014,0057/1138,,P,,,"Haware City, Bldg.7/505,","Behind Hyper City Mall,","Off Ghodbunder Road, Kasarvadavli,",Thane,400605,"8879794411,9920131314",gb,,,
+850,Mr.,Prabhu,Chandrashekhar,V,886,11/9/2014,0056/1118,,P,,AAFPP0732R,"Lodha Amara,","W-23, 1803,","Kolshet Road,",Thane,400607,"9428332039,8655280394,7086007070",mw,,,y
+851,Mr.,Kamath,Premanand,Katpadi,441,12/21/2014,0065/1292,,P,,AAEPK2556K * 2233-4761-9001,"Brindavan Soc,","Bldg-20A,","Flt-1,",Thane,400601,9322883647,bri,,,
+852,Mr.,Balgi,Chandrakant,Venkatesh,888,12/7/2014,0064/1277,,P,,,"Ameet-Anand CHS, A/1,","Near Parmartha Niketan,","Panchpakhadi,",Thane,400602,"9967165174,8108502930;8355826803",pp,,,y
+853,Mr.,Pandit,Deven,Jiwaji,889,12/7/2014,0064/1274,,P,,,"Maitri Vatika, Tulsi Bldg,","106-B,","Parsik Nagar,",Kalwa-W,400605,"25392384,9819269505",kal,,,y
+854,Ms.,Pandit,Deepa,Deven,889,12/7/2014,0064/1275,,P,,,"Maitri Vatika, Tulsi Bldg,","106-B,","Parsik Nagar,",Kalwa-W,400605,"25392384,9819269505",kal,,,y
+855,Mr.,Nayak,Prashant,V,890,12/7/2014,0064/1276,,P,,,"Ashok Nagar, 9B/701,","Dadlani Park Road,","Balkum,",Thane,400608,"9322140374,9833403903",mw,,,y
+856,Mr.,Nayak,Eknath,Cherdappa,8,2/21/1990,0043/0940,,P,x,,"Prem Nagar CHS,","E-113, 1st Flr,","Kopri Colony,",Thane(E),400603,9004437031,kop,,,y
+857,Mr.,Shanbhag,Arun,Vithal,891,12/31/2014,0068/1356,,P,,,"Shivai Darshan CHSL,","Mahada Plot No.77, B/19,Pokhran Rd-1,","Shivai Nagar,",Thane,400606,"8879832814,9820393614",vngr,,,y
+858,Ms.,Kamath,Poornima,Ramchandra,892,2/13/2015,0071/1411,,P,,,"Vastu Anand, Bldg.11, 204,","Parsik Nagar, Kharegaon,",Kalwa (E),Thane,400605,8898625100,kal,,,
+859,Mr.,Prabhu,Surendra,Gopal,893,2/13/2015,0071/1410,,P,,,"Joy Home, D-801,","LBS Marg,","Bhandup (W),",Mumbai,400078,"65040048,7208056048",ot,,,y
+860,Mr.,Kamath,Suhas,Suresh,140,3/13/2015,0073/1449,,L,,BHKPK8612G * 6282-7678-1206,"Rama Sadan CHS, 401,","Opp 3 petrol pump, Tekdi Bunglow,","Naupada,",Thane,400602,"8097161089,9833121925",3p,,,y
+861,Mr.,Rege,Sameer,Sashikant,894,3/13/2015,0073/1450,,P,,,"Patiksha Tower CHSL,501,","Dr Ambedkar Road,","Opp Vikas Palms,",Thane,400601,"25475451,8879250515",kol,,,y
+862,Mr.,Shenoy,Manjunath,Ravilochan,895,5/1/2015,0091/1814,,P,,sujata'AFKPS2321H,"Hiranandani Estate,","Flora, C/206,","Off Ghodbunder Road, Patlipada,",Thane,400607,"9978994443,7567933998",gb,,,y
+863,Mr.,Pai,Ajit,Vasant,896,5/1/2015,0091/1807,,P,,,"Minal Chaya CHS, 6, 1st Flr,","Almeida Road,Nr Nitin Casting, (c/oVTBhave)","Panchpakhadi,",Thane,400601,9869575895,pp,,,
+864,Mr.,Kamath,Sudhakar,Shrinivas,897,5/1/2015,0091/1806,,P,,,"SaiDeep, 204,","Nr Bhagirati Bunglow,","Kalwa,",Thane,400605,"9969495798,9819960966",kal,,,y
+865,Mr.,Pai,Rajesh,Diwakar,898,5/1/2015,0091/1808,,L,,,"Kishor Nagar, B-103,","Behind Union Bank,","Nr Gamdevi Temple, Kopri",Thane,400603,"9967222427,9324342987",kop,,,
+866,Mr.,Prabhu,Anant,Govind,899,5/1/2015,0091/1809,,P,,,"Krishna Vihar, 5,","Opp New English School,","Ramesh Pradhan Marg, Naupada,",Thane,400602,"25332437,9869350602",nau,,,y
+867,Mr.,Bhandarkar,Vivekanand,Shridhar,900,5/1/2015,0091/1811,,P,,,"Vardhaman Vatika,C/403,","G. B. Road,","Opp Tatvagyan Vidhyapeth,",Thane,400607,9823956690mam,gb,,,y
+868,Mr.,Shanbhag,Vasant,Devappa,901,5/1/2015,0091/1810,,P,,,"Green Square, C1/101,","Nr Sanghavi Hill, Behind D-Mart,","Kavesar, GB Road,",Thane,400615,"9820939119,8291416190,8691000777",gb,,,y
+869,Mr.,Kamath,Raghavendra,Vitthaldas,902,5/1/2015,0091/1812,,P,,,"Jai Mata Di CHS,B/3,GrdFlr,","Opp Saraswat Bank,","Station Road,",Kalwa,400605,9867165839,kal,,,y
+870,Mr.,Nayak,Mangesh,Murlidhar,903,5/1/2015,0091/1813,y,P,,AAOPN8464B*5552-9812-4534*11.9.69,"Saraswati Darshan,304,","Opp SES School,","Panchpakhadi,",Thane,400602,"9920705525mng,9930258437prtib",pp,,,y
+871,Ms.,Bhat,Rashmi,Ramchandra,29,5/13/2015,0099/1978,,P,x,,"Krishna Niwas, 6, 2nd Flr,","Opp Santosh Apt,","Shivaji Ngr, Naupada,",Thane,400602,"25425876,9892279024,9987980938",nau,,,
+872,Mr.,Prabhu,Raghavendra,Narasimha,905,5/13/2015,0098/1960,,P,,,"Niolac Solitaire Apts, A-1206,","Manpada,","Ghodbunder Road,",Thane,400607,9892819308,gb,,,y
+873,Mr.,Bhat,Vasudev,Shreenivas,906,8/2/2015,0099/1980,,P,,,"Hiranandani Meadows,","Mayflower, 1005,","Gladys Alvares Rd, Off Pokhran Rd.2,",Thane,400610,"40127477,9819717477,9833949434,9819947477",vvlp,,,y
+874,Ms.,Bhat,Rachita,Ramchandra,29,8/2/2015,0098/1959,,P,x,,"Krishna Niwas, 6, 2nd Flr,","Opp Santosh Apt,","Shivaji Ngr, Naupada,",Thane,400602,"25425876,9892279024,9987980938",nau,,,
+875,Mr.,Prabhu,Karunakar,Ramaraya,907,8/28/2015,0100/1985,,P,,,"Kavitha Park, B-205,","Near New Fish Market,","Kharegaon,",Kalwa,400605,"9869609810,9920845007,9920545007",kal,,,
+876,Mr.,Gadiyar,Dinesh,Pandurang,908,10/7/2015,0127/2533,,P,,,"Parkwoods, A/1503,","Behind D-Mart, Ghodbunder Road,","Kavesar,",Thane,400615,9869506835,gb,,,
+877,Mr.,Mahale,Swapnil,Devendra,909,10/7/2015,0127/2532,,P,,,"Devdaya CHS, Bldg-2,RNo.3,","Pokhran Road No.1,","Devdaya Nagar,",Thane,400606,"9967320355,8898945337",vngr,,,
+878,Mr.,Pai,Rahul,Ganapati,910,10/7/2015,0127/2531,,P,,,"Mahalaxmi Twr CHS,F-121,","12 Flr, Kasarvadavali,","Opp Hypercity Mall,",Thane,400607,9819177445,gb,,,y
+879,Mr.,Pai,Rahul,Ramchandra,911,10/26/2015,0107/2139,,P,,,"Shubharambh, D-Twr, 502,","Off Tikujiniwadi Road, Nr Vasant Vihar,","Manpada,",Thane,400610,9820838428,vvlp,,,y
+880,Mr.,Nayak,Sateesh,G.,912,10/26/2015,0107/2140,,P,,,"Willows CHS, Rupa, 12-B,","Opp Ashok Nagar,","Balkum,",Thane,400608,7506261717,mw,,,y
+881,Ms.,Kamath,Ritu,Rajendra,125,10/26/2015,0107/2138,,L,,BDDPK8246F,"Rajnigandha Upvan CHS, A-503/504,","Gawand Baug,","Pokran Road No.2,",Thane,400610,9987053171,vngr,,,y
+882,Mr.,Nayak,Rajdeep,Ratnakar,837,11/23/2015,0108/2159,,L,,,"Nandanvan Homes, A1/302,","Opp Vastu Anand,","Near Reliance Market, Parsik Nagar,",Kalwa,400605,"25390299,9820594142,9773721230,8097633111",kal,,,y
+883,Mr.,Pai,Sumeet,Srinivas,913,11/23/2015,0108/2160,,L,,BXPPP0931A,"Sunderam CHS,","A/18, 2-flr,","Near Gaondevi Temple,",Thane,400605,9867386782,kal,,,y
+884,Mr.,Hegde,Deepak,Diwakar,427,11/22/2015,0110/2184,,P,,,"Lodha Splendora,","Platino, E-block, 1903,","Bhayandarpada, G.B. Road,",Thane,400615,"9967013158kthy,9619518949dpk,9819340135alk",gb,,,y
+885,Ms.,Hegde,Kathyayini,Diwakar,427,11/22/2015,0110/2183,,P,,,"Lodha Splendora,","Platino, E-block, 1903,","Bhayandarpada, G.B. Road,",Thane,400615,"9967013158kthy,9619518949dpk,9819340135alk",gb,,,y
+886,Mr.,Nayak,Laxminarayan,Sujir,914,1/6/2016,0129/2567,,P,,,"Hiranandani Estate,","Caviana, B-1003,","Off Ghodbunder Road, Patlipada,",Thane,400607,8976111010,gb,,,y
+887,Mr.,Shenoy,Ajay,Vasant,915,1/19/2016,0129/2569,,P,,,"Mahavir Darshan CHS, B-201,","Sector-2, Plot-2,","Charkop, Kandivli (W),",Mumbai,400067,"9664352047,9869027689,28691152",ot,,,y
+888,Mr.,Gaitonde,Manoj,Pandharinath,916,1/19/2016,0129/2568,,P,,,"Shiv Sai Paradise, B-1102,","Behind Fatima Church,","Majiwada,",Thane,400601,9833947997,mw,,,y
+889,Mr.,Prabhu,Srikant,Venkatesh,917,3/21/2016,0129/2580,,P,,,"Sahakar CHS, 401,","Maharshi Karve Road,","Nr Bedekar Hospital, Naupada",Thane,400602,9869342759,nau,,,y
+890,Mr.,Bhat,Ganesh,B.,919,6/11/2016,0145/2897,,P,,,"Runwal Garden,","506/B,","Pokhran Road No.2,",Thane,400606,9920049178,vngr,,,y
+891,Ms.,Pai,Vidya,Haridas,222,6/11/2016,0145/2895,,P,,,"Gautam CHS, 503,","Behind Durga Vihar Hotel, Opp Kachrali","Talao, Nr TJSB Bank, Panchpakadi,",Thane,400602,"9987506227,9869046983,9892036383,9920868179",pp,,,y
+892,Ms.,Pai,Kavya,Haridas,222,6/11/2016,0145/2896,,P,,,"Gautam CHS, 503,","Behind Durga Vihar Hotel, Opp Kachrali","Talao, Nr TJSB Bank, Panchpakadi,",Thane,400602,"9987506227,9869046983,9892036383,9920868179",pp,,,y
+893,Mr.,Kamath,Dinesh,Dattatray,920,6/11/2016,0145/2894,,P,,,"Eden Wood, Regency, 2-B,","Dr. Gladys Alvares Marg,","Off Pokhran Rd-2,",Thane,400610,9004445496,vvlp,,,y
+894,Dr.,Bhat,Shweta,Rajendra,389,7/24/2016,0145/2900,,P,,,"Hiranandani Estate,","Apollo,B-802,","Off Ghodbunder Road, Patlipada,",Thane,400607,9867670544shweta;9867261057raj,gb,,,y
+895,Mr.,Mallya,Chandrashekar,U.,623,7/24/2016,0145/2899,,P,,AAEPM9871H * 7501-7900-3883,"Kashish Park,RajmataCHS,L1/7,","Nr Mulund Check Naka, Nr Tip Top Plaza,","LBS Marg,",Thane,400604,"9819663625,9867530753,9819688232",dam,,,y
+896,Mr.,Mandrekar,Yogendra,Bhalchandra,921,9/13/2016,0154/3078,,P,,,"Jai-Jui CHS, C-28/34,","Vasant Vihar,","Pokhran Rd 2,",Thane,400610,9892303117,vvlp,,,y
+897,Mr.,Bhat,Madhav,Narayan,922,9/13/2016,0152/3040,,P,,,"Shreeji Krupa-2 CHS,",Narendra Ballal,"Marg,",Thane,400601,8149111768,bri,,,y
+898,Mr.,Kamath,Vinod,Anant,923,9/13/2016,0166/3301,,P,,,"Om Shraddha Sabri CHS,202,","Vishnu Nagar,","Naupada,",Thane,400602,9967014772,nau,,,y
+899,Ms.,Kamath,Shruti,Vinod,923,9/13/2016,0152/3039,,P,,,"Om Shraddha Sabri CHS,202,","Vishnu Nagar,","Naupada,",Thane,400602,9967014772,nau,,,y
+900,Mr.,Pai,Vinayak,Ramesh,924,9/13/2016,0154/3079,,P,,,"Raheja Garden,Fantasia,A/804,","Opp.Tip Top Plaza,","LBS Marg,",Thane,400604,9022488489,dam,,,y
+901,Ms.,Kamath,Prabha,Jagdish,119,9/13/2016,0152/3038,,P,,,"Pereira Nagar, Bldg No.7-B/64,","Near Khopat Bus Stop,","Khopat Road, Pokhran Road No.1,",Thane-W,400601,"9967592260,7045657980",kol,,yk,y
+902,Mr.,Bhat,Ramananda,C,925,9/13/2016,0152/3037,,P,,,"Hiranandani Estate,","Prakruti Pearls A-1403,","Off Ghodbunder Road, Patlipada,",Thane,400607,9731755450,gb,,,y
+903,Mr.,Mallya,Kishore,Srinivas,926,9/13/2016,0152/3038,,P,,,"Shankar Chhaya Apt, 308,","Lokmanya Nagar,","Pada No.4,",Thane,400606,"9820837509,9987506048",vngr,,,
+904,Mr.,Bhat,Krishna,R (Chempi),927,9/13/2016,0152/3035,,P,,,"Hiranandani Estate,","Tribeca, B-2203/04,","Off Ghodbunder Road, Patlipada,",Thane,400607,"41005646,9819788509",gb,,,y
+905,Mr.,Kamath,Manjunath,Vaman,928,9/13/2016,0152/3034,,P,,,"Raheja Cmplx,Ganga,","A-310,","Balkum,",Thane,400608,9833619832,mw,,,
+906,Mr.,Bhandarkar,Yogesh,Subhash,929,10/3/2016,0166/3314,,P,,,"Akanksha Garden, B-401,","Manpada, Chitalsar,","Opp Shubharambh Gate #2,",Thane,400607,"9920728503,9820373791",vvlp,,,y
+907,Ms.,Nayak,Pooja,Dinesh,930,10/3/2016,0166/3313,,P,,,"Siddhachal, Ph-6,","2A-603, Nr Vasant Vihar,","Pokhran Rd No.2,",Thane,400610,8879085474,vvlp,,,
+908,Mr.,Mallya,Uday,Venkatesh,931,10/12/2016,0160/3197,,P,,,"Adarsh Lok CHS, B-105,","Vidyaniketan Marg,","Off M. G. Road,",Mumbai,400104,9820633272,ot,,,y
+909,Ms.,Mallya,Sapna,Uday,931,10/12/2016,0160/3198,,P,,,"Adarsh Lok CHS, B-105,","Vidyaniketan Marg,","Off M. G. Road,",Mumbai,400104,9820633272,ot,,,y
+910,Ms.,Pai,Veena,Vasant,386,10/12/2016,0160/3196,,P,,AATPP1442N,"Rustumjee Acura,","A-2104, Mumbai-Nasik Highway,","Nr Majiwada Flyover,",Thane,400601,9819588441veena,mw,,,y
+911,Mr.,Kamath,Baburaya,Bola,533,12/4/2016,0171/3420,,P,,ADTPK0330M,"Siddhachal Elite Ph-VIIA CHSL, 1B/203,","Nr Vasant Vihar,","Pokran Rd No.2,",Thane,400610,"9820054438,9449905721,9969105063",vvlp,,,y
+912,Mr.,Baliga,Prashant,Varadray,933,1/10/2017,0180/3597,,P,,,"Iqbal Heights CHS, A/402,","Rambaug Main Lane,",Rambaug,Kalyan-W,421301,9833381787,ot,,,y
+913,Ms.,Kudva,Kirti,Narsimha,932,1/10/2017,0180/3596,,P,,,"NG Vihar, Flt-102, Bldg.2,","Opp Laxmi Park, PL Deshpande Rd,","Vartak Nagar,",Thane,400606,9967545258,vngr,,,y
+914,Mr.,Nayak,Devdas,Krishna,934,2/11/2017,0181/3613,,P,,,"Hiranandani Estate,","Prakruti Pearls A-1103,","Off Ghodbunder Road, Patlipada,",Thane,400607,7227980316,gb,,,y
+915,Mr.,Padiyar,Prabhakar,Narayan,718,4/2/2017,0190/3798,,P,,AQAPP9228k,"Jagadale Twr,B-101,",Kopri,"Colony,",Thane,400603,9867133069,kop,,,y
+916,Mr.,Baliga,Manohar,Bantwal,237,4/2/2017,0186/3720,,L,,,"Buddhadev Vihar CHS, C-5,102","Nr Hill Garden,","Tikujiniwadi,Chitalsar,Manpada,",Thane,400610,"9820271671,9637864979",vvlp,,,y
+917,Mr.,Shenoy,Ranjal,Vinayak,936,4/16/2017,0187/3737,,P,,,"New Rajdeep CHS,4/B-13,","Manisha Nagar,",Kalwa (West),Thane,400605,"9819551043,2543051",kal,,,
+918,Mr.,Shanbhag,Sachin,Suresh,937,4/16/2017,0187/3738,,P,,,"Hiranandani Estate,","Fiona, 2501,","Off Ghodbunder Road, Patlipada,",Thane,400607,"9867246032,9820882559",gb,,,y
+919,Mr.,Shenoy,Amit,Ganpathi,938,4/16/2017,0187/3736,,P,,,"Kanakia Spaces,Niharika,","A-1902, Opp Lokpuram School,","Dr Gladys Alvarez Rd,",Thane,400610,8879410618,vvlp,,,y
+920,Ms.,Prabhu,Rashmi,Rathish,939,4/16/2017,01873735,,P,,,"Swastik Regalia CHS, Revero,","Twr-2, 1702,",Waghbil,Thane,400615,8693864747,gb,,,y
+921,Ms.,Kamath,Anupama,Satish,757,4/16/2017,0198/3953,y,P,,AFJPN4543H * 2260-0966-2040,"Brightland,C-1/402, Ph-1","Yashaswi Nagar,","Balkum,",Thane,400608,9920032109;9372601638arun,mw,,,y
+922,Mr.,Nayak,Ajith,Panduranga,942,10/10/2017,0205/4098,,P,,,"Wadhwa Courtyard, Rozanne, 22, 2Flr,","Pawar Ngr,","Pokharan Rd 2,",Thane,400610,"9819218280,9819427514",vvlp,,,y
+923,Mr.,Pai,Vittaldas,N,943,10/10/2017,0228/4558,,P,,,"Dosti Imperia, Gracia, B-2008,","Opp R Mall, Ghodbandar Road,","Manpada,",Thane,400610,7710091626,gb,,,y
+924,Mr.,Kamath,Surendra,Narayan,944,10/10/2017,0228/4560,,P,,,"Swastik Residency, B4/201,","Behind Muchhala Polytechnic College, G.B.Road,","Kavesar,",Thane,400615,9820229498,gb,,,y
+925,Mr.,Shanbhag,Mohit,Mohan,945,10/10/2017,0228/4557,,L,,,"Kanchanpushp Cmplx, Anamay,","A4/502, GB Road,","Opp Suraj Water Park,",Thane,400615,~1,gb,,,
+926,Mr.,Bhandarkar,Narasimha,.,946,11/7/2017,0230/4586,,P,,,"Cosmos Ruby-1, 20-D,","Ghodbunder Road,","Kavesar,",Thane,400615,9323781242,gb,,,y
+927,Ms.,Warik,Malini,Vinod,947,11/29/2017,0230/4588,,P,,,"Vakratunda Residency,","704, A-Wing,","Dhokali Naka,",Thane,400607,9987599536,mw,,,
+928,Mr.,Shenoy,Jayant,Subhash,941,1/30/2018,0232/4633,,P,,,"Dosti Vijeta,C-403,","Near Vedant Complex,","Vartak Ngr,",Thane,400606,9004382725,vngr,,,y
+929,Mr.,Kamath,Umesh,Narasinha,948,1/30/2018,0232/4635,,P,,,"Shiv Darshan CHS,","C-202, Opp Post Office,","Old Belapur Road,",Kalwa,400605,"9892675323,9004786446har",kal,,,
+930,Mr.,Salelkar,Harshita,Hemant,948,1/30/2018,0232/4634,,P,,,"Shiv Darshan CHS,","C-202, Opp Post Office,","Old Belapur Road,",Kalwa,400605,"9892675323,9004786446har",kal,,,
+931,Mr.,Nadkarni,Vasudeo,Prabhakar,950,5/21/2018,0243/4858,,P,,,"Adarsh Nagar,","1C/403,",Kolbad,Thane,400601,9892186134,kol,,,y
+932,Mr.,Prabhu,Ramanand,Narasimh,951,3/29/2018,0243/4852,,P,,,"Deeplaxmi CHS, C-36,","Mithagar Road,","Mulund (E),",Mumbai,400081,"9699269149,21639637",ot,,,
+933,Mr.,Mahale,Shankar,Ganesh,952,3/29/2018,0243/4851,,P,,,"Eden World, Atlanta, 7/103,","Opp PWD Office Compound,",Bhadwad,Bhiwandi,421302,9766688857,ot,,,y
+934,Mr.,Pai,Venkatesh,Ramakrishna,484,4/21/2018,0247/4936,,P,,CCMPP8045E * 3501-8049-7220,"Kalpataru Tower-B, 203/B,","Near Gaondevi Mandir / Rana Tower,","Station Road, Kalwa (W),",Thane,400605,"9870190506,8652456006,9619150362",kal,,,y
+935,Mr.,Shenoy,Prashant,Devappa,354,4/21/2018,0247/4937,y,P,,CEMPS2890Q * 6538 1497 9973,"Kalwa Jagruti CHSL, A-303,","Chhatrapati Shivaji Maharaj Chowk,","Kalwa Naka, Kalwa,",Thane,400605,"9869020769dvpp,9833889255prsh,9869353217pdmn",kal,,,y
+936,Ms.,Shanbhag,Kirti,Kishor,401,4/21/2018,0247/4938,,P,,EGUPS4727J * 9063-3431-7794,"Pratik Apt, D-201,","Waiti Wadi,","Ramchandra Nagar-3,",Thane,400604,"8652064745,9869484517,9987226164kir",vngr,,,y
+937,Mr.,Kamath,Rakesh,Ravidra,444,4/21/2018,0247/4939,,P,,AVCPK7530L * 9397-6436-2376,"Om Satya Pushpa,","B-6,","Panchpakhadi,",Thane,400602,"9819021836,9930179516rak",pp,,,y
+938,Mr.,Kamat,Anoop,Kishore,953,8/30/2018,0243/4860,,L,,,"Emerald Isle, Tower-9, 803,","Saki Vihar Road,","Powai,",Mumbai,400072,"9769773369, 9867180787",ot,,,y
+939,Ms.,Kamath,Rajashree,.,953,8/30/2018,0243/4859,,L,,,"Emerald Isle, Tower-9, 803,","Saki Vihar Road,","Powai,",Mumbai,400072,"9769773369, 9867180787",ot,,,y
+940,Ms.,Wagle,Deepa,Dinesh,957,10/20/2018,0281/5619,,P,,,"Rishikesh CHS, 204,","Nr Padmavati Venkatesh High School,","Old Mumbai-Pune Rd, Kalwa",Thane,400605,9637284846,kal,,,y
+941,Mr.,Rao,Ravindra,Niampalli,956,10/20/2018,0281/5620,,P,,ACCPR8048K,"Puranik City, Brisben, H/1102,","Kasarvadavli,","GB Road,",Thane,400615,9820365600,gb,,,y
+942,Ms.,Kamat,Rupali,Atul,958,3/31/2019,0285/5683,,P,,,"Nevara Soc, B1-8c, Flat#206/207","Dharam Veer Nagar,","Nr Tulsi Dham,",Thane,400610,"9833712627,9833056237",vvlp,,,y
+943,Ms.,Kamath,Manoj,Shantaram,959,4/21/2019,0293/5858,,P,,AGPPK0171R SangeetaMKamat,"B/202, Chintamani Twr,","Beside Shani Mandir,","Manorama Ngr,",Thane,400607,8108117300; (9892459872-Kajal),mw,,,y
+944,Ms.,Pai,Namrata,Ramchandra,629,4/21/2019,0310/6195,y,P,,AAJPP8804C * 9572-3828-4399,"Sundervan Park,603/604,","Gulmohor, Samata Ngr Rd,","Off Pokhran-1,",Thane,400604,"9819049509,9820808611",vngr,,,y
+945,Mr.,Bhat,Anant,R,771,8/25/2019,0310/6197,,P,,,"Pride Paradise, 201,","Nr Shyam Apt,",Brindavan,Thane,400601,"25432462,9821247442",bri,,,y
+946,Mr.,Pai,Vinod,Vasant,386,10/2/2019,0289/5779,,P,,,"Rustumjee Acura,","A-2104, Mumbai-Nasik Highway,","Nr Majiwada Flyover,",Thane,400601,9819588441veena,mw,,,y
+947,Mr.,Pai,Ulhas,Vasant,386,10/2/2019,0289/5780,,P,,,"Rustumjee Acura,","A-2104, Mumbai-Nasik Highway,","Nr Majiwada Flyover,",Thane,400601,9819588441veena,mw,,,y
+948,Mr.,Nayak,Vikram,Venkatraya (Manel),962,10/2/2019,0310/6199,,P,,BCFPB3293N,"Kipl Morya, A-504,","Behind D-Mart, Opp Haware Citi,","Kasarvadavli, Ghodbandar Road,",Thane,400615,"9820856766,9987399509",gb,,,y
+949,Mr.,Bhomkar,Dayanand,Venkatesh,963,10/2/2019,0310/6198,,P,,,"Sitaram Avenue, 301,","Sector-3,","Kharghar,",Navi Mumbai,410210,"9594757359,9820596692",ot,,,y
+950,Mr.,Kamath,Kiran,K,964,10/10/2019,0315/6285,,P,,,"Coral Heights CHSL,A1-103,","Vijay Garden Naka,","Behind Indusind Bank, Ghodbunder Road,",Thane,400615,9673140478,gb,,,y
+951,Mr.,Prabhu,Rajendra,Shantaram,965,10/10/2019,0315/6287,,P,,,"Jangid Heights, B-705,",Opp Tatvadyan,"Vidyapeeth,",Thane,400607,9849112145,gb,,,y
+952,Mr.,Shanbhogue,Ramesh,Narayan,966,10/10/2019,0315/6288,,P,,BGLPS3868Q,"Acme Ozone, Dandelia, 1204,","Khewra Circle, Glady Alwares Rd,","Opp Shubharambha Soc, Manpada,",Thane,400607,9870705574,vvlp,,,
+953,Mr.,Kudva,Protik,Chittaranjan,967,10/10/2019,0315/6286,,P,,,"Dosti Vihar, Vasudha, A-1402,","Pokhran Rd No.1,","Vartak Nagar, Nr Vedant,",Thane,400606,"9920092747, 9820094722",vngr,,,y
+954,Mr.,Kamath,Balkrishna,Anantvithal,968,1/1/2020,0340/6790,,P,,,"Accolade Galaxy CHS, Suncrest, D-702,","Green Road,","Louiswadi,",Thane,400604,9820648358,lw,,,y
+955,Mr.,Shanbhogue,Aravind,Venkatraya,969,1/1/2020,0340/6791,,P,,BAEPS0755B,"Kashidham CHS, B-702,",Parsik,"Nagar,",Kalwa,400605,9860592149,kal,,,y
+956,Mr.,Naik,Vibhav,Maruti,970,1/1/2020,0340/6792,,P,,,"Drug Employees CHS, 4-A/31,","Opp Raymonds,","Samata Nagar,",Thane,400606,9167540189,vngr,,,y
+957,Ms.,Shenoy,Rekha,Ramesh,253,2/5/2020,0341/6815,,P,,,"Akash Ganga,","Uttra CHS, 62,","2nd Rabodi,",Thane,400601,"9923752459,9769580678",rab,,,y
+958,Mr.,Pai,Vinay,Ramanath,971,2/17/2020,0341/6816,,P,,ATXPP6718N,"Shubharambh, D-Twr, 1304,","Off Tikujiniwadi Road, Nr Vasant Vihar,","Manpada,",Thane,400610,"8879404949,9167699104",vvlp,,,y
+959,Mr.,Shenoy,Prakash,Kamalaksha,974,7/19/2020,0342/6822,,L,,,"Sri Kunj CHS, B-401,","Behind Rajdeep Hotel, Kharegaon Naka,","Kalwa (W),",Thane,400605,9920511743,kal,,,y
+960,Mr.,Kamath,Rajaram,Vishnu,975,7/19/2020,0342/6823,,L,,,"Rajiv Gandhi Ngr, Chawl-13,","Room-1,","Wagle Estate,",Thane,400604,"9967045172, 9594780170",wag,,,y
+961,Mr.,Nayak,Satyanarayan,Pundalik,989,7/19/2020,0342/6824,,L,,,"Bhalchandra Bhiwa Apt, 4,","Bhavani Chowk, Surya Nagar,","Vitawa,",Kalwa W,400605,8424991997spn,kal,,,y
+962,Ms.,Pai,Savita,Pandurang,977,7/19/2020,0342/6825,,L,,,"Swami Ninai Chawl, Room-9,","Nr Shankar Mandir, Shantaram Nagar,","Vitawa,",Kalwa,400605,"8286241440, 8692040555",kal,,,y
+963,Ms.,Kamath,Srishti,Sandeep,978,7/19/2020,0342/6826,,L,,,"Digvijay Niwas, Room-22, 4th flr,","Padwal Nagar, Kisan Nagar,","Wagle Estate,",Thane,400604,"9869684700, 9137373474",wag,,,y
+964,Ms.,Kamath,Sujata,Rajendra,979,7/19/2020,0342/6827,,L,,,"Shivram Chawl, Room-4,","Nr Santoshi Mata Temple,","Shivaji Ngr, 2nd Rabodi,",Thane,400601,8286262379,rab,,,y
+965,Mr.,Bhat,Vinesh,Padmanabh,980,7/19/2020,0342/6828,,L,,,"Sai Bhushan CHS, 106,","Nr Fish Market, Nxt to Devkinandan Bus Stop,","Kharegaon,",Kalwa W,400605,9819593956,kal,,,y
+966,Mr.,Joishy,Gopalkrishna,Ramchandra,981,7/19/2020,0354/7074,,L,,,"Shreeji Dham, 104, 1st Flr,","Pakhadi, Behind Sahakar Bazar,","Kharegaon,",Kalwa W,400605,9869528698,kal,,,y
+967,Ms.,Nadkarni,Kanchan,Bhaskar,982,7/19/2020,0354/7075,,L,,,"Mandarmala CHS, B/2,","Shastri Ngr,","Nr Amrut Park,",Kalwa,400605,9920061338,kal,,,
+968,Ms.,Bhat,Anita,Ramchandra,983,7/19/2020,0354/7076,,L,,,"Lilawati CHS, 402,","Dattawadi,","Old Mumbai Pune Road,",Kalwa,400605,9867636890,kal,,,y
+969,Mr.,Bhat,Harish,Suresh,984,7/19/2020,0354/7077,,L,,,"Dongri Pada, Nr Water Tank,","Pole No.D/9,","GB Road,",Thane,400607,9820778223,gb,,,y
+970,Mr.,Pai,Kishor,Devidas,985,7/19/2020,0354/7078,,L,,,"Datta Kutir Chawl, 3,","Dattawadi, Near Padmavati School,","Kharegaon,",Kalwa W,400605,9833215568,kal,,,y
+971,Mr.,Nayak,Nitin,Puttanna,986,7/19/2020,0354/7079,,L,,,"Gaondevi Apt, 104, 1st Flr,","Vitawa, NearVittal Mandir,","Koliwada,",Kalwa,400605,8879019972,kal,,,
+972,Mr.,Nayak,Nityanand,Puttanna,987,7/19/2020,0354/7080,,L,,AFCPN0430N,"Orchid-207,","Jai Mata Di Compound,","Kalher,",Bhiwandi.,421302,"9892688411,8779590709anil?",ot,,,y
+973,Mr.,Rao,Girish,Babu,988,7/17/2021,0344/6879,,P,,,"Eden Woods, Maple House, 2-C,","Kevara Circle,","Off Pokhran Rd No.2,",Thane,400610,9820281939,vvlp,,,y
+974,Mr.,Nayak,Vedang,Satyanarayan,989,7/17/2021,0345/6890,,P,,CEFPN5945A*6556-7774-6943,"Bhalchandra Bhiwa Apt, 4,","Bhavani Chowk, Surya Nagar,","Vitawa,",Kalwa W,400605,8424991997spn,kal,,,y
+975,Mr.,Bhat,Srinivas,Devdas,990,7/17/2021,0344/6876,,P,,,"Vardhaman Garden, Tulip-104,","Near Rewale Talao,","Bhiwandi Rd,",Thane,400608,"9869473110, 8879193248",mw,,,y
+976,Mr.,Prabhu,Tejas,Girish,991,7/17/2021,0346/6907,,P,,,"Pushpanjali Residency, Ph3, S1, 702,","Opp Puranik City,","GB Road, Owala, Nr Vedant Hosp,",Thane,400615,7304825812,gb,,,y
+977,Ms.,Bhandarkar,Shruthi,Sudhirkumar,992,7/17/2021,0346/6908,,P,,,"Pushpanjali Residency, Ph1, C-304,","Opp Puranik City,","GB Road, Owala, Nr Vedant Hosp,",Thane,400615,"8425897724Shr,7718884079Sud",gb,,,y
+978,Mr.,Bhandarkar,Sudhirkumar,Sridhar,992,7/17/2021,0346/6909,,P,,,"Pushpanjali Residency, Ph1, C-304,","Opp Puranik City,","GB Road, Owala, Nr Vedant Hosp,",Thane,400615,"8425897724Shr,7718884079Sud",gb,,,y
+979,Mr.,Mallya,Mohit,Ajay,993,7/17/2021,0346/6912,,P,,,"Pavan Putra Society, A9/104,","Near Jai Matadi Compound,","Kalher,","Bhivandi,",421302,8087092814,ot,,,y
+980,Mr.,Kamath,Jagdish,Narasimha,994,10/19/2021,0349/6980,,P,,,"Morar Ashirwad, 101,","Nr Royal Challenge Hotel, Ramchandra Ngr,","EE Highway,",Thane,400604,9892409981,vngr,,,y
+981,Ms.,Prabhu,Sandhya,Gokuldas,996,4/4/2022,0359/7168,,P,,AAKPP8777B,"Dosti Vihar, Vithika, A/1706,","Pokhran Rd No.1,","Vartak Nagar, Nr Vedant,",Thane,400606,9769168861,vngr,,,y
+982,Ms.,Prabhu,Shobha,Manik,997,4/4/2022,0359/7167,,P,,ATLPP3877E,"Lodha Splendora,","Vivant-E, 2402,","Bhayandarpada, G.B. Road,",Thane,400615,9769303662/63,gb,,,
+983,Ms.,Nayak,Karuna,Yeshwant,998,4/4/2022,0359/7166,,P,,,"Dosti Vihar, Vrishti, A-1103,","Pokhran Rd No.1,","Vartak Nagar, Nr Vedant,",Thane,400606,"9819015456,9702508776,9819292221",vngr,,,y
+984,Ms.,Prabhu,Sumati,Ganesh,789,3/20/2022,0350/6990,,P,,AACPP0409N,"Sri Sai Baba Ngr,Bldg-8,Flt-5,","Mumbai-Pune Road,","Kalwa (W),",Thane,400605,9987311724,kal,,,y
+985,Mr.,Padiyar,Prasad,Pandurang,1000,4/10/2022,0355/7088,,P,,ADHPP1718Q,"Kalpataru Sunrise, E-264,",Kolshet,"Road,",Thane,400607,9819401767,kol,,,y
+986,Mr.,Padiyar,Pandurang,Subraya,1000,4/10/2022,0355/7089,,P,,,"Kalpataru Sunrise, E-264,",Kolshet,"Road,",Thane,400607,9819401767,kol,,,y
+987,Ms.,Padiyar,Priya,Pandurang,1000,4/10/2022,0355/7090,,P,,,"Kalpataru Sunrise, E-264,",Kolshet,"Road,",Thane,400607,9819401767,kol,,,y
+988,Mr.,Pai,Vishal,Pandurang,977,3/20/2022,0350/6991,,P,,,"Swami Ninai Chawl, Room-9,","Nr Shankar Mandir, Shantaram Nagar,","Vitawa,",Kalwa,400605,"8286241440, 8692040555",kal,,,y
+989,Mr.,Kini,Amit,Rohitaksha,1002,3/20/2022,0350/6992,,P,,,"Dreams CHS, 4A/301,","Off LBS Marg,","Bhandup (W),",Mumbai,400078,9867161442,ot,,,y
+990,Mr.,Pai,Hrishikesh,Pandurang,477,3/20/2022,0350/6993,,P,,,"Yogayog,","Room# 29/6,","Shivai Ngr,",Thane,400606,"9769221489,8652183013,9967849946",vngr,,,y
+991,Mr.,Kamath,Jagdish,Vithal,1004,3/20/2022,0350/6994,,P,,,"Runwal Plaza, A4/503,",Vartak,"Nagar,",Thane,400606,9833840467,vngr,,,y
+992,Mr.,Prabhu,Vighnesh,Sudhakar,247,3/20/2022,0350/6995,,P,,CAFPP6150D,"Ashok Nagar, 4A/203,","Dadlani Park Road,","Balkum,",Thane,400608,9823198776;8830644798;8652445599,mw,,,y
+993,Mr.,Kamath,Dheerandra,Subbarayan,1006,3/20/2022,0350/6996,,P,,AURPK0923F,"Sneh Park,B-307,","Opp Shriji Dham,","Parsik Nagar,",Kalwa W,400605,9594576899,kal,,,y
+994,Mr.,Prabhu,Nitin,Ramesh,1007,3/20/2022,0350/6997,,P,,,"Rustumjee Urbania, Acura, B-1604,",Nr Bridavan,"Soc,",Thane W,400601,9967466552;9819233637,mw,,,y
+995,Mr.,Bhat,Ajit,Hanumant,1008,3/20/2022,0350/6998,,P,,ADDPB0896K,"Runwal Garden City, Eirene Tower,","10/1504,","Balkum,",Thane,400608,"9869305843,7977430831",mw,,,y
+996,Ms.,Shanbhag,Vanita,Kishor,401,3/20/2022,0350/6999,,P,,AFZPS3807D,"Pratik Apt, D-201,","Waiti Wadi,","Ramchandra Nagar-3,",Thane,400604,"8652064745,9869484517,9987226164kir",vngr,,,y
+997,Mr.,Shanbhag,Santosh,Vithal,1009,4/10/2022,0355/7087,,P,,,"Rustumjee Azziano,","H-2002,","Majiwada,",Thane,400601,9833364359,mw,,,y
+998,Ms.,Jois,Sahana,Shrivardhaan,1010,4/10/2022,0355/7096,,P,,AFHPJ5676D-shrivardhan,"Hill Garden CHS, Shalimar,B412,","Manpada,Chitalsar,","Nr Tikujiniwadi,",Thane,400607,9819687486sri;9819587486sahana,gb,,,y
+999,Mr.,Kamath,Prasad,Devanand,1011,4/10/2022,0355/7097,,P,,,"Lodha Paradise,Olympia,B-404,","Nr Majiwada Flyover,","EE Highway,",Thane,400601,9820258868,bri,,,y
+1000,Mr.,Prabhu,Yogesh,Raghunath,1012,4/10/2022,0355/7098,,P,,,"Brahmand, Ph-5, Bldg#3, Flat#202,","Ghodbunder Road,","Dharmachapada,",Thane,400607,9619090747,gb,,,y
+1001,Mr.,Mallya,Vijay,Vasant,995,4/10/2022,0355/7099,,P,,,"Ozone Valley,","Bldg#3, 101,","Parsik,",Kalwa,400605,9004634516,kal,,,y
+1002,Mr.,Hegde,Suresh,Raghuram,1003,4/10/2022,0355/7100,,P,,,"Puraniks, Rumah Bali, Menuh,","B2-2103,","Bhayandarpada, GB Road,",Thane,400615,"9822113812,9049994177(sangeeta)",gb,,,y
+1003,Mr.,Nadkarni,Pradeep,Vasant,1005,4/10/2022,0361/7207,,P,,,"New Nandanvan CHS, A-202,","Azad Nagar,","Off GB Road,",Thane,400607,9820415522;,gb,,,y
+1004,Mr.,Shenoy,Harimohan,Narasimha,1001,4/21/2022,0361/7211,,P,,,"Hiranandani Estate,","Greenwich, B-502,","Off Ghodbunder Road, Patlipada,",Thane,400607,7021235273,gb,,,y
+1005,Mr.,Bhagwat,Damodhar,Ganpat,999,3/20/2022,0350/7000,y,P,,AHNPB8527B* 5884-7761-6636,"Yeshwant Society, D-7,","Nr Panch Parmeshwari Temple,","Kisan Nagar-1, Wagle Estate,",Thane,400604,9820135341dam;9920882470sushma.dgt,wag,,,y
+1006,Mr.,Shanbhag,Narayan,Ramkrishna,961,8/25/2019,0310/6196,,P,,,"Shreenath Apt,B-201,","Old Belapur Road,Opp New Marathi School,","Kalwa(W),",Thane,400605,9820857807,kal,,,y
+1007,Mr.,Pai,Sanjay,Nagesh,487,7/15/2022,0379/7575,,P,,AKCPP4643C,"Shree Laxmi Park, A-1/307,","Ph-1, Nr N.G.Vihar, P. L. Deshpande Rd,","Yashodhan Nagar,",Thane,400606,9987373736,vngr,,,y
+1008,Mr.,Shenoy,Mahesh,Govind,1013,7/15/2022,0379/7573,,P,,,"Vansivac CHS,","66A/31,","Brindavan,",Thane,400601,"8380035038,9137212025wa,8380035038",bri,,,y
+1009,Mr.,Kamath,Pramod,Vinayak,1014,7/15/2022,0379/7574,,P,,,"Sucheta CHS, C/107,","Patilwadi,","Panchpakhadi,",Thane,400601,"9869224245, 9619461715",chr,,,y
+1010,Mr.,Prabhu,Ravindra,Raghu,1015,9/26/2022,0361/7216,,P,,,"Hiranandani Estate,","Solitair, B-3202,","Off Ghodbunder Road, Patlipada,",Thane,400607,9869257300,gb,,,y
+1011,Mr.,Kudva,Rajesh,V.,1016,9/26/2022,0361/7215,,P,,AMDPK9874D,"Shree Sankalp CHS, 602,","Nr Tieten Medicity,","Nr Tieten Medicity,",Thane,400615,9820629446,gb,,,y
+1012,Mr.,Pai,Prashant,Sudhakar,1017,10/9/2022,0387/7737,,P,,,"Hiranandani Estate,","Alina, 701,","Off Ghodbunder Road, Patlipada,",Thane,400607,7022258664,gb,,,y
+1013,Mr.,Nayak,Karunakar,Kadathala,1018,10/9/2022,0387/7736,,P,,,Hyland Residency,"Marigold, 204, Bldg4,","Kolshet,",Thane,400607,9594119797,mw,,,y
+1014,Mr.,Prabhu,Gopalkrishna,.,1019,10/9/2022,0387/7740,,P,,AAFPP4703Q,"Garden Enclave, Bldg-6,","405,","Nr Vasant Vihar School,Pokhran Rd-2,",Thane,400610,9880438830,vvlp,,,y
+1015,Mr.,Prabhu,Achutha,Moolky,1020,10/9/2022,0387/7738,,P,,AAJPP8558R,"Garden Enclave, Bldg-5,","804-805,","Nr Vasant Vihar School,Pokhran Rd-2,",Thane,400610,9820452269,vvlp,,,y
+1016,Mr.,Kudva,Gopalkrishna,Padubidri,1021,10/9/2022,0387/7739,,P,,AAEPK2238C,"Garden Enclave, Bldg-6,","103,","Nr Vasant Vihar School,Pokhran Rd-2,",Thane,400610,9324023043,vvlp,,,y
+1017,Ms.,Shanbhag,Tanu,Gajanan,313,11/6/2022,0406/8103,y,P,,CEDPS7142J * 9610-4776-8430,"Prabhu Niwas, 17, 2nd flr,","Opp Teen Petrol Pump,","Tekdi Bunglow Galli, Naupada,",Thane,400602,"9322288878,8425834488, 9821318337t",3p,,,y
+1018,Mr.,Pai,Meera,Baburaya,1022,1/15/2023,0408/8150,,P,,,"Cosmos Springs, Astra CHS, 3A,","Ghodbunder Road,","Ovala,",Thane,400615,9619092457,gb,,,y
+1019,Mr.,Kamath,Girish,Pundalik,1023,1/15/2023,0408/8148,,P,,,"Ashok Nagar, Bldg-1, A-701,","Dadlani Park Road,","Balkum,",Thane,400608,9987881337,mw,,,y
+1020,Mr.,Kamath,Gaurav,Umesh,1024,1/15/2023,0408/8149,,P,,,"JVM Sky Court CHS, A-303,","Opp TMC Ground, Bhayandarpada,","Ghodbunder Road,",Thane,400615,9004096471,gb,,,y
+1021,Mr.,Shenoy,Laxmidas,Kudpikar,1026,3/17/2023,0410/8200,,P,,ANWPS1717M,"Pinewood CHSL, 906,","Ram Mandir Road,","Kasarvadavli, Ghodbunder Road,",Thane,400615,8652622927,gb,,,y
+1022,Mr.,Kamath,Venkatesh,Raghunath,1036,10/17/2023,0438/8747,,P,,,"Kishinleela Tower, 001,","Opp HDFC Bank, G P Road,","Kopri,",Thane,400603,9820583120ven;9029240994vin;8097266894ish,kop,,,y
+1023,Ms.,Kamath,Vinaya,Venkatesh,1036,10/17/2023,0438/8748,,P,,,"Kishinleela Tower, 001,","Opp HDFC Bank, G P Road,","Kopri,",Thane,400603,9820583120ven;9029240994vin;8097266894ish,kop,,,y
+1024,Ms.,Kamath,Isha,Venkatesh,1036,10/17/2023,0438/8749,,P,,,"Kishinleela Tower, 001,","Opp HDFC Bank, G P Road,","Kopri,",Thane,400603,9820583120ven;9029240994vin;8097266894ish,kop,,,y
+1025,Mr.,Shanbhag,Achut,Purushottam,1037,10/17/2023,0438/8752,,P,,,"Prestige Garden, B2/604,","Nr.Nitin Company,","Panchpakhadi,",Thane,400601,9769802280,pp,,,y
+1026,Mr.,Kini,Chandrakant,Gopalkrishna,1038,10/17/2023,0438/8751,,P,,ABZPK7999J,"Lodha Paradise,Jupiter,A-304,","Nr Majiwada Flyover,","EE Highway,",Thane,400601,9930481431,bri,,,y
+1027,Mr.,Kamath,Sanjaya,Jnanadeva,1027,3/26/2023,0433/8648,y,P,,ACPPK2994N*5868-3582-9154,"Neelkanth Greens,Flamingo-C2/1904,","Manpada,","Off Ghodbunder Road,",Thane,400610,9892702162,vvlp,,,y
+1028,Mr.,Mallya,Rajagopal,Sanjiv,1028,4/5/2023,0436/8716,,P,,,"Gholap Nagar; Bldg.C17.101,","Near Yogi Dham,","Murbad Road,",Kalyan-W,421301,9892250963,ot,,,
+1029,Ms.,Nayak,Vinita,Venugopal,1029,4/5/2023,0436/8715,,P,,,"Amrut Aangan, 3/101; Ph1;","Parsik Nagar,",Kalwa-W,Thane,400605,9699499979,kal,,,y
+1030,Mr.,Kamath,Ravindra,Vitthaldas,1030,6/11/2023,0436/8720,,P,,,"Sri Kunj CHS, B-002, Grd Flr,","Behind Rajdeep Hotel, Kharegaon Naka,",Kalwa-W,Thane,400605,7738220825,kal,,,y
+1031,Mr.,Pai,Ulhas,Narayan,1031,6/11/2023,0437/8731,,P,,,"Lodha Splendora,","Ignis, B-301,","Bhayandarpada, G.B. Road,",Thane,400615,"9820408920,9819311594",gb,,,y
+1032,Mr.,Bhakta,Yeshwanth,Ramachandra,1032,8/13/2023,0437/8733,,P,,,"Laxmi Narayan Residency,G-904","Opp Neelkanth Heights, Upavan,","Off Pokhran Rd No.2,",Thane,400610,9930033109,vvlp,,,y
+1033,Mr.,Telang,Nityanand,Ramdas,1033,10/1/2023,0437/8739,,P,,,"Cedar Dosti West County, A/1605,","Bhiwandi Wadpa Road,","Old Mumbai Agra National Highway, Balkum Pada,",Thane,400608,"8433746201,8433747502",mw,,,y
+1034,Mr.,Shanbhag,Vijendra,Arun,1034,10/1/2023,0437/8737,,P,,,"Anand Sagar CHS, A-903,","Opp Mahanagar CNG Station,","Khopat,",Thane,400601,9967062390,mw,,,y
+1035,Mr.,Shanbhag,Ravindra,Waman,1035,10/1/2023,0437/8738,,P,,,"Picadilly, A-603,","Shivsai Paradise,","Majiwada,",Thane,400601,9869790315,mw,,,y
+1036,Mr.,Shenoy,Girish,H,1039,10/26/2023,0446/8919,,P,,,"Lodha Paradise,Olympia,D-402,","Nr Majiwada Flyover,","EE Highway,",Thane,400601,9980154328,bri,,,y
+1037,Mr.,Herwadkar,Mangirish,Anand,1040,12/3/2023,0460/9182,,P,,,"Lokpuram,","Santoor, 105,","Off Pokhran Rd-2,",Thane,400610,9819310331,vvlp,,,y
+1038,Ms.,Bhat,Hema,Pundalik,1041,2/2/2024,0442/8836,,P,,,"Cosmos Spring, Astra 10B,","Nr Vaibhav Hotel, Ovala,","GB Road,",Thane,400615,9819235834,gb,,,
+1039,Ms.,Pai,Minal,Venkatesh,1042,2/2/2024,0442/8837,,P,,,"Aasavari CHS, B-902,","Shastri Ngr Naka,","Pokhran Rd-1,",Thane,400606,9920774596,vngr,,,y
+1040,Ms.,Desai,Pradnya,Amit,1043,2/2/2024,0442/8840,,P,,,"Ashok Nagar, 1B-501,","Dadlani Park Road,","Balkum,",Thane,400608,9867745467,mw,,,y
+1041,Mr.,Pai,Pandurang,Annappa,1044,2/2/2024,0442/8839,,P,,,"Manoshree CHS, A-10, 2nd Flr,","c/o Asha P Pai,","Shreenagar, Wagle Estate,",Thane,400604,"9167254407vi,9892052309pnd",wag,,,y
+1042,Mr.,Pai,Vipul,Pandurang,1044,2/2/2024,0442/8838,,P,,,"Manoshree CHS, A-10, 2nd Flr,","c/o Asha P Pai,","Shreenagar, Wagle Estate,",Thane,400604,"9167254407vi,9892052309pnd",wag,,,y
+1043,Mr.,Prabhu,Gurpur,Vittaldas,1045,2/2/2024,0460/9185,,P,,,"Raunak Park, B4-1004,","Pokhran Rd-2,","Kokani Pada,",Thane,400610,9987906702,vvlp,,,y
+1044,Mr.,Shenoy,Suresh,Ram,1046,2/2/2024,0460/9186,,P,,,"Unnathi Garden, Tulip, 301,","Opp Devadaya Ngr,","Pokhran Rd No.1,",Thane,400606,9969128702,vngr,,,y
+1045,Mr.,Nayak,Ganesh,Amruth,1047,2/2/2024,0460/9187,,P,,,"Lodha Amara,","W-33, 905,","Kolshet Road,",Thane,400607,9757126428,mw,,,y
+1046,Mr.,Kudva,Dinesh,Babraya,1048,2/2/2024,0460/9188,,P,,,"Giriraj Dreams, 2504,","Behind Saraswati Vidhyalaya,","Bhasker Colony, Naupada,",Thane,400602,"9769424455di,8369451588na",nau,,,y
+1047,Ms.,Kudva,Nalini,Dinesh,1048,2/2/2024,0460/9189,,P,,,"Giriraj Dreams, 2504,","Behind Saraswati Vidhyalaya,","Bhasker Colony, Naupada,",Thane,400602,"9769424455di,8369451588na",nau,,,y
+1048,Mr.,Shenoy,Narasinha,Vasudeo,1049,2/2/2024,0460/9190,,P,,,"Pancharatna CHS,","92A/26,","Brindavan Complex,",Thane,400601,9869020672;9769918293rekha;9930367447dipali?,bri,,,y
+1049,Mr.,Shenoy,Sudarshan,Dayanand,1050,2/2/2024,0460/9191,,P,,,"Cosmos Orchid Florica, 306,","Ram Mandir Road,","Kasarvadavli,",Thane,400615,9768328329,gb,,,y
+1050,Ms.,Kamath,Sujatha,Narayan,1051,2/2/2024,0460/9192,,P,,,"Prabhat Bldg, A-201,","Gavand Baug,","Upavan,",Thane,400610,9892341606,vvlp,,,
+1051,Mr.,Prabhu,Chandrakanth,Nagappa,851,3/29/2013,0503/12555,,P,x,,"Hill Garden CHS,Gulmohar,C313,","Manpada,Chitalsar,","Nr Tikujiniwadi,",Thane,400607,"9920192071sndsh,7208050992bhrt",gb,,,y
+1052,Mr.,Prabhu,Sandesh,Chandrakant,851,4/9/2024,0480/9582,,P,,AMGPP6344J,"Hill Garden CHS,Gulmohar,C313,","Manpada,Chitalsar,","Nr Tikujiniwadi,",Thane,400607,"9920192071sndsh,7208050992bhrt",gb,,,y
+1053,Ms.,Shenoy,Gopinath,Vasudev,557,2/9/2003,0100/2496,,L,,AWPPS8072D*,"Hans Nagar CHS, C-503/504,",Behind ST,"Workshop,",Thane,400601,"9967505017Sug,9820546832Ren",kol,,,y
+1054,Mr.,Shenoy,Yogish,Sadanand,1052,4/17/2024,0485/9694,,P,,,"N.M.Joshi CHSL,A-1201,","Annex Bldg No.4, Samuel Sir Marg,","Gavanpada,",MulundE,400081,9869210594,ot,,,y
+1055,Dr.,Puranik,Sudiksha,Uday,1053,4/17/2024,0485/9693,,P,,,"Alguj CHS, A007, Vasant Kunj,",Pawar,"Nagar,",Thane,400610,9740873660,vvlp,,,y
+1056,Mr.,Nayak,Rohit,Sadanand,1054,6/5/2024,0480/9591,,P,,,"Kalwa Blue Bird CHS,Flat-7,","Opp Bharti Chamber,","Old Belapur Road,",Kalwa,400605,9923616288,kal,,,y
+1057,Mr.,Pai,Nagnath,Vishwanath,1057,6/16/2024,0467/9333,,P,,,"Neelkanth Greens,Iris-701,","Manpada,","Off Ghodbunder Road,",Thane,400610,9833224997,vvlp,,,y
+1058,Mr.,Kamath,Nitin,Nagesh,1055,6/16/2024,0467/9334,,P,,,Arihant City G-408 Ph-2,"Bhadwad Gaon,",Bhiwandi,MH,421302,9762266856,ot,,,y
+1059,Mr.,Shanbhag,Mahesh,Nagesh,1056,6/16/2024,0467/9335,,P,,,"Prathamesh CHSL, 401,","Gawand Path,","Naupada,",Thane,400602,"9833028515,9833496296,",nau,,,y
+1060,Mr.,Prabhu-Moni,Datta,Govind,1058,8/4/2024,0492/9831,,P,,,"Rustumjee Azziano,","F-1904,","Majiwada,",Thane,400601,9921138828,mw,,,y
+1061,Mr.,Kamath,Sunil,Manohar,1059,8/1/2024,0492/9826,,P,,,"Shaligram CHS, A-102,","Nr Ambika Yoga Kutir,","Gokul Nagar, Castle Mill Area,",Thane,400601,9870533398,cm,,,y
+1062,Ms.,Shenoy,Padma,Harimohan,1060,8/2/2024,0491/9815,,P,,,"Hiranandani Estate,","Greenwitch, B-502","Off Ghodbunder Road, Patlipada,",Thane,400607,9324614916,gb,,,
+1063,Mr.,Shenoy,Ashok,Vyenkatrao,1062,8/11/2024,0492/9837,,P,,,"OmShivParvati CHS, 504,","Takoli Mohalla,","Opp TMC School, Kalwa",Thane,400605,"9869345181,9869435199",kal,,,y
+1064,Ms.,Hegde,Vidya,Vivek,976,8/11/2024,0492/9838,,P,,,"Yeshwant Society, D-1,","Nr Panch Parmeshwari Temple,","Kisan Nagar-1, Wagle Estate,",Thane,400604,9833367233,wag,,,y
+1065,Mr.,Hegde,Prashanth,Mangalore,1061,8/11/2024,0492/9839,,P,,AAAPH0965R,"Hill Garden CHS, Gulmohar,D323-1","Manpada,Chitalsar,","Nr Tikujiniwadi,",Thane,400607,9972731544,gb,,,y
+1066,Ms.,Pai,Chetana,Mahesh,1063,9/19/2024,0493/9850,,P,,9646-9053-3337,"Chandan CHS, Plot# 31/B-4,","Savarkar Nagar,","Yashodhan Nagar,",Thane,400606,"9702509147, 8652108071",vngr,,,y
+1067,Mr.,Padiyar,Sachidanand,Gopalkrishna,1064,9/19/2024,0493/9851,,P,,,"Navnath Paradise, B-601,","Gokhale Road,","Mulund (E),",Mumbai,400081,9821554959,ot,,,y
+1068,Ms.,Nayak,Geeta,Krishna,1065,10/6/2024,0016/0304,,P,,9461-8107-3240,Rosa Gardenia B4/1102,"GB Road,","Kasarvadavali,",Thane,400615,9892368886,gb,,,y
+1069,Mr.,Shanbhag,Vinesh,Ramesh,1066,10/6/2024,0016/0301,,P,,,"Neelkanth CHS, B-601,","Paranjapewadi,","Behind Sindhutirth Soc, Nr Makhmali Talao,",Thane,400601,9967060704,chr,,,y
+1070,Mr.,Shanbhag,Vivek,Damodar,1067,10/6/2024,0016/0303,,P,,8832-1246-1346,"Crompark, B-26,","Yashodhan Nagar,","Pada No.2,",Thane,400606,8652298087,vngr,,,y
+1071,Mr.,Nayak,Priya,Sarvottam,1068,10/6/2024,0494/9871,,P,,cchps6873g;4595-3715-5173,"Hill Spring, B-101,","GB Road,","Kavesar,",Thane,400615,9892985939,gb,,,y
+1072,Mr.,Shenoy,Damodar,Bellikoth,1069,10/6/2024,0016/0302,,P,,,"Mahavir Kalpavruksha, Tulip 202,","Behind Hypercity,","Kasarvadavali, GB Road,",Thane,400615,7387646864,gb,,,y
+1073,Ms.,Gothivarekar,Sangeeta,Shashikant,1070,11/14/2024,0020/0397,,P,,,"Sargam CHS, 401,","Near Shiv Sena Office,",Charai,Thane,400601,"9867212522,9820273794",chr,,,y
+1074,Ms.,Kamath,Jaya,M,1071,12/30/2024,0027/0530,,P,,,"Om Shiv Krupa B-21,","Manisha Nagar,",Nr Abhyudaya Bank,Kalwa,400605,7304651190,kal,,,
+1075,Ms.,Puranik,Sandhya,Mahesh,1072,12/30/2024,0027/0533,,P,,,"Shree Sankalp CHS, 803,","Nr Tieten Medicity,","Nr Tieten Medicity,",Thane,400615,9167346730,gb,,,y
+1076,Mr.,Nayak,Ganesh,Gopal,1073,12/30/2024,0027/0531,,P,,,"Bella Vista CHS, 1603,","Oswal Park, Nr Maria Hotel,","Pokhran Road-2, Majiwada",Thane,400601,9867224719,gb,,,y
+1077,Mr.,Mallya,Prathamesh,Kishore,1074,1/19/2025,0030/0585,,P,,,"Jagat Enclave,42,","Lokmanya Nagar,","Opp Hariom Super Market, Pada-4",Thane,400606,9987506049;9930510662,vngr,,,y
+1078,Mr.,Kini,Shrinath,Ramesh,1075,1/19/2025,0030/0586,,P,,4350-1493-7934,"Rajvilas Hawa Mahal, A-1401,","Manpada,","Ghodbunder Road,",Thane,400610,8369904120,gb,,,y
+1079,Ms.,Mallya,Usha,Prathamesh,1074,1/19/2025,0030/0584,,P,,,"Jagat Enclave,42,","Lokmanya Nagar,","Opp Hariom Super Market, Pada-4",Thane,400606,9987506049;9930510662,vngr,,,y
+1080,Mr.,Prabhu,Venkatesh,Baburay,1076,1/27/2025,0030/0588,,P,,,"Shaligram CHS,B-101,","B/h Ginger Hotel, Nr Ambika Yoga Kutir,","Castle Mill Naka, Gokul Ngr,",Thane,400601,9619643081,cm,,,y
+1081,Mr.,Kanvinde,Ranjit,Manohar,1077,1/15/2025,0028/0542,,P,,5642-4496-1558,"New Shivalaya CHS,C-401,","Namdeowadi, Panchpakhadi,","Nr Gurukul Soc,",Thane,400602,9324365164,pp,,,y
+1082,Ms.,Nayak,Aparna,Ravi,1078,1/15/2025,0028/0541,,P,,,"Manisha Tower, 901, Tata Colony,","Nr Punjab National Bank,","Mulund-E,",Mumbai,400081,9769685971,ot,,,y
+1083,Ms.,Maller,Purnima,Mohan,1079,1/15/2025,0027/0540,,P,,8556-9554-7121,"Runwal Garden City, Rosemary, B2/1204,","University Road,","Balkum,",Thane,400608,9930615440,mw,,,y
+1084,Mr.,Wagle,Sudhr,Sadanand,1080,10/8/2024,0494/9870,,P,,,"Vishwajeet Soc, B4,",Veer Sawarkar,"Marg,",Thane,400602,9920329489,3p,,,y
+5001,Dr.,Yeolekar(Prabhu),Archana,Tapan,904,,,,W,,,"Rajdarshan CHS,","Opp Railway Platform No.1, Dada Patil Wadi,","Naupada,",Thane,400602,"7666412095,9619585594,25376942",nau,,,y
+5002,Mr.,Baliga,Srinivas,Varadraj,416,,,,N,,,"Wimbledon Park, Bldg-3/304,","Opp JK School,Pokran Rd.No.1,","Vartak Ngr,",Thane,400606,9820364559,vngr,,,y
+5003,Mr.,Basrur,D.,N.,417,,,,N,,,"Brindavan Soc,","Bldg-41A,",Flt-41,Thane,400601,~1,bri,,,
+5004,Mr.,Nayak,Ramesh,Perdur,770,,,,N,,,"Vijay Nagari Annexe, Bldg 6/23","Off GB Rd, Waghbil,","Kasarvadavli,",Thane,400615,9004007579,gb,,,y
+5005,Mr.,Bhat,Sudhir,Anant,419,,,,N,,,"Maitri Heights,1002,","Opp Jawahar Jyoti Soc,","Louiswadi,",Thane,400604,"9819694325, 9819020361",lw,,,y
+5006,Mr.,Gadiyar,R.,S.,420,,,,N,,,"Brindavan Soc,","Bldg-01B,","Flt-42,",Thane,400601,"9969451351,9820888725,9819353695",bri,n,,
+5007,Mr.,Bhat,Govindrai,U.,421,,,,N,,,"Sri Gaganesh CHS,","501,","Sawarkar Nagar,",Thane,400606,~1,vngr,n,,
+5008,Mr.,Desai,S.,V.,422,,,,N,x,,"Uday Nagar CHS,","A/5,","Panchpakhadi,",Thane,400602,25435486,pp,,,
+5009,Dr.,Kamath,H.,R.,423,,,,N,,,"Oswal Park, Rajanigandha,","21/22,","Pokran Rd No.2,",Thane,400601,~1,vvlp,n,yk,
+5010,Ms.,Nayak,Umadevi,Mahesh,676,,,,N,,,"Jai Jalaram Soc,","5/19,","Kharkar Ali,",Thane,400601,9820414566,mhgr,,,y
+5011,Mr.,Gadiyar,M.,A.,425,,,,N,x,,"Damani CHS, Bldg-1, Flt-9,","Opp Datta Mandir,","Naupada,",Thane,400602,~1,dam,,,
+5012,Mr.,Gokhale,G.,G.,426,,,,N,,,"Sonal CHS,401,","Panchpakhadi,","Nr SES School,Panchpakhadi,",Thane,400602,25362167,pp,n,,
+5013,Mr.,Bhat,Devidas,.,817,,,,N,,,"Rajhans-Deep CHS,B-102,","Dattawadi,","Kalwa,",Thane,400605,9819251597,kal,,,
+5014,Dr.,Pai,Bhujang,Upendra,855,,,,N,,,"Tagore Avenue,302,","Tagore Road,",Santacruz (W),Mumbai,400054,~1,ot,,,
+5015,Mr.,Isloor,G.,S.,429,,,,N,,,"Nauka Vihar CHS, A-4,","Dr.Moose Road,","Talao Pali,",Thane,400602,~1,nau,n,,
+5016,Mr.,Pai,Suhas,T.,599,,,,N,,AAAPP7154Q-suhas,"Wimbledon Park, Bldg.4/203,","Opp JK School,Pokran Rd.No.1,","Vartak Ngr,",Thane,400606,9820054128,vngr,,,
+5017,Mr.,Kamath,A.,G.,431,,,,N,,,"Jeevan CHS,","B-7,","Panchpakhadi,",Thane,400602,"9821553034,25414119",pp,,,
+5018,Mr.,Kamath,Murlidhar,N.,432,,,,N,,ABAPK3870F'sunil,"Konark Tower,401,","Gantali Devi Rd, Opp Sainath Mandir,","Naupada,",Thane,400602,"9833437374,9004419390,9920203075",nau,,,y
+5019,Mr.,Kamath,Satyanarayan,S.,433,,,,W,,,"River Wood Park, 201/33-A,","Kalyan-Shil Road,","Kidkali, Desai,",Dombivli,421204,"9833834534,9224318687",ot,,,y
+5020,Mr.,Kamath,Ashok,A.,434,,,,N,,,"Vandana House, 2,","Nr Vandana Cinema,","Veer Sawarkar Marg,",Thane,400602,"8767144481,9870358788,(9930839085shobha)",3p,,,y
+5021,Mr.,Rao,Raghunath,.,622,,,,N,,,"Hiranandani Estate,","Hill Grange, A-703,","Off Ghodbunder Road, Patlipada,",Thane,400607,"55999670,~1",gb,,,
+5022,Mr.,Kamath,B.,N.,436,,,,N,,,"Industrial Bureau, 18,","Octroi Naka Shopping Centre,","Opp SriNagar,WagleEstate,",Thane,400604,~1,wag,,,
+5023,Mr.,Kamath,C.,G.,437,,,,N,x,,"Brindavan Soc,","Bldg-01A,","Flt-42,",Thane,400601,~1,bri,,,
+5024,Mr.,Kamath,Devdas,S.,438,,,,N,,,"Shivneri CHS,2,","Opp.Gurukul Soc,","Panchpakhadi,",Thane,400602,"8425926644,9420139194,7022639301",pp,,,y
+5025,Mr.,Kamath,Sandeep,B.,439,,,,N,,,"Vikas Complex, B2/504,","LBS Marg,","Castle Mill,",Thane,400601,"25470817,9820008293",cm,,yk,y
+5026,Mr.,Kamath,Sachin,G.,440,,,,N,,,"Raheja Cmplx,Shivsmrithi,","2/101,","Balkum,",Thane,400608,9870489279,mw,,,y
+5027,Ms.,Tristar,Bolting,.,854,,,,W,,,"Pandey Industrial Estate,","Plot #268,","Pokhran Road No.1, Upvan,",Thane,400606,"25884343,25887449",vngr,,,y
+5028,Ms.,Prabhu,J,S,201,,,,N,x,,"Mahavir Umang CHS,","203-A,","Nr.Adarsh Nagar,",Thane,400601,~eml,kol,,yk,y
+5029,Mr.,Kamath,M,M.,443,,,,N,,,"Ratanshi Tower, A-wng, 404,","Nr Kalwa Medical Store,","Kalwa,",Thane,400605,"25405814,9867180787",kal,,,
+5030,Mr.,Kamath,Ravindra,Mukund,444,,,,N,,,"Om Satya Pushpa,","B-6,","Panchpakhadi,",Thane,400602,"9819021836,9930179516rak",pp,,,y
+5031,Mr.,Kamath,Ramesh,N.,445,,,,N,,,"Rama Sadan CHS, 502,","Opp 3 Petrol Pump,","Tekdi Bunglow Road, Naupada,",Thane,400602,9833433569,nau,,,
+5032,Mr.,Kamath,Ramchandra,Narayan,446,,,,N,,,"Suresh Park,A-103,","Devidayal Compound,","Pokhran Rd No.1,",Thane,400606,"9833645320,9653348318",vngr,,,y
+5033,Mr.,Kamath,Vasant,T,447,,,,N,,ADHPK1398Mvidya,"White House CHS,B/6,","Mumbai-Pune Rd,","Kalwa(W),",Thane,400605,"9833838455,8779193887",kal,,,y
+5034,Ms.,Kamath,Vatsala,.,448,,,,N,,,"Vasant Vihar, Shami,","72/203,","Pokran Rd No.2,",Thane,400610,~1,vvlp,,,
+5035,Mr.,Korgaonkar,Nitin,P,618,,,,N,,,"Rutu Park, Bldg-C3,","Flt-201,","Nr Brindavan Bus Stop,",Thane,400601,9869267344,bri,,,
+5036,Mr.,Kamath,Suresh,Subraya,450,,,,N,,,"Golden Park, C1-502,","Opp Navnit Motors, Gokul Nagar,","LBS Marg,",Thane,400601,9833314796,cm,n,,
+5037,Mr.,Kamath,Subhash,Vithal,451,,,,N,,,"Surya Kiran, Flat-5,","1st Floor, B-Cabin,","Near Railway Station,",Thane,400602,"9137333855,8850149045,7045210307",nau,,,
+5038,Mr.,Kudva,Mohan,K.,452,,,,N,,,"Brindavan Soc,","Bldg-65A,","Flt-33,",Thane,400601,9833388838,bri,,,
+5039,Mr.,Kulkarni,S.,B.,453,,,,N,,,"Natraj CHS,","E-1,","Panchpakhadi,",Thane,400602,"55921544,~1",pp,n,,
+5040,Mr.,Kamath,Vishnu,G.,454,,,,N,,,"Vartak Nagar, 24/745,","Nr Datta Mandir,","Naupada,",Thane,400606,~1,vngr,n,,
+5041,Mr.,Kini,Ganesh,.,455,,,,N,,,"Runwal Plaza, A-12/304,","Opp Kores Tower, Pokran Rd No.1,","Vartak Nagar,",Thane,400606,~1,vngr,n,,
+5042,Mr.,Kini,Janardhan,K.,456,,,,N,,,"Raheja Cmplx,Shivsmrithi,","1-B/306,","Balkum,",Thane,400608,"25364127,~1",mw,,,
+5043,Mr.,Kudva,Chandrakant,V.,457,,,,W,,,"Chatainya CHS,C2-20,","Ganesh Nagar,","Manpada Rd,",Dombivli(E),421201,9769317328,ot,,,
+5044,Mr.,Mallya,Dnyanesh,C.,458,,,,N,,,"New Jai Vasant CHS, 201,","Ravi Compound,","Panchpakhadi,",Thane,400602,9820495357,pp,,,y
+5045,Mr.,Pai,B.,S.,1025,,,,N,,ACBPP6239K,"Glendale, Hyacinth, 93,","Dr Gladys Alvares Rd,","Pokhran 2,",Thane,400610,~1,vvlp,n,yk,
+5046,Mr.,Rao,Ananth,Nalkur,460,,,,N,,,"Srirang Soc,","CD-104,","D-12,",Thane,400601,"25436263,9004022989",bri,,,y
+5047,Ms.,Anjana,Nandi,.,461,,,,N,,,"Devdaya Nagar CHS, 17/2, Ph-2,",Pokhran Road,"No.2,",Thane,400606,9820415618,vngr,,,
+5048,Mr.,Mahale,G.,M.,462,,,,N,,,"Runwal Nagar, B4/26,","Behind Pratap Cinema,","Narolipada Road, Kolbad,",Thane,400601,~1,kol,n,,
+5049,Ms.,Mahale,Smita,S.,463,,,,N,,,"Radha Niwas, 2,","Kisan Ngr No.2,Road No.16,","Opp Durga Punjab Hotel,",Thane,400604,~1,wag,,,
+5050,Mr.,Mhambrey,Shamrao,R.,464,,,,N,,,"Pitruchaya,7,","Kisan Ngr No.1,","Nr Navodaya School,",Thane,400604,~1,wag,,,
+5051,Mr.,Mallapur,Shantakurmar,S.,465,,,,N,,,"Anjali CHS,","D-7,","Panchpakhadi,",Thane,400602,"9920301697,9820904848",pp,,,y
+5052,Ms.,Vaiti,Vandita,Sameer,786,,,,W,,,"Vasant Vihar, Shami,","71/402,","Pokran Rd No.2,",Thane,400610,9870751185,vvlp,,,y
+5053,Mr.,Nayak,M.,S.,467,,,,N,,,"Brindavan Soc,","Bldg-30B,","Flt-14,",Thane,400601,"25361575,9029095995,9819503855",bri,,,
+5054,Ms.,Nayak,Prema,.,468,,,,N,,,"Raj Darshan CHS, C-110,","Umed Nagar,","Louiswadi,",Thane,400604,"25832413,9619403007",lw,,,y
+5055,Mr.,Nayak,C.,L.,469,,,,N,,,"Rutu Park, Bldg-C3,","Flt-402,","Nr Brindavan Bus Stop,",Thane,400601,"9820206932,9930810518",bri,,,y
+5056,Mr.,Ankola,Shriniwas,V,796,,,,N,,,"Surya Prakash, 17,","Tekdi Bunglow,","Naupada,",Thane,400602,9967176731,nau,,,y
+5057,Mr.,Nayak,R.,A.,471,,,,N,,,"Kranti Twr, 52-A,9th Flr,","Sect-9,","Shree Nagar,",Thane,400604,~1,wag,,,
+5058,Mr.,Baliga,Vinit,.,818,,,,N,,,"Kashish Park,RajmataCHS,M10/20","Nr Mulund Check Naka, Nr Tip Top Plaza,","LBS Marg,",Thane,400604,"25834251,9769242368",dam,,,
+5059,Mr.,Nayak,Umesh,V.,473,,,,N,,,"Devmata Bldg, 21, 4th Flr,","Behind Radha Niwas,","Rd.No.16, Kisan Ngr No.2,Wagle Estate,",Thane,400604,"25835540,9594112811",wag,,,
+5060,Mr.,Nayak,V.,R.,474,,,,N,,,"Eden Wood, Cedar, 7-B,","Dr. Gladys Alvares Marg,","Off Pokhran Rd-2,",Thane,400601,~1,vvlp,,,
+5061,Mr.,Prabhu,Satish,Venkatesh,233,,,,N,,,"Raj Park, Roshni Apt,A-1/204,","Pune Road, Parsik,","Kalwa,",Thane,400605,"25373311,9769482351",kal,,,
+5062,Mr.,Nayak,N.,R.,476,,,,W,,,"Dhiraj Apt,","52,","J. D. Road,",Mulund (W),400080,"25921613,~1",ot,,,
+5063,Mr.,Kamath,Suresh,N,140,,,,N,,,"Rama Sadan CHS, 401,","Opp 3 petrol pump, Tekdi Bunglow,","Naupada,",Thane,400602,"8097161089,9833121925",3p,,,y
+5064,Mr.,Kini,Paramanand,S.,834,,,,W,x,,"Mulund Rachana CHSL, 7,","GVS Scheme, Road No.2,",Mulund (E),Mumbai,400081,21635294,ot,,,
+5065,Mr.,Pai,Chandrakant,L.,479,,,,N,,AGCPP1692F-Shailesh,"Kores Nakshatra,203,Punarvasu,","Near Vartak Ngr,","Off Pokhran Rd No.1,",Thane,400606,"9820307115,9820182720",vngr,,,y
+5066,Mr.,Pai,Gopal,S.,480,,,,N,,,"Hycinth, 122,","12th Flr,","Dr Gladys Alvares Road,",Thane,400602,"21731414,9821114579",vvlp,,,
+5067,Mr.,Pai,Jappu,P.,481,,,,N,,,"Brindavan Soc,","Bldg-35A,","Flt-31,",Thane,400601,9987018582,bri,,,y
+5068,Mr.,Subhakar,.,.,918,,,,N,,,"Anandi Mata CHS, A-102,","Kharegaon,",Kalwa (West),Thane,400602,"9820174061,9222106967",kal,n,,
+5069,Mr.,Shenoy,K.,R.,838,,,,W,,,"Srinivas,","Opp Golden Empire Apt,","1st Cross, Urva Stores,",Mangalore,575006,~1,ot,,,
+5070,Mr.,Pai,Ramkrishna,Venkatesh,484,,,,N,,,"Kalpataru Tower-B, 203/B,","Near Gaondevi Mandir / Rana Tower,","Station Road, Kalwa (W),",Thane,400605,"9870190506,8652456006,9619150362",kal,,,y
+5071,Mr.,Pai,Ramdas,M.,485,,,,N,,,"Pride Park, Ochna, B-803,","Opp Lawkim,","Off Ghodbunder Road,",Thane,400607,"25890821,~1",gb,,,
+5072,Ms.,Pai,Vatsala,Vasudev,219,,,,N,x,,"Sanskar Tower, 302,","Dharamveer Marg,","Panchpakhadi,",Thane,400602,~x,pp,,,
+5073,.,GSB INSTITUTIONS,EMAIL IDs,,4,,,,I,,,emails of GSB Institutions,,,,,~1,.,n,,y
+5074,Mr.,Pai,T.,Vitthaldas,488,,,,N,,,"Swaroop Enclave, B-001,",Bhakti Mandir,"Rd,",Thane,400602,"9833141885,9920247661",dam,,,
+5075,Ms.,Pai,Geeta,K.V.,489,,,,N,,,"Brindavan Soc,","Bldg-72B,","Flt-11,",Thane,400601,"25432994,9821176221",bri,,,y
+5076,Mr.,Nayak,Shashidhar,N.,662,,,,N,,,"Bright Star, 501/B2,","Yashaswi Nagar,","Balkum,",Thane,400608,"25371432,~1",mw,,,
+5077,Mr.,Pai,Umesh,S.,491,,,,N,,,"Sangharsh,","12,","Nr Akashganga,",Thane,400601,~1,rab,n,,
+5078,Ms.,Pai,V.,M.,492,,,,N,x,,"Brighton, 303,","Yashaswi Nagar,","Balkum,",Thane,400608,~1,mw,,,
+5079,Dr.,Prabhu,Prabhakar,Anant,940,,,,N,,"AMSPP6420Dprbkr, CFFPS2339Janu","Pranav Prasanna CHS, 303,","Samantwadi, Opp Municipal School,","Uthalsar,",Thane,400601,"9833309018,9930380626anus",cm,,,y
+5080,Mr.,Prabhu,G.,V.,494,,,,N,,,"Amrutraj CHS,","7/2,","Panchpakhadi,",Thane,400602,9892607427,pp,,,
+5081,Mr.,Prabhu,Girish,V.,495,,,,N,,,"Gaganesh CHS,","402,","Mahatma Phule Ngr,",Thane,400606,~1,vngr,n,,
+5082,Mr.,Prabhu,K.,R.,496,,,,N,,,"Brindavan Soc,","Bldg-16A,","Flt-24,",Thane,400601,"9869584339,8779645352",bri,,,
+5083,Ms.,Shenoy,Yogesh,.,497,,,,W,,,"Kankubai Niwas, R.No.34,4 Flr,","Karve Road,","Nr Bhagshala Maidan,",Dombivli (W),421202,"9322418262,9323608049",ot,,,
+5084,Mr.,Prabhu,N.,P.S.,498,,,,N,,,"Raheja Garden,Carlyle,1201&02,","Opp.Tip Top Plaza,","LBS Marg,",Thane,400604,"25827848,~1",dam,,,
+5085,Ms.,Samsi,Rakhee,Sandeep,740,,,,N,,,"Dosti Imperia, Ornata, 301,","Opp R Mall, Ghodbandar Road,","Manpada,",Thane,400610,"9967362975, 9820261707",gb,,,y
+5086,Ms.,Pai,Vinaya,Umesh,954,,,,N,,,"Shinde CHS, Room-2,","Behind Koparkar's Office, Village Road,","Bhandup (W),",Mumbai,400078,9870247980,ot,,,
+5087,Mr.,Prabhu,Diwakar,P.,501,,,,N,,AAIPD5160A asha,"Maitri Garden,Lily,","402, Nr Oswal Park,","Pokhran Road No.2,",Thane,400601,"9819221790,9920114653",vvlp,,,y
+5088,Mr.,Prabhu,R.,G.,502,,,,N,,,"SaiDarshan,202,","Rd.No.27,","Shanti Ngr,",Thane,400604,~1,wag,,,
+5089,Mr.,Nayak,Gurudutt,.,955,,,,N,,,"Kores Nakshatra,204,Punarvasu,","Near Vartak Ngr,","Off Pokhran Rd No.1,",Thane,400606,~1,vngr,,,
+5090,Mr.,Prabhu,Srikant,G.,504,,,,N,,,"Vasant Leela, Ankoor, 9-404,","Off GB Road,Waghbil,","Kasarvadavli,",Thane,400601,~1,gb,n,,
+5091,Mr.,Nayak,Vishwanath,B,960,,,,N,,,"Govind Naik Chawl, Room#4,","S.V.Road, Ovari Pada,","Dahisar (E),",Mumbai,400068,"9224428355,8879291346",ot,,,
+5094,Mr.,Rao,Ganesh,Nalkur,508,,,,N,,,"Padmashree,","7/8,","Nr Chandiwala Complex,",Thane,400601,"9819532265,9594073509",chr,,,y
+5095,Mr.,Rao,S.,P.,509,,,,N,,,"Akash Ganga,","Poorva, 23,","2nd Rabodi,",Thane,400601,~1,rab,n,,
+5096,Mr.,Shanbhag,A.,V.,510,,,,N,,,"Pravin Niwas,22,2nd Flr,","Rd No.27,","Shanti Ngr,",Thane,400604,~1,wag,,,
+5097,Mr.,Shanbhag,R.,V.,511,,,,N,,,"Philominna House,","Padwal Ngr,","Kisan Ngr No.2,",Thane,400604,~1,wag,n,,
+5101,Mr.,Shenoy,Kishore,B.,515,,,,N,,,"Surya Enclave,","1/204,","Nr Tulsidham,",Thane,400607,~1,vvlp,,,
+5102,Mr.,Raykar,Ramchandra,.,516,,,,W,,,"Rane Bhavan, 9,","Opp CanaraBank,","Nr Anand Talkies,","Thane(E),",400603,"25320186,9820721203",kop,,,
+5103,Mr.,Hegde,Venkatesh,K.,73,,,,N,,,"Neelkanth Valley,","A-2/103,","Dhokali,",Thane,400607,"25893333,8169085466",mw,,,y
+5104,Mr.,Shanbhag,P.,R.,343,,,,N,,,"Minal Chaya CHS, 12, 2nd Flr,","Almeida Road,Nr Nitin Casting,","Panchpakhadi,",Thane,400601,"25410864,9892691233",pp,,,
+5105,Mr.,Shanbhag,Subhash,L.,519,,,,N,,,"Kanakia Spaces,Vasundhara,","A-202, Opp Lokpuram School,","Dr Gladys Alvarez Rd,",Thane,400610,"9833901352,9869005901,9920189849",vvlp,,,y
+5106,Mr.,Shanbhag,Umesh,Shridhar,520,,,,N,,,"Everest World, Morning Glory, Bldg'6/905,","Opp Bayer India Main Gate,","Kolshet Road,",Thane,400607,9820823457,mw,,,y
+5107,Mr.,Shanbhag,Vaikunt,M.,521,,,,N,,,"Brindavan Soc,Bldg-01B,","Shubh Laxmi CHS,","Nr IOB,",Thane,400601,~1,bri,n,,
+5108,Mr.,Shenoy,Ganesh,S.,522,,,,N,,,"Vijay Nagari, B/6,3Flr,","Off GB Rd, Waghbil,","Kasarvadavli,",Thane,400607,~1,gb,,,
+5109,Mr.,Shenoy,H.,L.,523,,,,N,,,"Nirmit, Plot No.26,","Shree Nagar,","Wagle Estate,",Thane,400604,~1,wag,,,
+5110,Mr.,Shenoy,Milind,G.,524,,,,N,,,"Crescent CHS,","104,","Panchpakhadi,",Thane,400602,"25447565,~1",pp,,,
+5111,Mr.,Baikerikar,Jay,G,859,,,,N,,AARPB0565E,"Krishna Niwas,34, Shop No.5,","Gokhale Road,","Naupada,",Thane,400601,9870900533,nau,,,
+5112,Mr.,Shenoy,Manohar,V.,526,,,,N,,AAKPS6524R,"Brindavan Soc,","Bldg-53,","Flt-A31,",Thane,400601,7710849353,bri,,,y
+5113,Mr.,Shenoy,Madhav,D.,527,,,,N,,,"Sharma Nivas,36,","Rd No.27,","Shanti Ngr,",Thane,400604,"25832186,9819754275",wag,n,,
+5114,Mr.,Shenoy,Uday,.,528,,,,N,,,"Vasant Vihar, Arjun,","78/104,","Pokran Rd No.2,",Thane,400610,9930299915,vvlp,,yk,y
+5116,Mr.,Shenoy,Ramdas,S.,530,,,,N,,,"Satnam Paradise,","22/502,","Nr Tulsidham,",Thane,400607,9222286041,vvlp,,,
+5117,Mr.,Shenoy,Ravindra,R.,531,,,,N,,,"Surya Enclave,","2/302,","Nr Tulsidham,",Thane,400607,"25894002,~1",vvlp,,,
+5118,Mr.,Shenoy,Raghuveer,Vittal,532,,,,N,,AACPS0628N,"Horizon Shloka,603,","Dr Ambedkar Road,","Mulund W,","Mumbai,",400080,"9820417166,9892041816",ot,,,y
+5119,Mr.,Shenoy,Radhakrishna,Someshwar,533,,,y,N,,AALPS7170G*6089-5237-5078*12-11-64,"Siddhachal Elite Ph-VIIA CHSL, 1B/203,","Nr Vasant Vihar,","Pokran Rd No.2,",Thane,400610,"9820054438,9449905721,9969105063",vvlp,,,y
+5120,Mr.,Shenoy,Taranath,V.,534,,,,N,,,"Panchashray Bldg, 2, 1st Flr,","Rd No.16, 1 flr,","Kisan Ngr-3,",Thane,400604,9920596635,wag,,,
+5122,Mr.,Pai,K.,Manjunath,536,,,,N,,,"Navyug Soc, 17, Ganga,","Vishnunagar,","Naupada,",Thane,400602,9969739287,nau,n,,y
+5123,Mr.,Bhandary,A.,R.,826,,,,W,,AAHFA4164P,"F/49, APMC Market Complex,","Phase II, Sector 19,",Vashi,Navi Mumbai,.,"9892539595,9321539595,9448125156,9343625156",ot,,,y
+5124,Mr.,Telang,M.,B.,538,,,,N,,,"Sucheta CHS, B/5,","Patilwadi,","Panchpakhadi,",Thane,400601,9820063727,chr,,,
+5125,Mr.,Wagh,Deepak,M.,539,,,,N,,,"Devayani CHS, 12,","Baji Prabhu Desphande Rd,","Naupada,",Thane,400602,~1,nau,,,
+5127,Mr.,Padiyar,Vaman,S.,541,,,,W,,,"New Shrenik CHS, Bldg-6,","Ashok Nagar,","Nr Mehul Cinema, Mulund,",Mumbai,400080,"25612798,9833681006",ot,,,
+5129,Mr.,Bhat,Suresh,.,28,,,,N,x,,"Shantiniketan,","E-2,","Kopri,",Thane(E),400603,~1,kop,,,
+5130,Ms.,Hegde,Shobha,B.,76,,,,N,x,,"Monica Apt, 303,","Opp Gurukul Soc,","Panchpakhadi,",Thane,400601,25368039,pp,,,
+5131,Ms.,Shanbhag,M.,R.,330,,,,N,,,"Bharat Mahal, 13,","Nr Fire Brigade,","Kopri,",Thane(E),400603,"25407872,~1",kop,,,
+5132,Mr.,Pai,Vivek,.,621,,,,N,,,"Wimbledon Park, Bldg.4/704,","Opp JK School,Pokran Rd.No.1,","Vartak Ngr,",Thane,400606,"25400114,~1",vngr,,,
+5133,Mr.,Mallya,Rajesh,.,603,,,,N,,,"Agnes House, B-12,",Savarkar,"Ngr,",Thane,400606,~1,vngr,n,,
+5134,Ms.,Kamath,Sharada,Vithoba,95,,,,N,x,,"Srirang Soc,Unit-25,H2, E/38,","B-Wing, 3rd Floor,","Opp Vrindavan Bus Stop,",Thane,400601,"9820472224,9869429924",bri,,yk,y
+5136,Mr.,Kamath,B.,D.,146,,,,N,,,"Orchids,Sunflower,","63,","Majiwada,",Thane,400601,"65225250,~1",mw,,,
+5137,Mr.,Pai,K.,K.,592,,,,N,,BCBPP0698D-pratik,"Hiranandani Estate, Waldrof, 304,","Off Ghodbunder Road,","Patlipada,",Thane,400607,"9821687863,9619024791purnima",gb,,,
+5138,Ms.,Rao,N.,R.,508,,,,N,x,,"Padmashree,","7/8,","Nr Chandiwala Complex,",Thane,400601,"9819532265,9594073509",chr,,,y
+5139,Mr.,Desai,Aravind,G.,44,,,,N,,,"Kores Twr, Anand, 704,","Pokhran Rd-1,","Vartak Ngr,",Thane,400606,"55994788,~1",vngr,n,,
+5140,Mr.,Shetty,Vithal,(SriVaishnaviSilk),594,,,,W,,,"Sri Vaishnavi Silks, Nav-Omkar","Nr.SES School,","Panchpakhadi,",Thane,400602,25401066,pp,n,,
+5141,Mr.,Shanbhag,Manjunath,R.,602,,,,N,,,"Neelambari, 202,","Govind Bachi Rd, Opp 3D Corner,","Nr Dr Kumbla Hosp, Charai,",Thane,400601,"9833678568,9004230222,9167723344",chr,,,y
+5142,Mr.,Revankar,Santosh,.,598,,,,N,,,"Kamlesh Soc,","A/2-8,","Kopri,",Thane(E),400603,"25321049,~1",kop,,,
+5144,Mr.,Pai,S.,V.,604,,,,N,,,"Shantiniketan,","B-3,","Kopri,","Thane(E),",400603,9870571139,kop,,,
+5146,Ms.,Tristar,International,.,606,,,,W,,,"Kripam House, Plot No.A-158,","Road No.25, Opp Unique Pharma & Hallmark Honda,","Wagle Estate,",Thane,400604,"41266000,25856624,9892373573",wag,,,y
+5147,Mr.,Nayak,Ashok,Ramchandra,325,,,,N,,,"Radhika Apt, 106,","1st Flr,","Khopat,",Thane,400601,25391656,kol,n,,
+5148,Mr.,Mohan,R.,.,607,,,,N,,,"Kashish Park,M-8/19, 4th Flr,","Nr Mulund Check Naka, Nr Tip Top Plaza,","LBS Marg,",Thane,400604,~1,dam,n,,
+5149,Mr.,Kamath,M.,L.,610,,,,N,,,"Wimbledon Park, Bldg-3/401,","Opp JK School,Pokran Rd.No.1,","Vartak Ngr,",Thane,400606,55922047,vngr,n,,
+5150,Ms.,Prabhu,Ravikala,V.,612,,,,N,,AFMPP4738D-ravikala AACCA4127F-ameyPra,"Mid Town Plaza, Shop No.5,","Near Mulund Check Naka,","Shivaji Nagar,",Thane,400604,9892231125;9820031874,vngr,,,y
+5151,Mr.,Shanbhag,Viren,B.,614,,,,N,,AJNPP7674D-milind,"Srirang Soc,","E-81,","Blk-8,",Thane,400601,"9820845228,9920396012",bri,,,y
+5152,Ms.,Super Traders,.,.,616,,,,W,,,Opp.Naupada,Police,"Station,",Thane,400602,25423701,nau,n,,
+5153,Ms.,Sec Auto Controls PL,Prop Vivek Chavan,.,617,,,,W,,AALPC5403C,"Abhiruchi CHS,","64/3169,","Vartak Nagar,",Thane,400606,"25374679,~eml",vngr,,,y
+5154,Mr.,Shenoy,Manoj,D,615,,,,N,,,"Tulsi Dham,","15/104,","Ghodbunder Road,",Thane,400607,"55998187,~1",vvlp,,,
+5156,Mr.,Kamath,Radhakrishna,G.,620,,,,N,,,"White House CHS,B/208,","Mumbai-Pune Rd,","Kalwa(W),",Thane,400605,"25378854,9833850674",kal,,,
+5157,Mr.,Kantak,Harish,Vasant,89,,,,N,,,"Shilpali CHS,","Opp Laxman Nagar,","Nr.Aradhana Cinema,Panchpakhadi,",Thane,400602,25369452,3p,n,,
+5158,Mr.,Vadhyar,Rajeev,N.,624,,,,N,,,"Vasant Leela, Pushpak,303,","Off GB Road,Waghbil,","Kasarvadavli,",Thane,400601,~1,gb,n,,
+5159,Mr.,Pai,Dattatray,Ramchandra,656,,,,N,,,"Sri Krishna Dairy/Gen Store,","Opp Saraswati School, MG Cross Road,","Bhaskar Colony,Naupada,",Thane,400602,9819206359,nau,n,,
+5161,Mr.,Bhat,Vivekanand,.,627,,,,N,,,"Vijay Park, 9/303,","Ghodbunder Road,","Ghodbunder Road,",Thane,400601,25970062,gb,n,,
+5162,Mr.,Nayak,Mohan,.,628,,,,N,,,"Raheja Cmplx,Shivsmrithi,","1-B/G6/331,","Balkum,",Thane,400608,"5383759,~1",mw,,,
+5164,Mr.,Pai,Sitaram,.,630,,,,N,,,"Tulsi Dham,Trinity,","2/303,","Ghodbunder Road,",Thane,400607,55980260,vvlp,n,,
+5165,.,GSB,Seva Mandal,Sion,640,,,,I,,,"Sri Guru Ganesh Prasad,","Bhukailash Nagar,","Behind Sion Fort, Sion(E),",Mumbai,400022,"24078147,24078226",Inst,,,
+5166,.,GSB,Sabha,Kurla,641,,,,I,,,"Rangmantap, 607,","Balaji Mandir Road,","Kurla(W),",Mumbai,400070,"26501322,32430796",Inst,,,
+5167,.,GSB,Sabha,Mulund,642,,,,I,,,"Chandanbala CHS, B-17,","Murar Road,","Mulund(W),",Mumbai,400080,25905914,Inst,,,
+5168,.,GSB,Seva Mandal,Kalwa,643,,,,I,,,"Community Hall, Ground Floor,","Rana Towers,ChinchPada,","Kalwa,",Thane,400605,~1,Inst,,,
+5169,.,GSB,Samaj,Goregaon,644,,,,I,,,"Pargava, 102,","S.V.Road, Near Patkar College,","Goregaon,",Mumbai,400062,~1,Inst,,,
+5170,.,GSB,Sabha,Dahisar,645,,,,I,,,"Shakti Nagar, Bldg.No.23,Room","1&2, Grd.Flr., Ch.Shivaji","Complex, Road No.6, Dahisar (E),",Mumbai,400068,"40144673,28917673",Inst,,,
+5171,.,GSB,Sabha,Bhayandar,646,,,,I,,,"Oswal Park, C-312,Bldg.No.5,","Opp.Jessal Park,","Station Road,","Bhayandar(E),",401105,~1,Inst,,,
+5172,.,GSB,Seva Sangh,Vasai,647,,,,I,,,Sri Sukrateendra Kala,"Mandir,","Parnaka,",Vasai,401201,~1,Inst,,,
+5173,.,GSB,Seva Mandal,Virar,648,,,,I,,,"Gokul Heritage (Agarwal Garden) CHSL,","C-2,","Gokul Heritage,",Virar (West),401303,~1,Inst,,,
+5174,.,GSB,Sabha,Matunga,649,,,,I,,,"Shree Nidhi CHS, 101,","Opp Bank of Baroda, 76,","Bhaudaji Road, Matunga,",Mumbai,400019,24160394,Inst,,,
+5175,.,GSB,Mandal,Dombivli,650,,,,I,,,"Patil Bhoir Apt,","3rd Flr,","Nr.Municipal Office,",Dombivli(E),421201,~1,Inst,,,
+5176,.,GSB,Sabha,Vashi,651,,,,I,,,"Sri Laxmi Venkatesh Temple,","Sector No.10-A,","Plot No.19 & 19A, Vashi,",NaviMumbai,400703,~1,Inst,,,
+5177,.,Gowd Saraswat,Brahman,Pratishthan,652,,,,I,,,"SaiAshirwad Apt,","C/o.C-101,","Shanti Park,",Nallasopara(W),401203,~1,Inst,,,
+5178,.,Walkeshwar,Sri Kashi,Math,653,,,,I,,,"Banganga Road,","85,","Walkeshwar,",Mumbai,400006,23622903,Inst,,,
+5179,.,Dahisar,Sri Kashi,Math,654,,,,I,,,"Sudhindra Nagar,","317-B,","Dahisar (E),",Mumbai,400068,"28484333,28484926",Inst,,,
+5180,.,Sri,Ram,Mandir,655,,,,I,,,"Dwarkanath Bhavan,","Katrak Road,","Wadala,",Mumbai,400031,24121535,Inst,,,
+5181,Dr.,Nayak-Patni,Manjula,.,591,,,,W,,ACMPN9826H,"One Hiranandani Park, Clifton, 401,","Patlipada, GB Road,","Nr Mercedes Showroom,",Thane,400607,"9821524902,9833021105",gb,,,y
+5182,Mr.,Kamath,Prakash,M,657,,,,N,,,"Blue Nile CHS,A/18,","Opp SES High School,Tekdi Bunglow,","Panchpakhadi,",Thane,400602,"9819784935,9987308305",pp,,,y
+5183,Mr.,Kamath,Sunil,Govinda,658,,,,N,,AGCPK4867D,"Vasant Vihar, Palash-Bldg20, 501,","Opp Prachi Hosp,","Off Pokhran Road-2, Thane",Thane,400610,9820515449,vvlp,,,y
+5184,Mr.,Nayak,Vidyadhar,Laxmish,659,,,,N,,,"Hiranandani Estate,","Rosa Royale, B-1503,Opp Crown Bldg,","Off Ghodbunder Road, Patlipada,",Thane,400615,9987042321,gb,,,
+5185,Mr.,Bhandarkar,V.,K.,663,,,,N,,,"Paridhi Apt,","104,","Kolbad Road,",Thane,400601,25473715,kol,n,,
+5186,Dr.,Kamath,K.,J.,664,,,,N,,,"Sri Krishna Apt, 202,","Pipeline Road,","Louiswadi,",Thane,400604,"25827907,25820341",lw,n,,
+5188,.,Sri Laxmi,Venkatramana,Temple,626,,,,I,,,"Laxmi Market Compound,","Pokhran Road No.1,","Vartak Nagar,",Thane,400606,~1,Inst,n,,
+5190,Mr.,Desai,Vidyadhar,S.,680,,,,N,,,"Maitri Heights, 602,","Opp Jawahar Jyoti Soc,","Louiswadi,",Thane,400604,~1,lw,,,
+5191,Mr.,Prabhu,G.,V.,254,,,,N,,,"New Anand Park, A1/203,","Raghunath Nagar,","M S Road,",Thane,400604,"9324400946,25826065",dam,,,y
+5192,Mr.,Shanbhag,Gajanan,Waman,517,,,,N,,,"Prestige Garden, Ambience,302,","Nr.Nitin Company,","Panchpakhadi,",Thane,400601,25381213,pp,n,,
+5193,Ms.,Pai,Mohini,V,666,,,,N,,,"Maitri Garden,Marigold,","104, Nr Oswal Park,","Pokhran Road No.2,",Thane,400601,"9833422144,9819917877",vvlp,,,y
+9651,Mr.,Pai,Ramesh,K,237,10/17/2008,0304/7598,,P,,,"Buddhadev Vihar CHS, C-5,102","Nr Hill Garden,","Tikujiniwadi,Chitalsar,Manpada,",Thane,400610,"9820271671,9637864979",vvlp,,,y
